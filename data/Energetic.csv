@@ -1,0 +1,301 @@
+mood,name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature
+Energetic,Ric Flair Drip (with Metro Boomin),Without Warning,21 Savage,7sO5G9EABYOXQKNPNiE9NR,2017-10-30,82,172800,0.88,0.149,0.428,5.05e-05,0.114,0.333,-8.28,0.206,100.007,9,4
+Energetic,Faucet Failure,STOKELEY,Ski Mask The Slump God,1ThmUihH9dF8EV08ku5AXN,2018-11-30,76,145626,0.935,0.111,0.552,0.0,0.0952,0.615,-9.373,0.335,99.993,10,4
+Energetic,Yes Indeed,Harder Than Ever,Lil Baby,6vN77lE9LK6HP2DewaN6HZ,2018-05-18,81,142273,0.963,0.0355,0.346,0.0,0.108,0.562,-9.309,0.53,119.957,5,4
+Energetic,Swervin (feat. 6ix9ine),Hoodie SZN,A Boogie Wit da Hoodie,1wJRveJZLSb1rjhnUHQiv6,2018-12-21,76,189486,0.581,0.0153,0.662,0.0,0.111,0.434,-5.239,0.303,93.023,9,4
+Energetic,Look At Me!,Look At Me!,XXXTENTACION,7floNISpH8VF4z4459Qo18,2017-02-20,83,126345,0.763,0.259,0.726,0.0,0.0976,0.349,-6.405,0.282,139.059,1,4
+Energetic,Slippery (feat. Gucci Mane),Culture,Migos,6p8NuHm8uCGnn2Dtbtf7zE,2017-04-07,44,304041,0.92,0.307,0.675,0.0,0.104,0.749,-5.661,0.263,141.967,1,4
+Energetic,Take A Step Back,You Will Regret (Reloaded),Ski Mask The Slump God,2gQYziDV5cSTRSqr6akzi5,2018-02-02,75,210386,0.8,0.111,0.591,0.0,0.429,0.747,-8.808,0.271,117.003,6,4
+Energetic,Drip Too Hard (Lil Baby & Gunna),Drip Harder,Lil Baby,78QR3Wp35dqAhFEc2qAGjE,2018-10-05,82,145542,0.897,0.0852,0.662,0.0,0.534,0.389,-6.903,0.292,112.511,1,4
+Energetic,X (feat. Future),Savage Mode,21 Savage,6fwdbPMwP1zVStm8FybmkO,2016-07-15,72,258880,0.835,0.373,0.413,0.00133,0.101,0.111,-9.81,0.396,149.004,1,4
+Energetic,Taste (feat. Offset),Legendary,Tyga,2toVe5hfuIi97ytDPDbQFt,2019-06-07,73,229210,0.866,0.0293,0.613,0.0,0.104,0.359,-6.385,0.151,98.001,0,4
+Energetic,Nonstop,Scorpion,Drake,0TlLq3lA83rQOYtrqBqSct,2018-06-29,79,238614,0.912,0.0165,0.412,0.0126,0.104,0.423,-8.074,0.123,154.983,7,4
+Energetic,No Heart,Savage Mode,21 Savage,4gmmRb6bZJffOOiww1JGTO,2016-07-15,73,235040,0.906,0.136,0.444,6.44e-05,0.173,0.678,-8.692,0.384,140.063,4,4
+Energetic,The London (feat. J. Cole & Travis Scott),So Much Fun,Young Thug,3s4mrPrEFFPF0LmAfutW0n,2019-08-16,69,200186,0.784,0.0249,0.517,1.44e-06,0.155,0.206,-8.981,0.209,97.991,4,4
+Energetic,Money In The Grave (Drake ft. Rick Ross),The Best In The World Pack,Drake,5ry2OE6R2zPQFDO85XkgRb,2019-06-15,78,205426,0.831,0.101,0.502,0.0,0.122,0.101,-4.045,0.046,100.541,10,4
+Energetic,Lonely,Married to the Money II #Mttm2,Speaker Knockerz,0dbZ2iUuKvsm3FupBw6M9N,2014-09-02,64,186613,0.802,0.126,0.582,0.0,0.161,0.338,-7.296,0.235,150.002,1,4
+Energetic,Going Bad (feat. Drake),Championships,Meek Mill,2IRZnDFmlqMuOrYOLnZZyc,2018-11-30,80,180522,0.889,0.259,0.496,0.0,0.252,0.544,-6.365,0.0905,86.003,4,4
+Energetic,SICKO MODE,ASTROWORLD,Travis Scott,2xLMifQCjDGFmkHkpNLD9h,2018-08-03,83,312820,0.834,0.00513,0.73,0.0,0.124,0.446,-3.714,0.222,155.008,8,4
+Energetic,Pure Water (with Migos),Perfect Ten,Mustard,3j84U36KvLeXNDPv4t5pI8,2019-06-28,76,192470,0.682,0.174,0.559,0.0,0.344,0.137,-5.545,0.127,202.015,0,4
+Energetic,Bank Account,Issa Album,21 Savage,2fQrGHiQOvpL9UgPvtYy6G,2017-09-23,51,220306,0.884,0.015,0.347,7e-06,0.0871,0.376,-8.227,0.35,75.016,8,4
+Energetic,Praise The Lord (Da Shine) (feat. Skepta),TESTING,A$AP Rocky,7ycWLEP1GsNjVvcjawXz3z,2018-05-25,82,205040,0.854,0.0609,0.569,0.0816,0.1,0.294,-8.151,0.106,80.015,5,4
+Energetic,Suge,Baby On Baby,DaBaby,2gwkD6igEhQbDQegRCcdoB,2019-03-01,73,163320,0.876,0.0608,0.662,0.0,0.127,0.844,-6.482,0.426,75.445,2,4
+Energetic,ZEZE (feat. Travis Scott & Offset),Dying to Live,Kodak Black,0FZ4Dmg8jJJAPJnvBIzD9z,2018-12-14,78,228759,0.861,0.0521,0.603,0.0,0.0924,0.504,-5.788,0.176,98.043,8,4
+Energetic,Splashin,The World Is Yours 2,Rich The Kid,3KLo7ByvjCNyBrfz5DZ2mO,2019-03-22,64,177864,0.942,0.00192,0.382,0.0,0.092,0.379,-8.099,0.564,100.017,10,4
+Energetic,XO Tour Llif3,Luv Is Rage 2,Lil Uzi Vert,7GX5flRQZVHRAGd6B4TmDO,2017-08-25,83,182706,0.732,0.00264,0.75,0.0,0.109,0.401,-6.366,0.231,155.096,11,4
+Energetic,Sanguine Paradise,Sanguine Paradise,Lil Uzi Vert,3XiNC94b4Tq1xwv70sQJGN,2019-04-09,73,243976,0.729,0.0948,0.603,0.0,0.113,0.207,-6.736,0.0666,134.972,6,4
+Energetic,Goin Baby,Baby On Baby,DaBaby,3WyRgi8CzQnhzO0xw79tTS,2019-03-01,65,141826,0.755,0.128,0.772,0.0,0.157,0.678,-5.585,0.4,132.906,6,4
+Energetic,Noticed,Northsbest (Extended),Lil Mosey,7zLYKWcXnYeHHWidalz7rj,2018-10-19,75,165000,0.699,0.462,0.558,0.0,0.116,0.493,-7.622,0.0603,79.992,11,4
+Energetic,The Box,Please Excuse Me for Being Antisocial,Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,2019-12-06,81,196652,0.896,0.104,0.586,0.0,0.79,0.642,-6.687,0.0559,116.971,10,4
+Energetic,Shotta Flow (feat. Blueface) [Remix],Cottonwood,NLE Choppa,5BJMeoCXXgbRAWfp6fTulr,2019-12-23,71,176631,0.894,0.0251,0.511,0.0,0.14,0.567,-4.768,0.421,120.077,2,4
+Energetic,Baby Sitter (feat. Offset),Baby On Baby,DaBaby,7f1zjZG77S891Uv4O68yfk,2019-03-01,65,157693,0.852,0.0219,0.73,0.0,0.336,0.394,-5.803,0.0579,92.506,1,4
+Energetic,Camelot,Camelot,NLE Choppa,4sWuPniHClkInYAnzXAYUF,2019-09-13,71,148759,0.787,0.0849,0.713,0.0,0.717,0.761,-5.252,0.401,175.046,7,4
+Energetic,That's a Rack,That's a Rack,Lil Uzi Vert,4pCEIQ6wBVuaJdER5bALtO,2019-04-09,61,236571,0.852,0.0599,0.432,0.0,0.146,0.258,-8.04,0.501,140.042,1,4
+Energetic,Envy Me,Wildboy,Calboy,7rvyVWja33WG9R97oeJAjx,2019-05-31,71,120133,0.74,0.234,0.488,0.0,0.241,0.584,-7.664,0.27,149.042,1,4
+Energetic,Baby (Lil Baby feat. DaBaby),Quality Control: Control The Streets Volume 2,Quality Control,5MPPttjfGap2C6j6eKcO6J,2019-08-16,73,142417,0.97,0.0957,0.463,0.0,0.151,0.46,-7.259,0.366,108.003,10,4
+Energetic,CAPO,CAPO,NLE Choppa,1KjQPDJQCUuqDj3AmfSBCa,2019-03-22,73,192200,0.617,0.119,0.953,0.0,0.331,0.594,-4.162,0.0693,154.964,2,4
+Energetic,Paramedic!,Black Panther The Album Music From And Inspired By,Kendrick Lamar,2tPcTFiQF9MbVUyjZ3zDhA,2018-02-09,67,219306,0.856,0.177,0.652,0.0,0.193,0.471,-5.324,0.143,97.017,1,4
+Energetic,Commercial (feat. Lil Uzi Vert),My Turn,Lil Baby,3tDqEKKUs6gf8zMvSuLyLA,2020-02-28,68,214214,0.892,0.048,0.486,0.0,0.146,0.535,-8.637,0.384,120.998,11,4
+Energetic,Sum 2 Prove,My Turn,Lil Baby,5f4Hy5mw5SRaUgXX9c6P5S,2020-02-28,71,205760,0.827,0.0169,0.552,0.0,0.122,0.408,-7.571,0.274,124.011,4,4
+Energetic,No Sucker (feat. Moneybagg Yo),My Turn,Lil Baby,6A9wHAasMxed0firnDao1K,2020-02-28,63,188606,0.9,0.025,0.846,0.0,0.204,0.851,-4.884,0.224,129.966,0,4
+Energetic,Woah,My Turn,Lil Baby,02RCbjb9czvQKNGBmEmWob,2020-02-28,65,183011,0.883,0.0177,0.599,0.0,0.179,0.413,-5.551,0.248,142.976,11,4
+Energetic,Get Ugly,My Turn,Lil Baby,20Yz5dzjdTCVjXte9KrJbi,2020-02-28,54,155832,0.681,0.177,0.414,0.0,0.178,0.0734,-6.944,0.223,148.03,1,4
+Energetic,How,My Turn,Lil Baby,2b7rt5gCEy2p2zTp656s4U,2020-02-28,54,181999,0.582,0.00168,0.488,0.0,0.0941,0.309,-8.208,0.455,80.322,2,4
+Energetic,Solid,My Turn,Lil Baby,3Zb5xLEfPAyqvjHzCVOSXX,2020-02-28,50,185853,0.825,0.0166,0.589,1.53e-06,0.135,0.339,-6.875,0.451,156.037,10,4
+Energetic,Forget That (feat. Rylo Rodriguez),My Turn,Lil Baby,7wxl36fAGU3Afv87ZblUwg,2020-02-28,54,167171,0.897,0.0498,0.574,6.38e-06,0.122,0.769,-8.017,0.406,150.085,8,4
+Energetic,PTSD,PTSD,G Herbo,3jT2LKH0RSbQ8jIUNFzXm5,2020-02-28,2,232064,0.883,0.0317,0.808,0.0,0.207,0.805,-3.158,0.183,119.012,1,4
+Energetic,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",Victory,DJ Khaled,6u5M4jPpYkoRV4vVHDQvkd,2010-03-02,1,227293,0.549,0.0104,0.791,0.0,0.444,0.292,-3.535,0.133,150.093,10,4
+Energetic,Ballin' (with Roddy Ricch),Perfect Ten,Mustard,3QzAOrNlsabgbMwlZt7TAY,2019-06-28,79,180434,0.809,0.392,0.545,0.0,0.151,0.244,-6.678,0.0735,97.008,7,4
+Energetic,Hot (Remix) [feat. Gunna and Travis Scott],Hot (Remix) [feat. Gunna and Travis Scott],Young Thug,56AMYGJzxBO6p8v0wEe9de,2019-11-01,65,279906,0.845,0.188,0.631,0.0,0.0806,0.545,-8.206,0.216,111.983,7,4
+Energetic,Dior,Meet The Woo,Pop Smoke,79s5XnCN4TJKTVMSmOx8Ep,2019-07-26,83,216386,0.548,0.212,0.805,0.000389,0.408,0.648,-5.732,0.351,142.094,7,4
+Energetic,That Way,That Way,Lil Uzi Vert,5raTDhlbxFDnpn89bxArdH,2020-03-01,64,212354,0.719,0.0582,0.611,0.0,0.155,0.489,-5.01,0.0403,129.962,7,4
+Energetic,I Can Drive,The Perfect LUV Tape,Lil Uzi Vert,5wyrQLBbmKdxY6yLNdienj,2016-08-10,54,153808,0.759,0.0811,0.489,0.0,0.149,0.346,-9.141,0.321,138.98,1,4
+Energetic,All My Chains,Luv Is Rage,Lil Uzi Vert,2DynJ2cNsW35sTJCaRcb70,2015-12-18,48,208695,0.794,0.119,0.715,0.0,0.0838,0.327,-5.531,0.122,138.028,6,4
+Energetic,Enemies,Luv Is Rage,Lil Uzi Vert,2p2DLGuXtnLLClzpmKkyCx,2015-12-18,55,248174,0.626,0.244,0.77,0.0,0.229,0.478,-6.368,0.25,155.738,2,4
+Energetic,Canadian Goose,Lil Uzi Vert vs. The World,Lil Uzi Vert,1MNdfH2KC5LdEde3JPJ513,2016-05-27,58,218200,0.776,0.0855,0.537,0.0,0.103,0.238,-7.604,0.197,153.06,1,4
+Energetic,Hi Roller,Lil Uzi Vert vs. The World,Lil Uzi Vert,69M9QCMsCQ5MLsw7BBW0rL,2016-05-27,57,276349,0.8,0.0307,0.562,0.0,0.243,0.147,-7.366,0.0961,132.081,2,4
+Energetic,Go Stupid (feat. NLE Choppa & Mike WiLL Made-It),Go Stupid (feat. NLE Choppa & Mike WiLL Made-It),Polo G,74fV8TuLZKVzSIOOGu8wwI,2020-02-14,55,165726,0.92,0.0277,0.833,0.0,0.0596,0.645,-3.18,0.253,141.034,1,4
+Energetic,Broke In A Minute,Broke In A Minute,Tory Lanez,2ZrAjMSmlbDIil0JaVgTHh,2020-02-07,0,132023,0.929,0.144,0.7,0.0,0.349,0.802,-5.595,0.0906,120.009,0,4
+Energetic,Peta (feat. Meek Mill),Please Excuse Me for Being Antisocial,Roddy Ricch,4bl1HBZliBuYpFZjWgefE4,2019-12-06,62,198848,0.778,0.015,0.573,0.0,0.464,0.269,-7.339,0.251,140.114,10,4
+Energetic,"Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",Artist 2.0,A Boogie Wit da Hoodie,733c1CWmIGymoQXdp7Us88,2020-02-14,66,188563,0.819,0.517,0.654,0.0,0.0996,0.455,-6.665,0.136,133.503,11,4
+Energetic,Diva (feat. Lil Tecca),Diva (feat. Lil Tecca),The Kid LAROI,7gVwgc8b3XnO87TpmXXFA5,2020-01-31,73,172004,0.686,0.00728,0.703,0.0,0.0946,0.457,-6.141,0.0606,144.902,6,4
+Energetic,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix","Life Is Good (feat. Drake, DaBaby & Lil Baby) [Remix]",Future,4iiWcajF1fEUpwcUewc464,2020-02-15,59,315346,0.81,0.107,0.566,0.0,0.122,0.582,-8.33,0.433,142.069,5,4
+Energetic,BOP,KIRK,DaBaby,6Ozh9Ok6h4Oi1wUSLtBseN,2019-09-27,77,159714,0.769,0.189,0.787,0.0,0.129,0.836,-3.909,0.367,126.77,11,4
+Energetic,Famous Hoes,Famous Hoes,NLE Choppa,35Xf2ABjPzUXKz19akd7Jj,2019-12-10,63,135460,0.732,0.346,0.627,0.0,0.261,0.332,-5.693,0.161,81.481,4,4
+Energetic,Fine By Time,"Still Flexin, Still Steppin",YoungBoy Never Broke Again,0KVEBQA98JvkmB5ZydQ13k,2020-02-21,56,175339,0.506,0.254,0.787,0.0,0.112,0.333,-6.634,0.161,99.956,8,4
+Energetic,Exotic,Exotic,NLE Choppa,2WpSRYU2BFZpDFpbiOQjVL,2020-02-07,49,165758,0.533,0.0447,0.59,0.0,0.0806,0.376,-8.333,0.233,104.97,10,4
+Energetic,Godzilla (feat. Juice WRLD),Music To Be Murdered By,Eminem,7FIWs0pqAYbP91WWM0vlTQ,2020-01-17,84,210800,0.808,0.145,0.745,0.0,0.292,0.829,-5.26,0.342,165.995,10,4
+Energetic,6 Kiss,A Love Letter To You 4,Trippie Redd,7tgjDlQsMR8RvkdlNCJA58,2019-11-22,67,199436,0.687,0.109,0.449,0.0,0.282,0.229,-10.061,0.154,142.048,2,4
+Energetic,Of Course We Ghetto Flowers (feat. Playboi Carti & Offset),The Perfect LUV Tape,Lil Uzi Vert,0gqfvyewE2Sh8TwKBFajCF,2016-08-10,56,261982,0.81,0.2,0.57,0.0,0.111,0.337,-5.604,0.318,136.944,1,4
+Energetic,Original Uzi (4 of Us),The Perfect LUV Tape,Lil Uzi Vert,53iTGmEL4uwHlqUvuKcrQe,2016-08-10,51,166765,0.81,0.0534,0.615,0.0,0.0811,0.596,-8.376,0.284,150.03,10,4
+Energetic,SideLine Watching (Hold Up),The Perfect LUV Tape,Lil Uzi Vert,0VYhxVxH9ijmdHUKsON9Bk,2016-08-10,62,191033,0.747,0.281,0.553,0.0,0.117,0.262,-7.294,0.117,141.888,1,4
+Energetic,Baby Pluto,Eternal Atake,Lil Uzi Vert,7hav1MHURQf5SAoPk0egqh,2020-03-06,68,210261,0.772,0.135,0.634,0.0,0.432,0.671,-6.101,0.212,160.052,10,4
+Energetic,Lo Mein,Eternal Atake,Lil Uzi Vert,6CUP2khYzdphXebxVTfPE3,2020-03-06,67,195299,0.855,0.0888,0.676,0.0,0.144,0.509,-5.736,0.325,133.082,1,4
+Energetic,Silly Watch,Eternal Atake,Lil Uzi Vert,5egD7A5x9AHdVO2fMo3Wbo,2020-03-06,69,195692,0.903,0.0298,0.535,0.0,0.0851,0.157,-6.238,0.286,130.117,8,4
+Energetic,Prices,Eternal Atake,Lil Uzi Vert,4YcWzLSnGqLjSCycuSMHnn,2020-03-06,66,233333,0.786,0.173,0.683,0.0,0.706,0.57,-5.397,0.205,126.002,7,4
+Energetic,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),Lil Yachty,7wsmIIm0xWmtP7TmACXkJn,2020-03-09,64,206702,0.836,0.17,0.617,0.0,0.319,0.866,-4.363,0.0534,138.066,0,4
+Energetic,7 Am Freestyle,Future & Juice WRLD Present... WRLD ON DRUGS,Future,1hHe7cirScEJWgAS0JFqTL,2018-10-19,62,192906,0.951,0.0185,0.401,0.0,0.149,0.539,-8.92,0.411,129.976,0,4
+Energetic,Shotta Flow 3,Shotta Flow 3,NLE Choppa,0OsYwz3SCLD98IvWfdLeRQ,2019-07-23,60,181237,0.724,0.00843,0.716,0.0,0.892,0.812,-5.258,0.385,128.026,8,4
+Energetic,Champions,Champions,Various Artists,3eZGNBvKkExXp8q5FAyM8y,2016-06-10,0,334253,0.696,0.0653,0.774,0.0,0.87,0.33,-2.424,0.084,134.985,6,4
+Energetic,After Party,Heaven Or Hell,Don Toliver,527k23H0A4Q0UJN3vGs0Da,2020-03-13,80,167915,0.629,0.00981,0.692,0.331,0.603,0.453,-8.045,0.0376,162.948,5,4
+Energetic,Spaceship (feat. Sheck Wes),Heaven Or Hell,Don Toliver,0cbO20ZF2lFflZGnNUHhGB,2020-03-13,53,185142,0.724,0.445,0.693,0.0,0.389,0.713,-5.379,0.0798,139.986,7,4
+Energetic,100 Shots,100 Shots,NLE Choppa,1eto1iY3lVWyJhejV6Mi6J,2020-02-28,51,157928,0.832,0.154,0.591,2.75e-05,0.124,0.297,-7.665,0.408,140.081,11,4
+Energetic,Myron,Eternal Atake (Deluxe) - LUV vs. The World 2,Lil Uzi Vert,56uXDJRCuoS7abX3SkzHKQ,2020-03-13,74,224954,0.771,0.055,0.654,0.0,0.214,0.573,-6.976,0.298,155.047,8,4
+Energetic,Bean (Kobe) [feat. Chief Keef],Eternal Atake (Deluxe) - LUV vs. The World 2,Lil Uzi Vert,0IpnZchq8ek2A6pGEP2Qb1,2020-03-13,66,238816,0.733,0.0129,0.567,0.0,0.382,0.319,-6.718,0.319,75.491,0,4
+Energetic,Wassup (feat. Future),Eternal Atake (Deluxe) - LUV vs. The World 2,Lil Uzi Vert,19Ec2gbNtQTE44IizcPjtD,2020-03-13,56,193313,0.762,0.352,0.622,0.0,0.145,0.626,-6.293,0.223,130.019,5,4
+Energetic,Moon Relate,Eternal Atake (Deluxe) - LUV vs. The World 2,Lil Uzi Vert,4sWGHlZGM1XA7TyWdtBAbA,2020-03-13,55,181825,0.867,0.18,0.768,0.0,0.254,0.34,-3.73,0.0791,102.021,7,3
+Energetic,I Can Show You,Eternal Atake (Deluxe) - LUV vs. The World 2,Lil Uzi Vert,0AhJag7VI8uFf3mJFsTwvf,2020-03-13,56,120076,0.817,0.051,0.656,0.0,0.115,0.314,-7.086,0.277,139.915,10,4
+Energetic,Money Spread (feat. Young Nudy),Eternal Atake (Deluxe) - LUV vs. The World 2,Lil Uzi Vert,5tBdxqz8gauIO8Hh8qwo0H,2020-03-13,56,217008,0.778,0.0234,0.618,0.0,0.298,0.212,-6.432,0.219,135.879,1,4
+Energetic,Walk Em Down (feat. Roddy Ricch),Walk Em Down (feat. Roddy Ricch),NLE Choppa,4cSSL3YafYjM3yjgFO1vJg,2020-03-19,72,173288,0.867,0.268,0.744,0.0,0.0713,0.645,-5.171,0.227,84.005,2,4
+Energetic,Want Beef? 2.0,Want Beef? 2.0,YSN Flow,7fxQmoMf84inucOZNzM8iz,2019-07-27,47,162901,0.742,0.459,0.382,0.0,0.338,0.385,-12.062,0.201,119.906,2,4
+Energetic,Ransom (with Juice WRLD) - Remix,We Love You Tecca,Lil Tecca,2WsuSYJNXGKXVYkHPnq2yp,2019-08-30,74,171253,0.684,0.0119,0.671,0.0,0.0769,0.45,-6.424,0.289,179.987,2,4
+Energetic,Havin My Way (feat. Lil Durk),Havin My Way (feat. Lil Durk),Lil Skies,0oH0OIeKJSAT5bdFkbz20A,2020-03-04,0,211653,0.802,0.275,0.737,0.0,0.113,0.712,-4.862,0.0757,127.013,6,4
+Energetic,Trap This Way (This Way),Eternal Atake (Deluxe) - LUV vs. The World 2,Lil Uzi Vert,7vTspUAmMKFkUpKL9HLZNL,2020-03-13,57,185438,0.71,0.248,0.586,0.0,0.193,0.207,-5.331,0.381,175.987,2,4
+Energetic,Anti Freestyle,Fake Famous,Mozzy,5QZSe7KFXY6uRhyL4H5ez4,2017-01-26,40,211043,0.819,0.414,0.876,0.0,0.126,0.78,-3.5,0.304,90.991,7,4
+Energetic,FIND MY WAY,FIND MY WAY,DaBaby,1lGHa2pwYzxQHFBUynhLtO,2020-04-01,0,139890,0.836,0.187,0.624,0.0,0.138,0.7,-6.75,0.184,103.0,4,4
+Energetic,Toosie Slide,Toosie Slide,Drake,127QTOFJsJQp5LbJbu3A1y,2020-04-03,75,247058,0.834,0.321,0.454,6.15e-06,0.114,0.837,-9.75,0.201,81.618,1,4
+Energetic,SHUT UP,SHUT UP,DaBaby,3ekxXNSH4mgUnMprSnopls,2020-02-06,52,170192,0.871,0.203,0.555,0.0,0.118,0.248,-5.968,0.248,129.973,1,4
+Energetic,Pony,Baby On Baby,DaBaby,0SsTkfOhM7e87trwjEqBQN,2019-03-01,53,204573,0.92,0.102,0.622,0.0,0.35,0.815,-6.388,0.246,119.962,9,4
+Energetic,Graffiti,AI YoungBoy,YoungBoy Never Broke Again,6oLANSb6vq2T5tIg92FxCW,2017-08-04,60,206398,0.589,0.168,0.706,0.0,0.116,0.335,-5.876,0.088,140.1,5,4
+Energetic,Untouchable,Untouchable,YoungBoy Never Broke Again,4MofYf0f4ijlVV6elUW5S3,2017-05-31,0,180705,0.78,0.0447,0.784,0.0,0.122,0.43,-5.039,0.186,85.023,1,4
+Energetic,"Turn Down for What (feat. Juicy J, 2 Chainz & French Montana) - Official Remix","Turn Down for What (feat. Juicy J, 2 Chainz & French Montana) [Official Remix]",DJ Snake,6h5yOjQNDaLZ0rW2OGoXTB,2014-05-19,52,225560,0.822,0.00652,0.76,0.0,0.0403,0.362,-4.296,0.249,100.006,9,4
+Energetic,Shorty,Future & Juice WRLD Present... WRLD ON DRUGS,Future,5ExHDzOoOhC4xZGPh9zyQZ,2018-10-19,62,121000,0.795,0.245,0.386,0.0,0.0973,0.619,-10.638,0.18,131.971,10,4
+Energetic,The Bees Knees,Death Race For Love,Juice WRLD,6LkawpJyy0TZJ6Z41gMVyy,2019-03-08,14,325809,0.427,0.125,0.724,0.0,0.749,0.289,-4.751,0.0844,140.029,0,4
+Energetic,Dirty Iyanna,Dirty Iyanna,YoungBoy Never Broke Again,3z2q4KZxGOotjB87arytei,2019-12-12,53,252311,0.808,0.0336,0.841,4.35e-05,0.129,0.482,-4.492,0.0342,131.98,0,4
+Energetic,911,Flow $ZN,YSN Flow,6CLYeeLUdHrfsZxWkpXleW,2020-04-10,30,117778,0.853,0.247,0.705,0.0,0.11,0.275,-4.236,0.0506,89.996,2,4
+Energetic,Today,Flow $ZN,YSN Flow,3BvuM4kKAD9IupD9VPrtVP,2020-04-10,28,191853,0.641,0.36,0.683,0.0,0.166,0.645,-5.505,0.229,142.019,2,4
+Energetic,Bad Vibe (feat. Lil Tjay),Flow $ZN,YSN Flow,0PWVikbRM7c9Il4TI1AG4x,2020-04-10,45,184838,0.711,0.065,0.69,0.0,0.0702,0.856,-5.235,0.152,77.51,3,4
+Energetic,JUMP (feat. YoungBoy Never Broke Again),BLAME IT ON BABY,DaBaby,0oT9ElXYSxvnOOagP9efDq,2020-04-17,61,212093,0.896,0.169,0.72,0.0,0.252,0.966,-6.262,0.355,140.1,0,4
+Energetic,Fidget,Fidget,Lil Skies,5yrqY5yKBuBjIS4luMlgCx,2020-04-20,54,211862,0.911,0.111,0.492,0.0,0.0924,0.9,-8.064,0.215,144.94,6,4
+Energetic,Set Me Free,Abyss,C Lux,61nCpfC8n5J74tMBkadSWZ,2020-03-27,0,225541,0.537,0.0861,0.491,1.43e-06,0.108,0.188,-9.671,0.111,104.416,5,4
+Energetic,Trifling,Trifling,wrldofjuice,1iCGo2TJ3YTJn4huDbT4O1,2020-03-16,0,211983,0.754,0.0472,0.597,0.0,0.073,0.44,-7.036,0.378,145.153,8,4
+Energetic,Glod,Glod,JungleRunner,3vbPH6LF6PvVQ0zsQNjj6P,2020-04-08,0,299311,0.741,0.0152,0.484,0.00516,0.126,0.577,-8.097,0.055,76.978,0,4
+Energetic,My Friends Die,Abyss,C Lux,3Q75aaeP0PBKLVXLDQtWc1,2020-03-27,0,179931,0.679,0.0186,0.596,0.0,0.159,0.628,-8.416,0.0757,154.044,8,4
+Energetic,Goyard,Goyard,JungleRunner,5H6tSKZ2LDrKfMTtFeIRQ5,2020-04-11,0,102112,0.823,0.379,0.545,0.0,0.103,0.458,-8.69,0.117,120.021,1,4
+Energetic,Forever,Surreal.,Doyverse,6GCam9E07pBja4OJscGVb9,2020-04-14,0,100000,0.689,0.00987,0.479,5.83e-05,0.171,0.744,-12.622,0.219,163.016,4,4
+Energetic,Hot N*gga,Hot N*gga,Bobby Shmurda,19gEmPjfqSZT0ulDRfjl0m,2014-07-25,74,194561,0.794,0.0505,0.51,1.81e-06,0.0562,0.18,-7.314,0.42,167.879,9,4
+Energetic,Bobby Bitch,Bobby Bitch,Bobby Shmurda,6j8lAie0mdUNreql5d5Ejz,2014-10-14,60,160383,0.921,0.0136,0.525,0.0,0.313,0.794,-8.186,0.413,130.747,11,4
+Energetic,Living Life (feat. Rowdy Rebel),Shmurda She Wrote,Bobby Shmurda,6IEvn1ksSpWNEZHhkh1yzf,2014-11-10,52,148426,0.669,0.0213,0.729,0.0,0.188,0.486,-8.107,0.288,168.15,9,4
+Energetic,M.... She Wrote,#SantanaWorld (+),Tay-K,1WRzux3cJRM9xRNN99QKgR,2017-12-14,71,112000,0.777,0.28,0.707,0.0,0.0749,0.614,-4.85,0.286,159.662,9,4
+Energetic,Out Of Love (feat. Internet Money),Out Of Love,Lil Tecca,7rTzrRdc5UbvLr0gwI1J3E,2020-04-17,0,153597,0.732,0.102,0.654,0.0,0.215,0.369,-6.136,0.045,138.049,7,4
+Energetic,DROP (feat. A Boogie wit da Hoodie & London On Da Track),BLAME IT ON BABY,DaBaby,5rFGVn8fCFjnRwCebW0XbS,2020-04-17,52,149613,0.833,0.121,0.589,0.0,0.299,0.536,-6.384,0.231,96.455,9,4
+Energetic,Can't Tell Me Nothing,Graduation,Kanye West,4ImL3v98u2BLkwnyQDjfRm,2007-09-11,0,271600,0.594,0.0121,0.614,0.0,0.823,0.101,-6.091,0.0536,79.968,5,4
+Energetic,First Off (feat. Travis Scott),Future Hndrxx Presents: The WIZRD,Future,3WRIaWsws011vHMd9uzPjG,2019-01-18,62,228366,0.734,0.013,0.683,0.0,0.28,0.445,-6.105,0.0776,162.038,1,4
+Energetic,Over,Thank Me Later,Drake,6BdgtqiV3oXNqBikezwdvC,2010-01-01,69,233560,0.35,0.0107,0.845,0.0,0.123,0.45,-5.614,0.2,99.643,7,5
+Energetic,Right Above It,I Am Not A Human Being,Lil Wayne,1kMuU3TNQvHbqvXCWBodmP,2010-01-01,69,271946,0.376,0.0435,0.841,0.0,0.578,0.463,-4.348,0.356,76.052,3,4
+Energetic,Swimming Pools (Drank) - Extended Version,"good kid, m.A.A.d city (Deluxe)",Kendrick Lamar,40wUM3LFZOlUcZfxEIZrYK,2012-10-22,65,313786,0.716,0.123,0.485,2.69e-05,0.604,0.26,-7.745,0.404,74.132,1,4
+Energetic,Hands on the Wheel (feat. Asap Rocky),Habits & Contradictions,ScHoolboy Q,78JKJfKsqgeBDBF58gv1SF,2012-01-14,62,197131,0.646,0.0166,0.784,0.0,0.0721,0.179,-7.471,0.108,127.839,1,4
+Energetic,Black Skinhead,Yeezus,Kanye West,1ce3DvvGQn6hY2LMGMLCr5,2013-01-01,0,188013,0.578,0.000986,0.825,0.0,0.176,0.283,-6.107,0.322,130.089,1,4
+Energetic,Worst Behavior,Nothing Was The Same (Deluxe),Drake,3X37NtwadSS0RM20dh2IgP,2013-01-01,59,270200,0.777,0.156,0.778,1.08e-06,0.196,0.437,-6.349,0.136,109.925,9,4
+Energetic,Desires (with Future),Dark Lane Demo Tapes,Drake,7eYAHC0RbBF9eaqWzT34Aq,2020-05-01,66,237945,0.812,0.281,0.506,0.0,0.325,0.554,-7.706,0.116,145.074,5,4
+Energetic,Homecoming,Graduation,Kanye West,2ovQ5MCx91XVjgVWEPfvks,2007-09-11,24,203493,0.667,0.337,0.747,0.0,0.115,0.918,-7.059,0.189,86.917,1,4
+Energetic,Big Brother,Graduation,Kanye West,1x6jHJGczTBitBy06hIWgx,2007-09-11,9,287573,0.498,0.214,0.742,0.0,0.0641,0.302,-6.248,0.259,78.428,11,4
+Energetic,Love Me,I Am Not A Human Being II (Deluxe),Lil Wayne,7tGlzXJv6GD5e5qlu5YmDg,2013-01-01,75,253440,0.674,0.0119,0.608,0.0,0.103,0.464,-6.628,0.0334,124.952,8,4
+Energetic,Walking Round Atlanta,Walking Round Atlanta,Verixfied,7xY2FAc4KYwW8KqzSnovUn,2020-04-30,0,200956,0.712,0.0111,0.536,0.0,0.145,0.429,-7.738,0.163,86.027,1,4
+Energetic,Zoo York (feat. Fivio Foreign & Pop Smoke),State of Emergency,Lil Tjay,3Ddny34bFoYBb8dIGq5lwp,2020-05-08,68,214825,0.565,0.0352,0.569,8.81e-06,0.106,0.303,-6.084,0.379,92.466,6,5
+Energetic,Riot,Riot,Lil Skies,3U3STxSn8EgiwtbgG7g6k1,2020-05-14,0,166457,0.853,0.0236,0.852,0.0,0.342,0.832,-5.063,0.201,98.022,1,4
+Energetic,Flex (feat. Juice WRLD),THE GOAT,Polo G,2QqJTIlGKRLJC3onkavYEz,2020-05-15,74,163902,0.752,0.0538,0.673,0.0,0.133,0.35,-5.792,0.153,164.009,10,4
+Energetic,Trillionaire (feat. Youngboy Never Broke Again),High Off Life,Future,740kQ8xwSGloumdiKR5Cwz,2020-05-15,61,167551,0.768,0.237,0.526,0.0,0.139,0.473,-7.182,0.209,139.999,0,4
+Energetic,Outta There,Outta There,Moe,6N3P6Y7bTEnQEpqqagKIHj,2019-08-16,0,156306,0.808,0.145,0.444,0.00414,0.137,0.228,-7.896,0.0764,122.973,7,4
+Energetic,Changes,Greatest Hits,2Pac,1ofhfV90EnYhEr7Un2fWiv,1998-01-01,73,268826,0.865,0.0453,0.665,0.0,0.224,0.331,-6.289,0.073,111.113,7,4
+Energetic,Different (feat. Yung Bans),Future & Juice WRLD Present... WRLD ON DRUGS,Future,3thLnNvO9IctWoccbsZyJV,2018-10-19,58,151013,0.456,0.098,0.516,0.0,0.115,0.684,-10.512,0.459,77.058,8,4
+Energetic,Butter Pecan - Bonus Track,We All Shine,YNW Melly,4gVX26KwlsIh9Uh7hKIRjp,2019-01-18,58,222592,0.808,0.157,0.524,0.0,0.136,0.423,-9.008,0.354,129.978,5,4
+Energetic,Range Rover Sports Truck (Lil Yachty & Lil Keed),Lil Boat 3,Lil Yachty,03Aji6nA2bOepJewgLQUUa,2020-05-29,52,172656,0.851,0.0747,0.494,0.0,0.334,0.508,-5.641,0.366,163.063,1,4
+Energetic,P2,Eternal Atake,Lil Uzi Vert,3kW4z2pIj5VY5fLjBrMRL5,2020-03-06,71,234626,0.775,0.0236,0.72,0.0,0.114,0.49,-5.353,0.193,155.086,11,4
+Energetic,Heatin Up (feat. Gunna),My Turn,Lil Baby,7KSSdFCBHCfq4KPzz78ghk,2020-02-28,68,177314,0.788,0.0611,0.436,0.0,0.0979,0.341,-9.435,0.364,129.847,1,4
+Energetic,Lil Top,"Still Flexin, Still Steppin",YoungBoy Never Broke Again,1aMokXl3uKDvCh4BBcjFOA,2020-02-21,65,185745,0.708,0.0556,0.654,0.0,0.208,0.697,-6.76,0.369,168.032,5,4
+Energetic,ROCKSTAR (feat. Roddy Ricch),BLAME IT ON BABY,DaBaby,7ytR5pFWmSjzHJIeQkgog4,2020-04-17,81,181733,0.746,0.247,0.69,0.0,0.101,0.497,-7.956,0.164,89.977,11,4
+Energetic,DND,THE GOAT,Polo G,58GJNfq2m0Qr5nIUCDbXVQ,2020-05-15,61,180058,0.779,0.129,0.797,0.0,0.118,0.231,-4.583,0.356,159.958,0,4
+Energetic,,,Various Artists,6HhJe9vJTuueZgMhWV6hM1,0000,0,0,0.715,0.111,0.373,0.0,0.0986,0.107,-8.484,0.232,151.01,1,4
+Energetic,Emotionally Scarred,My Turn,Lil Baby,7ge7BHazYbVKi8qyZUX1Bm,2020-02-28,72,197529,0.585,0.0286,0.641,0.0,0.316,0.266,-4.269,0.133,88.284,6,4
+Energetic,Make No Sense,AI YoungBoy 2,YoungBoy Never Broke Again,6klLvorLoo1sxvZcjJIY8I,2019-10-11,75,148629,0.876,0.0208,0.733,0.0,0.0999,0.962,-4.478,0.333,154.904,10,4
+Energetic,All Star (with Lil Tjay),All Star,Lil Tecca,62uolmVjOio9xIfwDM1ZvC,2020-03-13,61,180234,0.782,0.265,0.644,0.0,0.122,0.434,-5.559,0.162,129.972,1,4
+Energetic,Tip Toe (feat. A Boogie Wit da Hoodie),Please Excuse Me for Being Antisocial,Roddy Ricch,6ztvsy3C6hPjVg9j4x1XKJ,2019-12-06,60,185806,0.757,0.095,0.673,0.0,0.338,0.574,-8.513,0.141,92.958,1,3
+Energetic,Run It Up,Flow $ZN,YSN Flow,20IqgA2H0otyxGrpq7UHfB,2020-04-10,36,147833,0.772,0.343,0.664,0.0,0.142,0.768,-5.169,0.239,120.063,6,4
+Energetic,Celebration Station,Eternal Atake,Lil Uzi Vert,25B5fGr9K0VdZJiRFsnMO4,2020-03-06,60,195058,0.748,0.101,0.771,0.0,0.135,0.792,-4.156,0.15,142.086,6,4
+Energetic,Bandit (with YoungBoy Never Broke Again),Bandit (with YoungBoy Never Broke Again),Juice WRLD,6Gg1gjgKi2AK4e0qzsR7sd,2019-10-04,76,189322,0.474,0.0687,0.631,0.0,0.132,0.425,-5.884,0.343,180.051,5,4
+Energetic,Me and My Guitar,Artist 2.0,A Boogie Wit da Hoodie,6cZH4rX1KTt1aJ3Ql6Ynja,2020-02-14,73,161764,0.644,0.473,0.587,0.0,0.0759,0.68,-6.736,0.353,173.972,7,4
+Energetic,Start Wit Me (feat. Gunna),Please Excuse Me for Being Antisocial,Roddy Ricch,7A20WnLkjtZU2d7hIB6Ziu,2019-12-06,66,158691,0.886,0.077,0.479,0.0,0.135,0.408,-8.054,0.334,130.029,4,4
+Energetic,Venetia,Eternal Atake,Lil Uzi Vert,3BYIzNZ3t9lRQCACXSMLrT,2020-03-06,63,188800,0.775,0.162,0.757,0.0,0.148,0.562,-4.139,0.175,142.933,9,4
+Energetic,F.N,True 2 Myself,Lil Tjay,0RLLvYBopDwooCyvnTwgYu,2019-10-11,79,224000,0.567,0.354,0.515,0.0,0.078,0.321,-10.265,0.247,120.1,6,1
+Energetic,Research,Flow $ZN,YSN Flow,4hnNNC40YL93JQ9Wx70fgD,2020-04-10,31,176545,0.78,0.271,0.512,0.0,0.18,0.813,-6.15,0.403,120.148,10,4
+Energetic,23 Island,Misunderstood,JayDaYoungan,2DnyKpPcFpC460wLJeGzOs,2019-10-11,67,243246,0.804,0.563,0.383,0.0,0.238,0.455,-10.984,0.354,118.009,7,4
+Energetic,OUT WEST (feat. Young Thug),JACKBOYS,JACKBOYS,6gi6y1xwmVszDWkUqab1qw,2019-12-27,78,157712,0.802,0.0104,0.591,0.0,0.196,0.309,-4.895,0.225,139.864,8,4
+Energetic,Yessirskiii,Eternal Atake (Deluxe) - LUV vs. The World 2,Lil Uzi Vert,59JWp4PjZ9TRM8cmtaDYB1,2020-03-13,70,219340,0.895,0.0183,0.739,7.61e-06,0.102,0.763,-6.633,0.283,140.007,8,4
+Energetic,HIGHEST IN THE ROOM,HIGHEST IN THE ROOM,Travis Scott,3eekarcy7kvN4yt5ZFzltW,2019-10-04,82,175720,0.598,0.0546,0.427,5.83e-06,0.21,0.0605,-8.764,0.0317,76.469,7,4
+Energetic,Fade Away,Fade Away,The Kid LAROI,32ypPhtgTaETvFn3ZIHXTW,2020-04-17,64,179252,0.726,0.406,0.414,0.0,0.0713,0.47,-12.296,0.269,150.009,9,4
+Energetic,High Fashion (feat. Mustard),Please Excuse Me for Being Antisocial,Roddy Ricch,07KXEDMj78x68D884wgVEm,2019-12-06,74,220486,0.831,0.269,0.499,0.0,0.3,0.511,-8.442,0.114,97.956,11,4
+Energetic,Did It Again,We Love You Tecca,Lil Tecca,4guBZjUyrGoHsTahO3IHdj,2019-08-30,73,116240,0.686,0.185,0.561,0.0,0.114,0.186,-9.929,0.191,148.775,10,4
+Energetic,Live This Wild,Certified Hitmaker,Lil Mosey,5fmTiyocDfiXbUZ4SpdXRm,2019-11-08,59,122853,0.697,0.14,0.685,0.0,0.0824,0.808,-7.005,0.0712,94.06,7,4
+Energetic,Immortal,Immortal,21 Savage,4IO8X9W69dIQe0EC5ALXhq,2019-10-31,72,254723,0.741,0.00813,0.87,0.0,0.114,0.663,-3.494,0.503,184.194,6,4
+Energetic,Shots,We Love You Tecca,Lil Tecca,6eSU1exzDvBEXmBRxspeh5,2019-08-30,65,109373,0.829,0.525,0.582,0.0,0.0759,0.51,-5.721,0.0415,108.028,7,4
+Energetic,VIBEZ,KIRK,DaBaby,0fySG6A6qLE8IvDpayb5bM,2019-09-27,72,144935,0.768,0.113,0.652,0.0,0.107,0.777,-2.708,0.307,154.187,1,4
+Energetic,223's (feat. 9lokknine),Melly vs. Melvin,YNW Melly,29ZXwWOOLz9t5fa3eT3i7T,2019-11-22,67,176640,0.932,0.0388,0.547,0.0,0.0924,0.695,-7.787,0.333,94.998,0,4
+Energetic,Kamikaze,Northsbest (Extended),Lil Mosey,3to5UxKsozb4T6CfwHuhLJ,2018-10-19,66,139200,0.792,0.301,0.571,0.0,0.1,0.556,-7.539,0.094,99.999,8,4
+Energetic,HeadBand (feat. 2 Chainz),Underground Luxury,B.o.B,2LvRR121MWFmmEGkuV2vQP,2013-12-16,69,220240,0.919,0.132,0.506,0.0,0.0771,0.273,-7.14,0.304,97.465,1,4
+Energetic,21,THE GOAT,Polo G,3JKgcAa7r07ocVWcV8bS0H,2020-05-15,77,163797,0.783,0.149,0.479,0.0,0.101,0.533,-10.646,0.541,176.027,7,4
+Energetic,Riot,Riot,XXXTENTACION,4aOOExMBUyxKnEYb39SrTg,2020-06-01,75,78680,0.509,0.019,0.542,0.00639,0.23,0.151,-8.027,0.442,97.767,3,4
+Energetic,10 Freaky Girls (with 21 Savage),NOT ALL HEROES WEAR CAPES (Deluxe),Metro Boomin,0AluA5RNsa4Cx6XRhf2hWZ,2018-11-06,78,208293,0.81,0.588,0.353,0.0,0.102,0.0727,-9.931,0.31,88.031,6,4
+Energetic,Mob Ties,Scorpion,Drake,7rC5Pl8rQSX4myONQHYPBK,2018-06-29,71,205146,0.754,0.045,0.575,0.00131,0.276,0.491,-8.393,0.0682,86.009,4,4
+Energetic,Love Me,We Love You Tecca,Lil Tecca,4e0FYxSROat25pH16zMTZI,2019-08-30,77,117013,0.719,0.632,0.538,0.0,0.135,0.803,-6.897,0.28,204.132,11,4
+Energetic,a lot,i am > i was,21 Savage,2t8yVaLvJ0RenpXUIAC52d,2018-12-21,80,288624,0.837,0.0395,0.636,0.00125,0.342,0.274,-7.643,0.086,145.972,1,4
+Energetic,Taste (feat. Offset),Taste (feat. Offset),Tyga,5IaHrVsrferBYDm0bDyABy,2018-05-16,75,232959,0.884,0.0236,0.559,0.0,0.101,0.342,-7.442,0.12,97.994,0,4
+Energetic,Look Back at It,Hoodie SZN,A Boogie Wit da Hoodie,3Ol2xnObFdKV9pmRD2t9x8,2018-12-21,74,179449,0.791,0.407,0.587,0.0,0.148,0.536,-5.075,0.0413,96.057,3,4
+Energetic,Congratulations,Stoney (Deluxe),Post Malone,3a1lNhkSLSkpJE4MSHpDu9,2016-12-09,83,220293,0.63,0.215,0.804,0.0,0.253,0.492,-4.183,0.0363,123.146,6,4
+Energetic,HUMBLE.,DAMN.,Kendrick Lamar,7KXjTSCq5nL1LoYtL7XAwS,2017-04-14,84,177000,0.908,0.000282,0.621,5.39e-05,0.0958,0.421,-6.638,0.102,150.011,1,4
+Energetic,We Still in this Bitch (feat. T.I. and Juicy J),Underground Luxury,B.o.B,3aHkbJXFYpPrup2K8wvDOV,2013-12-16,56,247986,0.693,0.013,0.733,0.0,0.0924,0.497,-5.126,0.139,140.01,1,4
+Energetic,Who Do You Love?,My Krazy Life (Deluxe),YG,1uDjaezEbalGyGnuH80zDK,2014-01-01,0,233506,0.676,0.0281,0.415,0.0,0.0915,0.146,-9.752,0.508,193.206,9,4
+Energetic,The Buzz,The Buzz EP,Hermitude,5BlFSazmvKtnxCqYT0eALH,2015-07-17,0,221786,0.726,0.334,0.583,0.00135,0.122,0.491,-6.434,0.23,140.943,0,4
+Energetic,Pull Up (feat. Lil Uzi Vert),Pull Up (feat. Lil Uzi Vert),Wiz Khalifa,6LTsvaebP6V9tJFvZxqi5M,2016-05-25,55,207391,0.852,0.0178,0.764,0.0,0.336,0.266,-4.283,0.0631,132.981,8,4
+Energetic,Shotta Flow 5,Shotta Flow 5,NLE Choppa,1orjH4IkSH9VrWmRCToKV8,2020-06-12,62,145167,0.806,0.0838,0.749,0.0,0.0621,0.77,-5.268,0.328,140.032,1,4
+Energetic,Make It Rain,Make It Rain,Pop Smoke,4TgHt7vKCimpywaiKfl0uj,2020-06-12,62,204000,0.54,0.194,0.77,2.74e-05,0.372,0.565,-3.981,0.389,159.494,1,4
+Energetic,Covid (feat. Lil Baby),The Smartest,Tee Grizzley,1ZLY8266W29FyBgHtiJmt4,2020-06-19,40,147706,0.858,0.452,0.626,2.28e-05,0.118,0.724,-7.797,0.312,100.542,9,4
+Energetic,The Smartest Intro,The Smartest,Tee Grizzley,2ZccygxtuXd0hu8zF7GQbO,2020-06-19,51,184793,0.84,0.449,0.704,0.0,0.145,0.381,-5.986,0.199,103.998,6,4
+Energetic,The Funeral,The Smartest,Tee Grizzley,1pN8csmizaC1a9HFFUgM3w,2020-06-19,39,132605,0.556,0.0759,0.833,0.0,0.184,0.608,-4.557,0.371,130.524,1,5
+Energetic,Everything,The Smartest,Tee Grizzley,21DGZdB8iX2fadmNTY41nh,2020-06-19,43,113711,0.914,0.223,0.897,0.0316,0.118,0.796,-3.012,0.247,102.013,7,4
+Energetic,Trenches (feat. Big Sean),The Smartest,Tee Grizzley,1YARvmnEtIcMubDqNlUhEC,2020-06-19,47,156216,0.808,0.385,0.757,0.0,0.361,0.385,-3.615,0.097,104.967,4,4
+Energetic,Again,Fetty Wap (Deluxe),Fetty Wap,3ESSGgWzRf1xvP7G5hHMhB,2015-09-25,67,312240,0.748,0.0062,0.733,0.0,0.329,0.291,-4.421,0.072,93.019,11,4
+Energetic,Faneto,Back From The Dead 2,Chief Keef,6J1SjVyNDzkZ3sF85Ndd3B,2015-06-16,44,206654,0.849,0.346,0.755,0.0,0.0564,0.393,-7.399,0.363,144.186,1,4
+Energetic,Wishing For A Hero (feat. BJ The Chicago Kid),THE GOAT,Polo G,192RjH0gN6en7nE6ElN96T,2020-05-15,64,184444,0.562,0.0679,0.589,0.0,0.0684,0.188,-7.509,0.265,88.903,7,1
+Energetic,PICK UP (feat. Quavo),BLAME IT ON BABY,DaBaby,5gNOINI5dXZVom2b36LMOd,2020-04-17,62,118546,0.915,0.0944,0.612,0.0,0.115,0.758,-4.535,0.407,129.93,1,4
+Energetic,We Paid (feat. 42 Dugg),My Turn (Deluxe),Lil Baby,6gxKUmycQX7uyMwJcweFjp,2020-05-01,74,181929,0.926,0.135,0.542,0.0,0.0877,0.564,-5.064,0.293,135.14,1,4
+Energetic,Ghostface Killers (feat. Travis Scott),Without Warning,21 Savage,5u6vkDnOyaf8LsteDAj2ub,2017-10-30,70,268933,0.782,0.333,0.435,1.31e-05,0.342,0.242,-7.033,0.156,82.996,2,4
+Energetic,Chicago Freestyle (feat. Giveon),Dark Lane Demo Tapes,Drake,4wVOKKEHUJxHCFFNUWDn0B,2020-05-01,80,220487,0.735,0.629,0.449,0.0,0.113,0.0397,-7.507,0.347,122.947,10,4
+Energetic,Roses Remix (feat. Future),Roses Remix (feat. Future),SAINt JHN,1KyZ4rUiW2lkqGNLQYKpcC,2020-05-29,60,187897,0.941,0.0247,0.463,5.53e-05,0.192,0.312,-5.993,0.113,127.003,8,4
+Energetic,I'm Goin In,I'm Goin In,Drake,5aooThgj87ID0vgiyvcjPM,2009-09-15,65,225306,0.662,0.0389,0.763,0.0,0.103,0.566,-8.455,0.377,170.031,1,4
+Energetic,Slide (feat. Blueface & Lil Tjay),Slide (feat. Blueface & Lil Tjay),French Montana,40Zb4FZ6nS1Hj8RVfaLkCV,2019-04-16,55,186344,0.532,0.093,0.704,0.0,0.184,0.591,-3.895,0.26,96.004,5,4
+Energetic,Aim For The Moon (feat. Quavo),Shoot For The Stars Aim For The Moon,Pop Smoke,6O7fPYTsb2mY0PiFt2ymDB,2020-07-03,64,175756,0.713,0.497,0.605,3.46e-06,0.115,0.432,-7.487,0.107,142.025,11,4
+Energetic,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,Pop Smoke,0PvFJmanyNQMseIFrU708S,2020-07-03,82,190476,0.823,0.114,0.586,0.0,0.193,0.347,-6.606,0.2,125.971,6,4
+Energetic,44 BullDog,Shoot For The Stars Aim For The Moon,Pop Smoke,7sjFIZ1g5QLJLGja3k592K,2020-07-03,64,150857,0.8,0.0287,0.564,1.65e-06,0.112,0.318,-5.817,0.4,139.989,8,4
+Energetic,Creature (feat. Swae Lee),Shoot For The Stars Aim For The Moon,Pop Smoke,3eV2WT9YhfzkxbufnBF8wK,2020-07-03,60,202815,0.794,0.0511,0.717,0.0,0.195,0.372,-5.73,0.251,141.881,7,4
+Energetic,Snitching (feat. Quavo & Future),Shoot For The Stars Aim For The Moon,Pop Smoke,2FhEj9lvEIaJihjFprRrGt,2020-07-03,56,259346,0.944,0.0381,0.579,0.0,0.253,0.769,-4.961,0.191,135.033,8,4
+Energetic,West Coast Shit (feat. Tyga & Quavo),Shoot For The Stars Aim For The Moon,Pop Smoke,1JDhNQ0oOT7XpclZn3aQ8F,2020-07-03,58,192000,0.831,0.0885,0.762,0.0,0.107,0.495,-5.656,0.207,99.999,11,4
+Energetic,Tunnel Vision (Outro),Shoot For The Stars Aim For The Moon,Pop Smoke,2SxR5RitJdsG6wINvJLBSD,2020-07-03,56,132587,0.718,0.363,0.66,0.0,0.159,0.659,-7.39,0.325,142.879,2,4
+Energetic,Self Control,AI YoungBoy 2,YoungBoy Never Broke Again,4vSoyDfL0uZyUoWu5NNNsQ,2019-10-11,66,185865,0.82,0.0349,0.697,0.0,0.197,0.629,-7.296,0.378,154.992,6,4
+Energetic,"Bitch, Don’t Kill My Vibe","good kid, m.A.A.d city (Deluxe)",Kendrick Lamar,5h5tBFnbcVioFXiOixTn6E,2012-10-22,67,310720,0.587,0.0152,0.698,0.0,0.442,0.0985,-8.948,0.0943,133.954,1,4
+Energetic,Down Below,Feed Tha Streets II,Roddy Ricch,4SWWe2OYC4mqf40Gc2RSdl,2018-11-02,75,224002,0.926,0.036,0.454,0.000422,0.0896,0.34,-9.932,0.0732,119.969,6,4
+Energetic,Stay High,Legends Never Die,Juice WRLD,1AnkdcHl86kEhDvhaKDuIe,2020-07-10,0,168684,0.745,0.439,0.5,0.0,0.0943,0.433,-6.184,0.136,76.968,8,4
+Energetic,Man Of The Year,Legends Never Die,Juice WRLD,1uA914Md6wsy9NDryyBypH,2020-07-10,1,136408,0.621,0.00584,0.695,0.0,0.086,0.298,-5.124,0.0911,173.966,4,4
+Energetic,Turks (with Gunna & ft. Travis Scott),Good Intentions,NAV,7IMwEtpAiJanqF6vQteZN2,2020-05-08,66,161319,0.894,0.0808,0.618,0.0,0.558,0.379,-4.356,0.129,119.1,7,4
+Energetic,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix","WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",Jack Harlow,2MbdDtCv5LUVjYy9RuGTgC,2020-06-24,77,227478,0.904,0.0631,0.723,0.0,0.185,0.835,-5.224,0.26,145.013,11,4
+Energetic,California Love - Original Version,The Best of 2Pac,2Pac,3djNBlI7xOggg7pnsOLaNm,2007-12-03,68,284480,0.761,0.0292,0.847,2.26e-06,0.39,0.765,-3.068,0.0417,91.519,7,4
+Energetic,March Madness,March Madness,Future,6hVGw7yVUd2bpdHMPCWrtN,2015-08-31,0,244613,0.406,0.173,0.661,0.0,0.101,0.335,-5.142,0.311,180.206,8,3
+Energetic,Aww Mane,Aww Mane,Bway Yungy,57tZ51d2ReoFiLhCG00Un7,2020-06-18,0,158184,0.552,0.203,0.713,0.0,0.0833,0.695,-7.363,0.296,170.042,7,4
+Energetic,Hit 'Em Up - Single Version,Greatest Hits,2Pac,0Z2J91b2iTGLVTZC4fKgxf,1998-01-01,81,312626,0.916,0.0394,0.844,0.0,0.0778,0.586,-3.967,0.236,95.19,7,4
+Energetic,Why We Thugs,"Laugh Now, Cry Later",Ice Cube,5880eYQmXx3c3oD22IljIt,2006-01-01,67,224106,0.683,0.326,0.59,0.0,0.148,0.653,-5.423,0.458,100.892,1,4
+Energetic,Watch Out,Watch Out,2 Chainz,22DKsoYFV5npPXmnPpXL7i,2015-07-22,56,207813,0.899,0.826,0.504,0.0,0.052,0.537,-6.758,0.5,129.89,8,4
+Energetic,We Dem Boyz,Blacc Hollywood (Deluxe),Wiz Khalifa,1ULa3GfdMKs0MfRpm6xVlu,2014-08-19,65,224933,0.717,0.00689,0.862,0.0,0.321,0.52,-4.736,0.054,130.021,8,4
+Energetic,My Nigga,My Krazy Life (Deluxe),YG,02pf9lLM8Nb8l4u4ts1GWb,2014-01-01,1,235600,0.673,0.0933,0.464,0.0,0.21,0.762,-6.864,0.201,171.043,10,4
+Energetic,Drop It Like It's Hot,R&G (Rhythm & Gangsta): The Masterpiece,Snoop Dogg,2NBQmPrOEEjA8VbeWOQGxO,2004-01-01,77,266066,0.888,0.19,0.632,0.0,0.101,0.662,-3.872,0.219,91.979,1,4
+Energetic,6 Foot 7 Foot,Tha Carter IV (Deluxe),Lil Wayne,0z5ZPs57J2KERwM1tBM2GF,2011-01-01,4,248586,0.365,0.000707,0.751,0.0,0.318,0.604,-5.429,0.304,79.119,2,4
+Energetic,I Don't Fuck With You,Dark Sky Paradise,Big Sean,7FYH5AW3bVfZHJIQpq3UOA,2015-02-24,75,284386,0.824,0.0362,0.733,0.0,0.325,0.395,-5.474,0.0613,97.972,1,4
+Energetic,Still D.R.E.,2001,Dr. Dre,503OTo2dSqe7qk76rgsbep,1999-11-16,85,270586,0.816,0.16,0.775,0.00031,0.0543,0.527,-3.323,0.234,93.431,11,4
+Energetic,POPSTAR (feat. Drake),POPSTAR (feat. Drake),DJ Khaled,6EDO9iiTtwNv6waLwa1UUq,2020-07-17,76,200221,0.8,0.057,0.56,0.0,0.134,0.45,-4.818,0.261,163.071,5,4
+Energetic,Legend,If You're Reading This It's Too Late,Drake,1ID1QFSNNxi0hiZCNcwjUC,2015-02-12,68,241853,0.714,0.0266,0.563,0.0,0.0776,0.31,-7.574,0.0723,100.091,1,4
+Energetic,Thrift Shop (feat. Wanz),The Heist (Deluxe Edition),Macklemore & Ryan Lewis,3AYcyxEACnmE6d96RPubID,2012-10-09,1,235613,0.781,0.0619,0.526,0.0,0.0457,0.662,-6.985,0.293,94.992,6,4
+Energetic,Life Goes On,Harder Than Ever,Lil Baby,2bSk87AVkCIIC3Bcligq1z,2018-05-18,76,247054,0.716,0.0021,0.541,0.0,0.115,0.387,-7.909,0.149,139.978,1,4
+Energetic,Through the Storm,Through the Storm,YoungBoy Never Broke Again,2u6XJ2PPaCyyRJqC0x6TMH,2018-06-08,0,163566,0.881,0.631,0.581,0.0,0.0986,0.876,-5.162,0.0901,78.508,5,4
+Energetic,Don't Like.1,Kanye West Presents Good Music Cruel Summer,Various Artists,12D0n7hKpPcjuUpcbAKjjr,2012-01-01,7,283653,0.668,0.00822,0.628,0.0,0.145,0.621,-5.327,0.205,131.88,6,4
+Energetic,6 Man,If You're Reading This It's Too Late,Drake,4kdfjhj9xNkYU0R8xlDy8k,2015-02-12,60,167653,0.568,0.217,0.535,0.0,0.114,0.326,-9.306,0.513,83.589,4,4
+Energetic,INTRO,KIRK,DaBaby,77KMttn3Lic7ZQKDlPqp8v,2019-09-27,60,172800,0.862,0.0342,0.685,0.0,0.204,0.672,-7.699,0.242,100.024,0,4
+Energetic,Used to This (feat. Drake),EPIC LIT,Various Artists,4etcWRIqU3xEhXz4UBPtXd,2017-02-24,19,180520,0.618,0.0312,0.727,0.0,0.196,0.401,-7.224,0.208,164.992,3,4
+Energetic,679 (feat. Remy Boyz),679 (feat. Remy Boyz),Fetty Wap,5NQbUaeTEOGdD6hHcre0dZ,2015-06-29,75,196693,0.618,0.00256,0.717,0.0,0.625,0.603,-5.738,0.318,190.05,7,4
+Energetic,Hate Bein' Sober,Finally Rich (Deluxe),Chief Keef,3SuzCeGoNOWmbWOoDMou0B,2012-01-01,28,280173,0.82,0.00435,0.47,0.0,0.141,0.313,-7.181,0.0458,132.003,8,4
+Energetic,Started From the Bottom,Nothing Was The Same,Drake,5DI9jxTHrEiFAhStG7VA8E,2013-01-01,67,174133,0.793,0.0319,0.524,0.0,0.156,0.579,-7.827,0.156,86.325,8,4
+Energetic,Portland,More Life,Drake,2bjwRfXMk4uRgOD9IBYl9h,2017-03-18,73,236614,0.925,0.0172,0.443,0.0,0.276,0.35,-8.216,0.264,136.078,1,4
+Energetic,Energy,If You're Reading This It's Too Late,Drake,79XrkTOfV1AqySNjVlygpW,2015-02-12,73,181933,0.747,0.38,0.571,0.0,0.534,0.553,-7.916,0.478,172.104,11,4
+Energetic,Ruff Rydas - From Road To Fast 9 Mixtape,Ruff Rydas (From Road To Fast 9 Mixtape),NLE Choppa,5uFtpU4N0h1YhYw8n5TGI5,2020-07-23,38,169353,0.683,0.502,0.741,4.94e-06,0.233,0.585,-5.283,0.0504,150.998,11,4
+Energetic,Otherside Of America,Otherside Of America,Meek Mill,3JBvJ9PwrYA1oeUzI3FMRI,2020-06-05,54,218103,0.73,0.0878,0.772,0.0,0.401,0.403,-3.883,0.316,147.053,5,4
+Energetic,All Mine,ye,Kanye West,3U21A07gAloCc4P7J8rxcn,2018-06-01,75,145506,0.925,0.123,0.31,0.0,0.0931,0.291,-6.531,0.291,121.927,11,4
+Energetic,CLOUT COBAIN | CLOUT CO13A1N,TA13OO,Denzel Curry,2LNMhZ3YijTO7USmqjgJfG,2018-07-27,66,231333,0.794,0.591,0.448,0.0,0.109,0.588,-4.771,0.0539,120.055,10,4
+Energetic,Gold Digger,Late Registration,Kanye West,1PS1QMdUqOal0ai3Gt7sDQ,2005-08-30,80,207626,0.629,0.0195,0.696,0.0,0.0554,0.623,-5.572,0.348,93.034,1,4
+Energetic,Narrow Road (feat. Lil Baby),Narrow Road (feat. Lil Baby),NLE Choppa,3GZd1aDsgKL71Kt3VIp0hc,2020-07-30,61,240297,0.614,0.0306,0.553,0.0,0.203,0.161,-8.225,0.169,159.999,7,4
+Energetic,I Got 5 On It,Operation Stackola,Luniz,4IYKjN1DrYzxKXt0umJqsG,1995-01-01,75,253533,0.6,0.209,0.706,0.0,0.125,0.58,-7.899,0.361,173.926,10,4
+Energetic,Burn The Hoods,Burn The Hoods,Ski Mask The Slump God,34PhB0kHT00utubP3aTau8,2020-07-24,64,102960,0.871,0.196,0.715,0.0,0.14,0.378,-7.828,0.147,150.955,3,4
+Energetic,Bad and Boujee (feat. Lil Uzi Vert),Culture,Migos,4Km5HrUvYTaSUfiSGPJeQR,2017-04-07,48,343150,0.926,0.0611,0.666,0.0,0.123,0.168,-5.314,0.244,127.079,11,4
+Energetic,Jumpman,What A Time To Be Alive,Drake,27GmP9AWRs744SzKcpJsTZ,2015-09-20,73,205879,0.852,0.0559,0.553,0.0,0.332,0.656,-7.286,0.187,142.079,1,4
+Energetic,Clique,Kanye West Presents Good Music Cruel Summer,Various Artists,7eW9cHOAHmYqphs5tWXETw,2012-01-01,2,293613,0.71,0.0601,0.555,0.0,0.227,0.303,-5.942,0.295,109.204,9,5
+Energetic,Poetic Justice,"good kid, m.A.A.d city (Deluxe)",Kendrick Lamar,2P3SLxeQHPqh8qKB6gtJY2,2012,73,300160,0.779,0.157,0.572,0.0,0.246,0.647,-9.985,0.378,135.956,6,4
+Energetic,Who TF Up in My Trap,Top Shotta,NLE Choppa,1Pyop9EzExU4XxUbEkRHXu,2020-08-07,0,144534,0.621,0.0273,0.799,0.0,0.231,0.687,-4.94,0.0723,173.087,2,4
+Energetic,Top Shotta Flow,Top Shotta,NLE Choppa,4vxJSZUwtaRKaMhACjvurQ,2020-08-07,0,166741,0.759,0.0186,0.62,0.0,0.0855,0.834,-6.889,0.363,149.975,11,4
+Energetic,Neighborhood Watch,Top Shotta,NLE Choppa,34rDrlkBHlleqVecRwoAce,2020-08-07,0,202191,0.801,0.132,0.583,0.0,0.122,0.686,-8.937,0.357,146.081,5,4
+Energetic,I'm Up (feat. Kid Ink & French Montana),I'm Up (feat. Kid Ink & French Montana),Omarion,1hlwA8qvXx0Bl6iYuDbIuD,2015-06-18,53,201336,0.793,0.204,0.505,0.0,0.0413,0.704,-7.061,0.138,97.998,6,4
+Energetic,Yeah! (feat. Lil Jon & Ludacris),Confessions (Expanded Edition),Usher,5rb9QrpfcKFHM1EUbSIurX,2004-03-23,83,250373,0.894,0.0183,0.791,0.0,0.0388,0.583,-4.699,0.112,105.018,2,4
+Energetic,Boyz-N-The-Hood,N.W.A. And The Posse,N.W.A.,5RGXoZt1qxmAErdhbyKJKq,1987-01-01,69,339893,0.785,0.0417,0.479,3.5e-05,0.334,0.727,-10.247,0.362,87.691,3,4
+Energetic,Hail Mary,Greatest Hits,2Pac,2zoobJFEB9h15fjYjRd6oP,1998-01-01,67,312373,0.772,0.158,0.644,4.14e-06,0.366,0.388,-6.318,0.265,82.05,10,4
+Energetic,It Was A Good Day,The Predator,Ice Cube,2qOm7ukLyHUXWyR4ZWLwxA,1992-11-17,81,260000,0.798,0.33,0.744,0.000106,0.292,0.794,-5.328,0.136,82.356,7,4
+Energetic,Straight Outta Compton,Straight Outta Compton,N.W.A.,6KIKRz9eSTXdNsGUnomdtW,1988-08-08,72,258687,0.834,0.0461,0.878,0.0,0.334,0.418,-9.484,0.15,102.848,8,4
+Energetic,Juicy - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,5ByAIlEEnxYdvpnezg7HTX,1994-09-13,77,302760,0.889,0.47,0.818,0.0,0.179,0.782,-4.639,0.253,96.063,9,4
+Energetic,Deadly Combination (feat. 2Pac),The Big Picture,Big L,71qTrOPHOj1KDEy0IG2Zjg,2016-07-15,0,152373,0.901,0.0913,0.513,0.0,0.267,0.628,-10.029,0.305,91.477,1,4
+Energetic,BIRDBOY,BIRDBOY,NLE Choppa,3ngpmF7yiqVMesqqGuepX1,2019-04-18,57,129306,0.865,0.0552,0.428,0.0,0.307,0.531,-9.901,0.853,123.163,1,4
+Energetic,Free Youngboy,Free Youngboy,NLE Choppa,3cuykPS9TJOWufYPvTUOTN,2019-06-14,53,164832,0.698,0.0133,0.791,0.0,0.361,0.838,-6.581,0.255,87.497,10,4
+Energetic,Make Em Say (feat. Mulatto),Top Shotta,NLE Choppa,4dngUamfm6p0w111i1zyT2,2020-08-07,0,202954,0.658,0.0103,0.823,0.0,0.0801,0.232,-3.502,0.16,170.498,1,4
+Energetic,Hittas (feat. NLE Choppa),Baccend Beezy,Yella Beezy,7LOcwrqPDk1KVRPuxkcdcR,2019-07-19,0,215388,0.836,0.0695,0.716,0.0,0.177,0.701,-5.487,0.186,129.999,2,4
+Energetic,Stick By My Side,Stick By My Side,NLE Choppa,0i13kILDvqXijVH5UBA2De,2019-05-30,48,115120,0.781,0.0652,0.397,0.00082,0.11,0.108,-9.911,0.0717,134.178,0,4
+Energetic,All Bad (feat. Lil Uzi Vert),High Off Life,Future,021lWIHJrURZrmvYQ1xcM8,2020-05-15,59,207738,0.931,0.0144,0.667,0.0,0.15,0.667,-7.043,0.318,142.039,6,4
+Energetic,On The Road (feat. Meek Mill & Lil Baby),Hollywood's Bleeding,Post Malone,0hGH0S74Eoyv6mXZcOKtdQ,2019-09-06,0,218320,0.442,0.0589,0.737,0.0,0.102,0.21,-5.046,0.109,112.93,7,5
+Energetic,m.A.A.d city,"good kid, m.A.A.d city (Deluxe)",Kendrick Lamar,2cDCojn6uIBM6A5xTAbl3H,2012,68,350120,0.487,0.0538,0.729,4.07e-06,0.44,0.217,-6.815,0.271,91.048,2,4
+Energetic,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),Drake,2SAqBLGA283SUiwJ3xOUVI,2020-08-14,81,261492,0.761,0.244,0.518,3.47e-05,0.107,0.522,-8.871,0.134,133.976,0,4
+Energetic,Need It,Need It,Migos,6mtjo5kIHKlboGE84lf1FJ,2020-05-22,69,195680,0.852,0.0313,0.745,0.0,0.0824,0.897,-3.667,0.171,148.007,11,4
+Energetic,Hurtin,My Turn,Lil Baby,1sMalYr4ASm3kOr3K9JEh6,2020-02-28,52,163652,0.804,0.0624,0.422,1.41e-06,0.137,0.157,-8.788,0.35,93.871,6,4
+Energetic,Many Men (Wish Death),Get Rich Or Die Tryin',50 Cent,2I9foKseoFQh07p6sD2voE,2003-02-06,71,256226,0.653,0.0153,0.826,0.00146,0.131,0.416,-2.93,0.354,108.52,6,5
+Energetic,Smile,Greatest Hits,Scarface,2wxO3ZydJTZRi4Bbc02q7i,2010-01-01,61,300600,0.7,0.0498,0.402,1.04e-06,0.16,0.499,-9.93,0.278,77.871,5,4
+Energetic,Ambitionz Az A Ridah,All Eyez On Me,2Pac,20fBuVybkHgjF6vNhSMROD,1996,5,278386,0.801,0.00253,0.908,0.000655,0.0698,0.805,-6.554,0.221,87.279,2,4
+Energetic,Over Your Head,Over Your Head,Future,0Tcw8w9pvPrZoORgxsNASW,2020-07-31,55,186842,0.773,0.00198,0.742,0.0,0.558,0.35,-5.453,0.162,148.949,5,4
+Energetic,Flexin',Flexin',Pop Smoke,7mpoOB5YMpPnbllsALgSfr,2019-06-28,66,158693,0.605,0.113,0.868,3.79e-05,0.305,0.517,-5.802,0.317,147.937,7,4
+Energetic,Rags2Riches 2 (feat. Lil Baby),Pray 4 Love (Deluxe),Rod Wave,0qJeyYAgv6UpvewUxRXAhb,2020-08-07,8,235987,0.874,0.147,0.443,0.0,0.124,0.298,-9.628,0.241,118.004,5,4
+Energetic,She Knows,Non-Fiction (Deluxe),Ne-Yo,7seTcUFOhn5caSDbiSfsp0,2015-01-20,67,214725,0.706,0.0262,0.572,0.0,0.585,0.574,-5.799,0.0326,139.982,8,4
+Energetic,Dangerous,Not 4 Sale,Kardinal Offishall,4NOZ35Dhucr6UlVyLOtktd,2008-01-01,76,246053,0.949,0.00437,0.79,0.0,0.0816,0.807,-5.957,0.0756,117.002,8,4
+Energetic,Yea Yea,Shoot For The Stars Aim For The Moon,Pop Smoke,0bjgQ24UZGwKikldIyEOgf,2020-07-03,60,185803,0.717,0.0509,0.474,0.0,0.139,0.448,-8.383,0.403,123.906,5,4
+Energetic,Gamble With My Heart,Top Shotta,NLE Choppa,5FEUjQpNQcGMkv4PPlEn9K,2020-08-10,41,182640,0.484,0.0521,0.616,0.0,0.133,0.375,-8.098,0.199,83.6,0,4
+Energetic,All In,Kacey Talk,YoungBoy Never Broke Again,4ujhIlrqgGGTGrvqaG1qMZ,2020-08-13,0,156662,0.511,0.053,0.654,0.0,0.316,0.279,-6.133,0.314,154.868,8,4
+Energetic,G.O.M.D.,2014 Forest Hills Drive,J. Cole,16qYlQ6koFxYVbiJbGHblz,2014-12-09,13,301133,0.89,0.331,0.393,8.81e-06,0.283,0.304,-10.821,0.267,128.084,4,4
+Energetic,Prospect (ft. Lil Baby),I'm Gone,iann dior,4iHSE5R1U8jf84tRn52xRt,2020-06-12,64,226313,0.816,0.203,0.579,0.0,0.127,0.43,-6.097,0.0867,120.078,1,4
+Energetic,Conversations,Legends Never Die,Juice WRLD,4K06PO78fW4mnBVenxGNob,2020-07-10,74,181661,0.747,0.176,0.622,0.0,0.151,0.57,-5.825,0.0838,159.93,11,4
+Energetic,Armed And Dangerous,Goodbye & Good Riddance,Juice WRLD,5wujBwqG7INdStqGd4tRMX,2018-12-10,79,169999,0.736,0.186,0.67,0.0,0.114,0.845,-6.702,0.311,130.032,10,4
+Energetic,Realer N Realer,Future & Juice WRLD Present... WRLD ON DRUGS,Future,4VMiNOpnjRwSCwmHaUfOMM,2018-10-19,66,170920,0.73,0.0117,0.465,0.0,0.28,0.367,-6.29,0.278,148.028,1,4
+Energetic,Big,Death Race For Love,Juice WRLD,4rWC4tiO4NCwRHdh6vyu6b,2019-03-08,12,224063,0.768,0.0628,0.641,0.0,0.0912,0.231,-6.197,0.114,144.963,11,4
+Energetic,Wasted (feat. Lil Uzi Vert),Goodbye & Good Riddance,Juice WRLD,1a7WZZZH7LzyvorhpOJFTe,2018-12-10,78,258475,0.742,0.0381,0.579,0.0,0.0952,0.502,-5.024,0.202,144.994,0,4
+Energetic,Ring Ring (with Rvssian feat. Clever),Death Race For Love,Juice WRLD,4zxpssj8DyrfZcEUSUiNxG,2019-03-08,17,171816,0.581,0.0768,0.673,0.0,0.4,0.621,-4.421,0.0549,160.073,0,4
+Energetic,Demons and Angels (feat. Juice WRLD),Hoodie SZN,A Boogie Wit da Hoodie,3L19besdNQzd342qL78xqm,2018-12-21,70,214592,0.81,0.0114,0.55,5.69e-06,0.107,0.183,-7.46,0.17,76.503,2,4
+Energetic,Nuketown (feat. Juice WRLD),STOKELEY,Ski Mask The Slump God,74lnM5V6ecvoTPV0fvptx9,2018-11-30,76,166400,0.808,0.113,0.617,0.0,0.734,0.632,-9.32,0.442,149.962,10,4

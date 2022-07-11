@@ -1,0 +1,286 @@
+mood,name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature
+Contentment,Upside Down,Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George,Jack Johnson,6shRGWCtBUOPFLFTTqXZIC,2006,67,208653,0.787,0.238,0.655,0.000171,0.138,0.65,-8.339,0.0431,102.485,6,4
+Contentment,Be OK,Be OK,Ingrid Michaelson,2qESkHBZ2VThboOnosYFBk,2008-01-01,0,147680,0.821,0.13,0.773,0.0,0.116,0.954,-6.741,0.0464,133.053,4,4
+Contentment,Someone New,Hozier,Hozier,0efT4YKQLQx2YHbp6vgRX8,2014-10-07,57,222813,0.446,0.427,0.533,3.26e-06,0.332,0.58,-5.955,0.046,183.81,7,4
+Contentment,New Soul,Yael Naïm,Yael Naim,6obMmMuVhvB0VMTZa5EJIP,2007-10-22,0,225106,0.769,0.733,0.371,3.73e-05,0.106,0.653,-8.522,0.0326,100.001,0,4
+Contentment,The Way I Am,Girls and Boys,Ingrid Michaelson,43ddJFnP8m3PzNJXiHuiyJ,2007-01-01,56,135386,0.877,0.771,0.259,8.98e-06,0.108,0.32,-9.302,0.0427,119.989,5,4
+Contentment,Better Together,In Between Dreams,Jack Johnson,4VywXu6umkIQ2OS0m1I79y,2005-01-01,71,207680,0.868,0.308,0.347,2e-05,0.11,0.659,-9.529,0.0536,110.059,5,4
+Contentment,Little Talks,My Head Is An Animal,Of Monsters and Men,3a2tuvXCHbW5nuUckuHkKT,2012-01-01,58,266600,0.445,0.0206,0.757,0.0,0.146,0.421,-5.177,0.0322,102.878,1,4
+Contentment,Sunday Candy,Surf,Donnie Trumpet & The Social Experiment,6fTdcGsjxlAD9PSkoPaLMX,2015-06-30,65,226013,0.511,0.53,0.596,0.0,0.0798,0.554,-6.56,0.224,158.063,0,4
+Contentment,Waiting On the World to Change,Continuum,John Mayer,5imShWWzwqfAJ9gXFpGAQh,2006-09-11,73,201173,0.578,0.157,0.756,0.000232,0.249,0.663,-5.82,0.115,176.739,2,4
+Contentment,Heart's Content,Bear Creek,Brandi Carlile,0pegFWSUOTiG0sLVEfxtvA,2012-06-01,59,214666,0.564,0.724,0.209,3.99e-05,0.107,0.402,-8.922,0.0317,109.024,3,4
+Contentment,"1, 2, 3, 4",Wonders Of The Younger (International Version),Plain White T's,4wlPXKxC2oeiYYPldZaR0s,2010-01-01,42,198373,0.458,0.599,0.548,1.25e-05,0.106,0.55,-7.1,0.0263,90.599,2,4
+Contentment,Count on Me,Doo-Wops & Hooligans,Bruno Mars,7l1qvxWjxcKpB9PCtBuTbU,2010-10-05,75,197469,0.589,0.851,0.389,0.0,0.0772,0.501,-5.972,0.028,89.1,0,4
+Contentment,The Show,Lenka,Lenka,6IfGxW1hRMUjjgVSDXwcAi,2008-09-09,0,235693,0.753,0.259,0.59,0.0,0.0836,0.593,-4.144,0.0317,123.028,0,4
+Contentment,Rhythm Of Love,Wonders Of The Younger (International Version),Plain White T's,1OUxBM6TphEnDh4EQkNRv1,2010-01-01,53,200200,0.531,0.363,0.549,0.0,0.118,0.681,-7.895,0.0378,171.781,8,4
+Contentment,Lucky,We Sing. We Dance. We Steal Things.,Jason Mraz,0IktbUcnAGrvD03AWnz3Q8,2008-05-12,74,189613,0.625,0.294,0.414,0.0,0.151,0.669,-8.7,0.0369,130.088,0,4
+Contentment,New Soul,Yael Naïm,Yael Naim,476JcJ3TpAuCOlGdCmomGm,2007-10-22,56,225106,0.769,0.733,0.371,3.73e-05,0.106,0.653,-8.522,0.0326,100.001,0,4
+Contentment,Sunday Morning,Songs About Jane,Maroon 5,4T5cqerbDXueYSVfXkIITo,2002-06-25,0,244866,0.604,0.0756,0.761,0.0,0.062,0.787,-5.227,0.0468,88.04,0,4
+Contentment,Brighter Than The Sun,All Of You,Colbie Caillat,5YTtTbqxUzJHD3CpbNHerP,2011-01-01,65,231213,0.629,0.00952,0.793,1.15e-06,0.218,0.588,-5.942,0.0346,95.981,9,4
+Contentment,Budapest,Wanted on Voyage,George Ezra,7q0aQpiLv5tIsupcgQ3Ny4,2015-01-20,5,200733,0.717,0.0846,0.455,0.0,0.11,0.389,-8.303,0.0276,127.812,5,4
+Contentment,Bubbly,Coco,Colbie Caillat,1lkvpmrCaXK8QtliFDcHBO,2007-01-01,73,196226,0.688,0.594,0.477,0.0,0.115,0.257,-6.684,0.036,127.866,9,4
+Contentment,Ophelia,Cleopatra,The Lumineers,3d8y0t70g7hw2FOWl9Z4Fm,2016-04-08,76,160097,0.664,0.613,0.573,0.000363,0.0857,0.566,-6.519,0.0277,76.023,5,4
+Contentment,Somewhere Only We Know,Hopes And Fears,Keane,0ll8uFnc0nANY35E0Lfxvg,2004-01-01,74,236160,0.453,0.0794,0.655,7.61e-06,0.0849,0.368,-4.22,0.0259,172.012,9,4
+Contentment,Girls Chase Boys,Lights Out,Ingrid Michaelson,14sAMwqbuFDSlLKmVBD9MI,2014-04-15,3,221413,0.473,0.031,0.82,1.55e-05,0.0414,0.678,-5.702,0.0408,84.893,8,4
+Contentment,I'm Yours,We Sing. We Dance. We Steal Things.,Jason Mraz,1EzrEOXmMH3G43AXT1y7pA,2008-05-12,81,242946,0.703,0.559,0.444,0.0,0.0973,0.712,-9.331,0.0417,150.96,11,4
+Contentment,Everybody,Everybody,Ingrid Michaelson,05xaXtqDCSFR9OLS5tL5oQ,2009-08-25,0,209546,0.74,0.446,0.63,0.0,0.08,0.464,-6.735,0.0338,95.014,11,4
+Contentment,Barcelona,Wanted on Voyage,George Ezra,58Qol5xzalwqF912GE9vQv,2015-01-20,0,188960,0.629,0.32,0.572,0.000853,0.109,0.182,-9.332,0.0307,93.997,5,4
+Contentment,You're Beautiful,Back to Bedlam,James Blunt,0vg4WnUWvze6pBOJDTq99k,2005-08-08,76,209493,0.675,0.633,0.479,1.76e-05,0.088,0.454,-9.87,0.0278,81.998,0,4
+Contentment,Secrets,Waking Up,OneRepublic,1NhPKVLsHhFUHIOZ32QnS2,2009-01-01,76,224693,0.516,0.0717,0.764,0.0,0.115,0.376,-6.223,0.0366,148.021,2,4
+Contentment,Say You Won't Let Go,Say You Won't Let Go,James Arthur,1Pw5C4N6Fn5E4mGCxmbbVa,2016-09-09,68,211240,0.4,0.693,0.564,0.0,0.0863,0.483,-7.444,0.0523,99.269,10,4
+Contentment,Pocketful of Poetry,Pocketful of Poetry,Mindy Gledhill,664BaAuqpjA66k9w31s29R,2013-09-10,0,140293,0.718,0.424,0.499,7.27e-06,0.125,0.665,-6.968,0.0294,122.92,0,4
+Contentment,Hey There Delilah - Bonus Track,Every Second Counts,Plain White T's,3DWOTqMQGp5q75fnVsWwaN,2006,61,233280,0.522,0.831,0.453,1.21e-06,0.101,0.306,-7.859,0.0295,103.879,2,4
+Contentment,Danny's Song,Sittin' In,Loggins & Messina,5mnvqisoDJilY0uCEdT8rG,1972,51,255773,0.507,0.806,0.198,0.0,0.102,0.601,-16.089,0.0324,141.261,2,4
+Contentment,September Song - Guitar Acoustic,September Song (Guitar Acoustic),JP Cooper,7hmcaSpHioj7SGfOU565WI,2016-10-14,0,212152,0.595,0.313,0.419,0.0,0.107,0.524,-7.91,0.0295,94.853,0,4
+Contentment,I Think I'm In Love,My Garden,Kat Dahlia,3U1TuSqHIubBA10cVP7Sk6,2015-01-09,71,202666,0.632,0.137,0.638,0.0,0.125,0.574,-6.731,0.0505,121.868,7,3
+Contentment,The A Team,+,Ed Sheeran,1VdZ0vKfR5jneCmWIUAMxK,2011-09-09,74,258373,0.642,0.669,0.289,0.0,0.18,0.407,-9.918,0.0367,84.996,9,4
+Contentment,Helplessly,Helplessly,Tatiana Manaois,1pvGWSvIXr8PTk8nC4SnXK,2014-03-23,56,185480,0.51,0.925,0.185,0.0,0.122,0.418,-13.651,0.0644,79.092,11,4
+Contentment,Marry You,Doo-Wops & Hooligans,Bruno Mars,22PMfvdz35fFKYnJyMn077,2010-10-05,75,230192,0.621,0.332,0.82,0.0,0.104,0.452,-4.865,0.0367,144.905,10,4
+Contentment,Thinking out Loud,x (Deluxe Edition),Ed Sheeran,34gCuhDGsG4bRPIf9bb02f,2014-06-21,83,281560,0.781,0.474,0.445,0.0,0.184,0.591,-6.061,0.0295,78.998,2,4
+Contentment,Ho Hey,The Lumineers,The Lumineers,0W4Kpfp1w2xkY3PrV714B7,2012-04-03,75,163133,0.685,0.794,0.466,2.06e-06,0.0915,0.353,-9.074,0.0304,79.936,0,4
+Contentment,"Gone, Gone, Gone",The World From The Side Of The Moon (Deluxe),Phillip Phillips,5L79aNYCTKiZq7vaOElXYj,2013-01-01,71,209693,0.664,0.129,0.642,0.0,0.114,0.501,-5.961,0.038,118.002,6,4
+Contentment,For the First Time,Science & Faith,The Script,09ZcYBGFX16X8GMDrvqQwt,2011-01-18,62,252853,0.396,0.0328,0.629,0.0,0.183,0.358,-4.78,0.0287,173.794,9,4
+Contentment,Good Life,Waking Up,OneRepublic,6OtCIsQZ64Vs1EbzztvAv4,2009-01-01,74,253306,0.634,0.0771,0.69,0.0,0.132,0.645,-7.804,0.052,94.988,6,4
+Contentment,She Will Be Loved,Songs About Jane,Maroon 5,5s5t0OFg9lIlBFaCI14K1i,2002-06-25,0,257133,0.524,0.0567,0.711,0.0,0.134,0.539,-5.494,0.0405,203.867,0,4
+Contentment,Let Her Go,All the Little Lights,Passenger,6GmUVqe73u5YRfUUynZK6I,2012-06-29,4,252733,0.479,0.365,0.545,0.0,0.0963,0.244,-7.346,0.0688,74.897,7,4
+Contentment,Home,The World From The Side Of The Moon (Deluxe),Phillip Phillips,4rsW3WCZBGwhHfJWuHRwyT,2013-01-01,69,210173,0.606,0.0256,0.826,1.56e-05,0.117,0.322,-6.04,0.0307,121.04,0,4
+Contentment,Hold Back The River,Chaos And The Calm,James Bay,1KZyVnyptQcPzkx7ELCnZC,2015-03-20,70,238746,0.715,0.0526,0.715,0.0,0.0936,0.507,-7.364,0.0902,134.922,5,4
+Contentment,Starving - Acoustic,Starving (Acoustic),Hailee Steinfeld,3rdTo5LQGou3pS2ZLxTAcQ,2016-11-11,58,181293,0.788,0.586,0.262,0.0,0.117,0.719,-8.354,0.0419,99.859,4,4
+Contentment,Breakeven,The Script,The Script,38xWaVFKaxZlMFvzNff2aW,2008-09-08,69,261426,0.627,0.174,0.699,0.0,0.0789,0.535,-4.504,0.0244,94.003,10,4
+Contentment,Riptide,Dream Your Life Away (Special Edition),Vance Joy,3JvrhDOgAt6p7K8mDyZwRd,2014-09-09,80,204280,0.484,0.431,0.731,0.0,0.151,0.51,-6.694,0.0379,101.654,1,4
+Contentment,Better Place,Wildfire,Rachel Platten,7xbXQeepclfQNqI3mLPb3c,2016-01-01,59,176386,0.557,0.914,0.4,0.000897,0.107,0.348,-8.16,0.0274,100.205,0,4
+Contentment,Lego House,+,Ed Sheeran,5ubHAQtKuFfiG4FXfLP804,2011-09-09,72,185093,0.592,0.562,0.637,0.0,0.13,0.565,-8.48,0.0992,159.701,11,4
+Contentment,Good News,Ocean Park Standoff,Ocean Park Standoff,1dXCXb006YbPSAajh6qhaF,2017-03-03,53,188138,0.602,0.172,0.793,0.0,0.069,0.283,-4.043,0.0767,90.093,9,4
+Contentment,Let It Go,Chaos And The Calm,James Bay,3nnG7AM9QopHVPEuLX3Khk,2015-03-20,72,260533,0.536,0.82,0.311,1.65e-05,0.107,0.246,-10.396,0.0288,147.486,1,4
+Contentment,Won't Go Home Without You,It Won't Be Soon Before Long.,Maroon 5,0tuyEYTaqLxE41yGHSsXjy,2007-01-01,63,231173,0.737,0.0149,0.615,0.0,0.102,0.41,-3.76,0.0317,110.023,3,4
+Contentment,East of Eden,Kicker,Zella Day,2Wc2tcQl7cPetPKeXH3GD3,2015-01-01,68,186213,0.598,0.0355,0.803,9.66e-05,0.107,0.567,-3.203,0.0349,122.889,1,4
+Contentment,Photograph,x (Deluxe Edition),Ed Sheeran,1HNkqx9Ahdgi1Ixy2xkKkL,2014-06-21,85,258986,0.614,0.607,0.379,0.000464,0.0986,0.201,-10.48,0.0476,107.989,4,4
+Contentment,Habits of My Heart,Habits of My Heart,Jaymes Young,0elXIl26ZrovBULLTrEGK6,2014-09-28,61,210639,0.392,0.665,0.498,0.000118,0.34,0.59,-7.63,0.117,72.048,9,4
+Contentment,(Sittin' On) the Dock of the Bay,"Atlantic 60th: Soul, Sweat And Strut",Various Artists,50uGbeaQIxKiSc7jvRTjWx,2007-10-30,62,166826,0.484,0.724,0.312,1.65e-06,0.0601,0.598,-13.522,0.0535,205.981,2,4
+Contentment,Can't Help Falling in Love,Can't Help Falling in Love,Haley Reinhart,0Rm2G83ELwkuEgpHlJcBPn,2015-10-09,0,173500,0.406,0.951,0.0307,0.0,0.0984,0.245,-17.636,0.04,136.716,0,4
+Contentment,Mess Is Mine,Dream Your Life Away (Special Edition),Vance Joy,29jtZGdgpE2lWm2mkIt6HS,2014-09-09,67,223640,0.595,0.047,0.723,0.0286,0.0995,0.272,-8.256,0.0349,108.043,7,1
+Contentment,Fire and the Flood,Dream Your Life Away (Special Edition),Vance Joy,6liNJDyWJjyHAgDnAX95bw,2014-09-09,67,249382,0.596,0.0242,0.827,0.0,0.0958,0.329,-4.402,0.0372,115.034,5,4
+Contentment,Love Yourself,Love Yourself,Justin Bieber,5KFcz1OYNXyDX7HzSIsNdk,2015-11-09,0,233746,0.762,0.849,0.376,0.0,0.205,0.541,-9.931,0.363,100.084,4,4
+Contentment,Thinking Out Loud,Thinking Out Loud,Ed Sheeran,2NR99tTHkakE63qMMnkgZV,2014-06-18,0,281560,0.781,0.474,0.445,0.0,0.184,0.591,-6.061,0.0295,78.998,2,4
+Contentment,Better Together,Better Together,Us The Duo,6huS9u0BDfeQHq0lObNLPl,2015-04-28,65,200706,0.761,0.647,0.311,0.0,0.15,0.553,-10.597,0.0692,109.891,5,4
+Contentment,House of Gold,Vessel,Twenty One Pilots,36tghkPg1AO4HsAzo6YpPp,2013-01-08,69,163880,0.68,0.445,0.693,0.0,0.208,0.851,-7.234,0.0435,114.948,0,4
+Contentment,What Do I Know?,÷ (Deluxe),Ed Sheeran,2pJZ1v8HezrAoZ0Fhzby92,2017-03-03,68,237333,0.838,0.251,0.492,0.0,0.262,0.895,-5.69,0.038,115.092,1,4
+Contentment,Tired of Talking,Treasure - EP,LÉON,63MRutmAXJwkxhMhPHoioS,2015-12-03,53,197000,0.669,0.127,0.693,2.94e-06,0.174,0.398,-6.407,0.0695,100.946,9,4
+Contentment,Only Love,Every Kingdom,Ben Howard,2uhEKg8kIzpdvz4gyy6x8W,2011-01-01,70,249173,0.545,0.3,0.485,0.00137,0.119,0.341,-9.941,0.151,80.401,8,4
+Contentment,Fire and Rain,Sweet Baby James,James Taylor,3LcYYV9ozePfgYYmXv0P3r,1970,1,200579,0.611,0.499,0.35,7.84e-06,0.0844,0.36,-14.48,0.0356,76.064,5,4
+Contentment,Catch & Release - Deepend Remix,Catch & Release (Deepend Remix),Matt Simons,4X99feVnw46VIk2VNqWWL3,2015-09-18,50,195573,0.834,0.488,0.55,0.000476,0.109,0.142,-8.622,0.0451,105.008,1,4
+Contentment,Daughters,Heavier Things,John Mayer,5FPnjikbwlDMULCCCa6ZCJ,2003-09-09,67,237906,0.674,0.836,0.413,1.95e-05,0.098,0.503,-7.816,0.0274,124.893,2,3
+Contentment,Carry On,Carry On,Young Rising Sons,4dpD3TDufxz2rQ9JLkYPgV,2017-02-10,53,209585,0.639,0.456,0.654,8.45e-05,0.16,0.595,-5.287,0.0528,91.933,7,4
+Contentment,Lights Down Low,Hell's Kitchen Angel,MAX,5A6BJLZArq1MPjsnmcuk5f,2016-04-08,64,223846,0.623,0.0632,0.493,0.0,0.104,0.594,-7.727,0.0338,81.019,5,4
+Contentment,Oblivion,Bad Blood,Bastille,6ZeQp2XTOiPCePWRfCHSo5,2013-01-01,52,196346,0.422,0.76,0.321,2.33e-06,0.429,0.28,-8.952,0.0294,78.533,5,4
+Contentment,This Town,This Town,Niall Horan,5dTJMpqiELczVuHJP3OAEu,2016-09-29,60,232600,0.679,0.699,0.407,0.0,0.122,0.195,-7.778,0.0302,111.814,9,4
+Contentment,Somewhere Over The Rainbow_What A Wonderful World,Facing Future,Israel Kamakawiwo'ole,25U7raB3ZSszayTYClh4hF,1993-11-01,71,308026,0.663,0.928,0.168,5.68e-05,0.361,0.678,-13.725,0.0448,85.005,0,4
+Contentment,Kids,Oracular Spectacular,MGMT,1jJci4qxiYcOHhQR247rEU,2007-12-14,79,302840,0.451,0.00076,0.931,0.0049,0.361,0.172,-3.871,0.0719,122.961,9,4
+Contentment,There's Nothing Holdin' Me Back - Acoustic,There's Nothing Holdin' Me Back (Acoustic),Shawn Mendes,6gnS49VEamgI5zQmjsUxs3,2017-07-07,0,201093,0.776,0.501,0.573,0.0,0.212,0.905,-5.576,0.0481,121.931,11,4
+Contentment,Perfect Strangers - Acoustic,Perfect Strangers (Acoustic),Jonas Blue,10g2KYRNWnxFLfjIqMTRyV,2016-07-15,0,191206,0.68,0.71,0.674,0.0,0.106,0.599,-4.179,0.0388,117.667,0,4
+Contentment,History,History,One Direction,1Fp6l6zY6qrBg7NuvYgp8n,2015-11-06,0,187426,0.655,0.0352,0.699,0.0,0.064,0.802,-4.421,0.0493,86.704,11,4
+Contentment,Perfect,÷ (Deluxe),Ed Sheeran,0tgVpDi06FyKpA1z0VMD4v,2017-03-03,86,263400,0.599,0.163,0.448,0.0,0.106,0.168,-6.312,0.0232,95.05,8,3
+Contentment,Vacation,Vacation,Dirty Heads,7cdy4PbCdDZZNjyxoZyE0c,2017-08-11,68,209721,0.736,0.0381,0.751,0.0,0.105,0.839,-5.588,0.034,150.064,8,4
+Contentment,Brand New,Brand New,Ben Rector,5EQ9yEra0SzVd673ZfKT4C,2015-08-28,0,243933,0.553,0.00338,0.936,1.35e-06,0.102,0.412,-5.015,0.11,144.884,9,4
+Contentment,Everybody Talks,Picture Show (Deluxe Edition),Neon Trees,3528IXKpbb7OMjdjWYlbfD,2012-01-01,53,177280,0.471,0.00301,0.924,0.0,0.313,0.725,-3.906,0.0586,154.961,8,4
+Contentment,I'm Not Famous,I'm Not Famous,AJR,050zgQwx9777OCfto94ll5,2016-03-25,0,220712,0.419,0.0143,0.741,0.0,0.309,0.671,-3.687,0.129,95.044,5,4
+Contentment,Lost Boys,Ocean Park Standoff,Ocean Park Standoff,434j2chLPaquCFLIKCcxAB,2017-03-03,57,229411,0.619,0.0449,0.821,0.0,0.112,0.532,-5.626,0.0308,117.0,9,4
+Contentment,Smile For Me (feat. Robin Thicke),In It To Win It,Charlie Wilson,7jGMczpju2gPgGArB1DiiJ,2017-02-17,29,197253,0.605,0.295,0.639,0.0,0.0696,0.484,-5.103,0.0637,88.576,1,4
+Contentment,High,Young Rising Sons,Young Rising Sons,4gTwPFGhIIlYtlo59jbVUB,2014-07-08,55,165720,0.646,0.028,0.85,7.21e-05,0.281,0.518,-5.145,0.043,116.999,7,4
+Contentment,Spirits,Hope,The Strumbellas,5U1eDhGNl6uUQThJ4nBm7z,2016-04-22,0,203653,0.54,0.169,0.729,0.0,0.112,0.779,-3.709,0.0276,80.454,0,4
+Contentment,Haven't Met You Yet,Crazy Love,Michael Bublé,4fIWvT19w9PR0VVBuPYpWA,2009-10-06,71,244586,0.615,0.152,0.733,0.0,0.109,0.796,-4.808,0.0335,122.58,8,4
+Contentment,It's a Beautiful Day,To Be Loved,Michael Bublé,0mvkwaZMP2gAy2ApQLtZRv,2013-04-11,68,199266,0.532,0.0559,0.795,0.0,0.295,0.78,-3.979,0.0358,143.837,1,4
+Contentment,I Won't Give Up,Love Is a Four Letter Word (Deluxe Edition),Jason Mraz,53QF56cjZA9RTuuMZDrSA6,2012-04-13,71,240165,0.483,0.694,0.303,0.0,0.115,0.139,-10.058,0.0429,133.406,4,3
+Contentment,Put Your Records On,Corinne Bailey Rae,Corinne Bailey Rae,2dEJE18eoskLm4bjSW6kmY,2006,39,213538,0.737,0.162,0.502,3.71e-06,0.181,0.582,-7.871,0.0355,96.067,9,4
+Contentment,"Hey, Soul Sister","Save Me, San Francisco (Golden Gate Edition)",Train,6mghCOaaSvrke0z1EUVUIf,2009,0,216773,0.674,0.203,0.89,0.0,0.0819,0.737,-4.446,0.0459,97.02,1,4
+Contentment,Love Song,Little Voice,Sara Bareilles,4E6cwWJWZw2zWf7VFbH7wf,2007-07-03,74,258826,0.583,0.0208,0.786,0.0,0.188,0.573,-3.142,0.0301,123.055,2,4
+Contentment,Another Day in Paradise,Change of Scenery,Quinn XCII,4gHSezW5CHZCvjAUjF2pd5,2015-04-28,0,255000,0.652,0.161,0.802,0.0,0.143,0.559,-5.308,0.0669,167.952,11,5
+Contentment,All I Want,In A Perfect World,Kodaline,2PwXOevGUSkU8qaYZjgLq2,2013-10-08,0,305746,0.209,0.172,0.412,0.15,0.0843,0.162,-9.733,0.0443,86.26,0,3
+Contentment,I Choose You,The Blessed Unrest,Sara Bareilles,7jJH8F3PHlNvxfqEAAfFDl,2013-07-16,64,218573,0.731,0.105,0.572,0.00012,0.133,0.947,-7.889,0.0445,154.038,6,4
+Contentment,Live Like We're Dying,Live Like We're Dying,Kris Allen,51YhN4y2tOvfI0Sv1hoBRo,2009-09-25,42,212746,0.578,0.0267,0.9,0.0,0.287,0.934,-2.501,0.0443,92.011,0,4
+Contentment,Fine By Me,Andy Grammer,Andy Grammer,7tg0OrYieTMcQmxIczNMqE,2011-01-01,0,172813,0.603,0.00975,0.801,0.0,0.0443,0.863,-4.095,0.0326,89.998,11,4
+Contentment,Life Happens,Life Happens - Single,Brandon & Leah,2Et7zuKHDbuXollVNWgIkH,2012-01-24,31,230139,0.78,0.645,0.712,0.0,0.0627,0.681,-5.911,0.184,139.968,9,4
+Contentment,Ride,Blurryface,Twenty One Pilots,2Z8WuEywRWYTKe1NybPQEW,2015-05-15,82,214506,0.645,0.00835,0.713,0.0,0.113,0.566,-5.355,0.0393,74.989,6,4
+Contentment,Good Old Days (feat. Kesha),GEMINI,Macklemore,2Za1AlJNvksouPPWbXpR2X,2017-09-22,71,240506,0.712,0.446,0.51,2.46e-05,0.112,0.268,-8.162,0.0633,122.964,8,4
+Contentment,Fallin' For You,Breakthrough (Deluxe Edition),Colbie Caillat,1le5KVGTF1xWf2aUj7ruLy,2009,61,215546,0.644,0.156,0.834,0.0,0.112,0.593,-6.473,0.0275,117.043,4,4
+Contentment,All of the Stars,x (Wembley Edition),Ed Sheeran,3Th56VIq2sEaEmPPETu7p5,2013,56,237146,0.54,0.00886,0.557,0.000182,0.307,0.287,-6.097,0.0259,75.035,11,4
+Contentment,Tee Shirt - Soundtrack Version,Tee Shirt,Birdy,3C5in0EVdoGepp5bA6lhlE,2014-05-13,57,159506,0.684,0.837,0.341,2.69e-05,0.0883,0.557,-9.497,0.0272,75.948,9,4
+Contentment,Your Body Is a Wonderland,Room For Squares,John Mayer,7vFv0yFGMJW3qVXbAd9BK9,2001-08-16,74,249626,0.647,0.0206,0.729,0.0489,0.134,0.687,-6.251,0.0236,94.01,5,4
+Contentment,Nervous - The Ooh Song/Mark McCabe Remix,Nervous (The Ooh Song/Mark McCabe Remix),Gavin James,3eRvE11OJfCYnaZwCFhMZD,2016-06-24,45,195413,0.634,0.254,0.822,0.000418,0.262,0.285,-7.438,0.0408,104.982,7,4
+Contentment,Where Is The Love?,Elephunk,Black Eyed Peas,3CNqo3gYrfexdrtjFmC9he,2003,40,272533,0.834,0.11,0.696,0.0,0.13,0.804,-3.224,0.197,94.09,5,4
+Contentment,Smile,Happy Hour,Uncle Kracker,4ZC8hXXqu2hPcDLw9QTdtQ,2009-09-11,68,201626,0.541,0.203,0.812,0.0,0.42,0.607,-3.764,0.0336,141.056,4,4
+Contentment,Free Fallin',Full Moon Fever,Tom Petty,5tVA6TkbaAH9QMITTQRrNv,1989-01-01,79,256000,0.623,0.212,0.449,0.0,0.0613,0.572,-13.333,0.0253,84.383,5,4
+Contentment,Daylight,Overexposed (Deluxe),Maroon 5,6TwfdLbaxTKzQi3AgsZNzx,2012-01-01,63,225306,0.657,0.00246,0.679,0.0,0.211,0.331,-5.511,0.0269,120.007,2,4
+Contentment,Drift Away,No Stranger to Shame,Uncle Kracker,0RFgvrhkf9FiDRLA0BhzpZ,2002-07-09,69,255560,0.583,0.181,0.66,0.0,0.0979,0.861,-5.078,0.0377,151.956,11,4
+Contentment,3 Foot Tall,Classified,Classified,7KtB8hfz8uH2BFC7ua1cNr,2014-09-30,46,220946,0.609,0.25,0.742,0.0,0.641,0.523,-5.739,0.0989,75.892,11,4
+Contentment,Easily,Easily,Bruno Major,3TpXajg1nKzG3ngc9tBwrD,2016-11-25,0,210240,0.772,0.491,0.256,0.00612,0.144,0.357,-8.545,0.0481,118.902,7,3
+Contentment,I Lived,Native,OneRepublic,7D49Iig0avHre9RFSUMkd2,2014-01-01,70,234546,0.599,0.0746,0.854,0.0,0.278,0.311,-5.429,0.0436,119.986,9,4
+Contentment,Something I Need,Native,OneRepublic,4KANJH1baadr3U7XsVbM17,2014-01-01,57,241266,0.683,0.164,0.601,0.0,0.119,0.62,-6.927,0.0308,98.97,7,4
+Contentment,Fresh Eyes,Fresh Eyes,Andy Grammer,7wahqDDzUPpJy91bVFHUF3,2016-12-09,51,198001,0.828,0.548,0.56,3.66e-05,0.15,0.872,-6.685,0.0327,122.054,0,4
+Contentment,Snow (Hey Oh),Stadium Arcadium,Red Hot Chili Peppers,2aibwv5hGXSgw7Yru8IYTO,2006-05-09,80,334666,0.427,0.116,0.9,1.75e-05,0.119,0.599,-3.674,0.0499,104.655,11,4
+Contentment,On Top Of The World,Night Visions (Deluxe),Imagine Dragons,6KuHjfXHkfnIjdmcIvt9r0,2012-09-04,69,189840,0.635,0.0893,0.926,4.53e-06,0.0928,0.761,-5.589,0.151,100.048,0,4
+Contentment,If I Lose Myself,Native,OneRepublic,7hIRQZhDjab4YgqkkkehV9,2014-01-01,58,241640,0.482,0.0969,0.713,0.0,0.111,0.263,-6.017,0.0487,140.069,2,4
+Contentment,Superheroes,No Sound Without Silence,The Script,37sINbJZcFdHFAsVNsPq1i,2014-09-15,75,245466,0.49,0.00218,0.885,0.0,0.0741,0.64,-4.121,0.0396,166.996,3,4
+Contentment,Keep Your Head Up,Andy Grammer,Andy Grammer,7MapZTlRqFfUteNcghsTwf,2011-01-01,0,190480,0.666,0.044,0.78,0.0,0.128,0.795,-5.177,0.0404,90.004,7,4
+Contentment,Mama - Acoustic,Mama (Acoustic),Jonas Blue,2o5woNaj4eQXCwbrJ001A2,2017-06-30,55,192277,0.463,0.769,0.367,0.0,0.0782,0.577,-5.881,0.0686,87.689,10,4
+Contentment,Feel Again,Native,OneRepublic,75hLNJfiXV5k2YGrbGEW51,2014-01-01,57,185080,0.467,0.0198,0.815,1.23e-06,0.118,0.335,-7.929,0.0524,140.047,7,4
+Contentment,Shots - Broiler Remix,Shots EP,Imagine Dragons,4XLm8FNvaTlmTAZmSrrV82,2015-05-04,58,191266,0.73,0.411,0.782,0.11,0.108,0.606,-7.109,0.0336,120.018,11,4
+Contentment,What Do You Mean? - Acoustic,Purpose (Deluxe),Justin Bieber,5YNf9s8WE3iF33YaFNrgpa,2015-11-13,60,203800,0.773,0.794,0.358,0.0,0.104,0.756,-10.634,0.044,124.934,8,4
+Contentment,We Just Havent Met Yet,We Just Havent Met Yet,Russ,0VzDv4wiuZsLsNOmfaUy2W,2016-09-11,54,237322,0.584,0.0785,0.559,0.0,0.0689,0.145,-7.565,0.032,87.528,0,4
+Contentment,Issues,Nervous System,Julia Michaels,7vu0JkJh0ldukEYbTVcqd0,2017-07-28,74,176320,0.728,0.401,0.415,0.0,0.0616,0.455,-6.852,0.0639,114.145,8,4
+Contentment,Love Somebody,Overexposed (Deluxe),Maroon 5,0HnaqUxvHP5LaWdmWwJpiS,2012-01-01,60,229813,0.675,0.145,0.792,0.0,0.12,0.395,-6.303,0.0368,120.016,1,4
+Contentment,The Man,Lift Your Spirit,Aloe Blacc,2stPxcgjdSImK7Gizl8ZUN,2014-01-01,59,254880,0.308,0.0331,0.769,0.0,0.214,0.488,-7.256,0.065,81.853,11,4
+Contentment,Don't Worry Be Happy,The Best Of Bobby McFerrin,Bobby McFerrin,4v52HuhZqVV0eNpP6vzH5I,1996-01-01,51,291560,0.644,0.884,0.165,0.000197,0.0603,0.779,-22.591,0.162,67.865,11,4
+Contentment,Sweater Weather,I'm Sorry...,The Neighbourhood,4pGqFOfzvfe6avb9kbZicC,2012-08-07,62,240040,0.695,0.15,0.615,0.000212,0.0879,0.414,-5.325,0.042,124.015,7,4
+Contentment,San Francisco,Waiting For The Dawn,The Mowgli's,2eQOMQkStoRUQyq6HGh1iG,2013-01-01,56,173093,0.307,0.0215,0.847,0.0,0.0783,0.34,-4.215,0.0551,93.072,11,4
+Contentment,This Love,Songs About Jane,Maroon 5,5zF2zGPkL6Ipsn9AfAK6RP,2002-06-25,0,206200,0.714,0.0551,0.868,0.0,0.0987,0.78,-4.596,0.0363,95.05,5,4
+Contentment,All the Pretty Girls,All the Pretty Girls,KALEO,2eiY8qXiV6yReXSeuoplns,2015-01-20,45,269893,0.466,0.626,0.496,6.22e-06,0.117,0.352,-6.606,0.0302,74.747,1,4
+Contentment,Ain't Nobody Takin My Baby,Ain't Nobody Takin My Baby,Russ,6VnqGxiMNexOe0kRmIsBw4,2016-12-23,66,189231,0.696,0.673,0.57,3.02e-06,0.098,0.329,-9.084,0.557,76.976,0,4
+Contentment,Shot Down,American Teen,Khalid,1Ob94QesoxHSBrypyBbdfd,2017-04-27,63,207106,0.767,0.893,0.512,0.000223,0.103,0.489,-6.777,0.0591,123.921,6,4
+Contentment,One Day,Light,Matisyahu,0nCZDQrlWA149QdGTdlsFU,2010-01-12,59,207573,0.346,0.198,0.61,0.0,0.117,0.235,-5.818,0.15,68.552,0,4
+Contentment,How Hard I Try,Dawn EP,filous,0OfZ9imMwFU03zc2wl8pBt,2015-07-17,58,198000,0.743,0.299,0.564,0.000693,0.109,0.505,-8.761,0.045,120.012,5,4
+Contentment,Tongue Tied,Never Trust a Happy Song,Grouplove,0GO8y8jQk1PkHzS31d699N,2011-09-02,81,218013,0.56,0.00847,0.936,0.0,0.161,0.371,-5.835,0.0439,112.96,3,4
+Contentment,I Fall Apart,Stoney (Deluxe),Post Malone,75ZvA4QfFiZvzhj2xkaWAh,2016-12-09,80,223346,0.556,0.0689,0.538,0.0,0.196,0.291,-5.408,0.0382,143.95,8,4
+Contentment,Coaster,American Teen,Khalid,39KG4kom3enSx4GTThuDGt,2017-04-27,72,199120,0.441,0.935,0.219,0.0,0.115,0.244,-14.586,0.0419,94.021,8,4
+Contentment,Trouble,Me and My Uke,Never Shout Never,4UuVbsWwTyfJ6CcNOCtzBe,2009-11-03,57,145906,0.809,0.918,0.28,0.0,0.179,0.564,-8.818,0.329,122.046,10,4
+Contentment,Banana Pancakes,In Between Dreams,Jack Johnson,451GvHwY99NKV4zdKPRWmv,2005-01-01,70,191906,0.816,0.607,0.375,8.66e-06,0.0933,0.615,-8.053,0.0996,114.303,7,4
+Contentment,You and I,Be OK,Ingrid Michaelson,6zYqyOJuyXDOvWJwKkZ8tg,2008,0,148400,0.698,0.927,0.286,0.0,0.0883,0.529,-7.632,0.0553,135.032,0,4
+Contentment,I Was Made For Loving You,Unbreakable Smile,Tori Kelly,1Xwh83YOFQARZ3QXscP123,2016-01-29,60,188946,0.417,0.346,0.349,0.0,0.0963,0.198,-11.984,0.0285,145.505,2,4
+Contentment,Bright,Talking Dreams (Deluxe Edition),Echosmith,3WKg25vrbjJlkhsgl2W4p3,2013-10-04,61,220626,0.646,0.637,0.431,6.99e-06,0.113,0.292,-8.517,0.0262,90.034,6,4
+Contentment,Don't Say Goodnight,Don't Say Goodnight,Hot Chelle Rae,5KpBYmEiClvljtwbjEhIJq,2014-02-08,54,211813,0.599,0.0064,0.791,0.0,0.0924,0.574,-4.975,0.0585,92.862,10,4
+Contentment,Keep Me Warm,Keep Me Warm,Erin Bowman,1MQR8Hjr0q2Cwpju62v1nc,2014-11-24,18,155666,0.814,0.17,0.498,0.0,0.0705,0.48,-8.905,0.0943,89.99,0,4
+Contentment,Perfect Duet (Ed Sheeran & Beyoncé),Perfect Duet (Ed Sheeran & Beyoncé),Ed Sheeran,1bhUWB0zJMIKr9yVPrkEuI,2017-11-30,80,259550,0.587,0.779,0.299,0.0,0.123,0.356,-7.365,0.0263,94.992,8,3
+Contentment,Best Shot,The Fault In Our Stars: Music From The Motion Picture,Various Artists,04F1slSLfciNXAPZgdXtmW,2014-05-19,46,173626,0.693,0.592,0.477,0.0,0.118,0.31,-8.012,0.0305,122.06,5,4
+Contentment,Like I'm Gonna Lose You (feat. John Legend),Title (Deluxe),Meghan Trainor,2YlZnw2ikdb837oKMKjBkW,2015-01-09,78,225053,0.63,0.4,0.53,0.0,0.177,0.417,-7.259,0.0434,108.038,0,3
+Contentment,Realize,Coco,Colbie Caillat,5OGkKx8jP0A5KSULEc6XYZ,2007-01-01,57,244106,0.693,0.13,0.594,0.0,0.115,0.192,-6.408,0.0325,123.932,1,4
+Contentment,Bad 4 U,Bad 4 U,Imad Royal,4IChWtexBegNreTAIEH1cK,2016-06-24,34,192359,0.845,0.436,0.553,0.0,0.057,0.568,-5.681,0.0599,121.959,5,4
+Contentment,Bootleggin',Bloom,Quinn XCII,28P6Cr4NvWmCrFj2hH66dU,2016-03-11,0,203500,0.826,0.12,0.504,0.0,0.148,0.476,-6.026,0.052,123.967,0,4
+Contentment,All of Me,Love In The Future (Expanded Edition),John Legend,3U4isOIWM3VvDubwSI3y7a,2013-08-30,85,269560,0.422,0.922,0.264,0.0,0.132,0.331,-7.064,0.0322,119.93,8,4
+Contentment,A Drop In The Ocean,Come Through For You,Javier Colon,7fY6WvN5gbh8lXFGtqrtFd,2011,26,206386,0.318,0.25,0.56,0.0,0.27,0.355,-5.157,0.0346,95.885,7,4
+Contentment,Put Your Head On My Shoulder,Put Your Head On My Shoulder: The Very Best Of Paul Anka,Paul Anka,2DpJ9T2RVRanZcYFHKOAfA,2000-10-03,69,154733,0.547,0.747,0.335,0.0,0.101,0.474,-9.2,0.0307,115.838,4,3
+Contentment,Young Girls,Unorthodox Jukebox,Bruno Mars,3G5iN5QBqMeXx3uZPy8tgB,2012-12-07,66,228720,0.561,0.461,0.749,1.82e-06,0.205,0.501,-4.951,0.032,125.986,6,4
+Contentment,She Sets The City On Fire,She Sets The City On Fire,Gavin DeGraw,1LWEjUzrngRXdUBaf7GWYI,2016-07-15,46,218631,0.617,0.0139,0.615,0.0,0.0897,0.564,-6.518,0.0567,125.898,4,4
+Contentment,Broke Billionaire,Faces on Film,Jacob Whitesides,55ssQkghuOU1YS91AeKDJ2,2015-10-23,17,209106,0.67,0.0185,0.779,5.49e-06,0.165,0.545,-6.739,0.0363,95.977,3,4
+Contentment,Imagine,Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version),Various Artists,3piY5aMfwEEmXMV6I9kpoi,2007-06-11,63,219080,0.554,0.937,0.179,0.024,0.107,0.374,-18.254,0.0362,141.946,6,4
+Contentment,You And Me,Lifehouse,Lifehouse,7L605WhF5EGf34ggj87yK6,2005-01-01,0,195493,0.461,0.1,0.446,0.0,0.169,0.375,-7.703,0.0267,139.868,7,3
+Contentment,Straightjacket,The Story of Us,Quinn XCII,51LIqkda3pTeECZUhMnool,2017-09-15,63,206533,0.838,0.153,0.546,0.0,0.0656,0.745,-6.811,0.295,137.027,5,4
+Contentment,Geronimo,Bombs Away,Sheppard,19cL3SOKpwnwoKkII7U3Wh,2015-03-10,67,218227,0.705,0.456,0.78,0.00152,0.115,0.457,-6.267,0.0805,142.028,7,4
+Contentment,Drive By,California 37,Train,0KAiuUOrLTIkzkpfpn9jb9,2012-04-17,78,195973,0.765,0.00107,0.837,1.06e-05,0.0801,0.721,-3.113,0.032,122.028,1,4
+Contentment,Life's What You Make It,Life's What You Make It,Graham Colton,5rRDCbF97rcJW0ES9RhPhC,2016-03-04,52,186109,0.655,0.371,0.686,1.13e-06,0.113,0.544,-5.701,0.028,112.974,7,4
+Contentment,Georgia,Dream Your Life Away (Special Edition),Vance Joy,429EttO8gs0bDo2SQfUNSm,2014-09-09,66,230506,0.388,0.312,0.66,0.000307,0.0943,0.401,-7.372,0.0308,143.554,11,4
+Contentment,Saturday Sun,Nation of Two,Vance Joy,2RiBogNRfulkNf7fVbPOrJ,2018-02-23,72,214720,0.637,0.484,0.864,0.0,0.222,0.706,-4.381,0.0468,99.995,8,4
+Contentment,I’m Alive (Life Sounds Like),All People,Michael Franti & Spearhead,3aAeqtqnSpRfkXjGZG0gm2,2013-01-01,23,231893,0.569,0.00521,0.902,2.92e-06,0.124,0.944,-4.007,0.0536,137.986,11,4
+Contentment,So Much More Than This,Just The Beginning,Grace VanderWaal,599hlIX8JXS7RNYvQ3EPCQ,2017-11-03,55,174080,0.742,0.136,0.522,0.0,0.0422,0.751,-4.111,0.152,180.039,5,4
+Contentment,"Sit Still, Look Pretty","Sit Still, Look Pretty",Daya,0EGuSSpuu9wmHCtvb4PdLO,2016-10-07,73,202221,0.655,0.14,0.74,0.0,0.106,0.543,-4.081,0.274,182.105,2,4
+Contentment,Wagon Wheel,True Believers,Darius Rucker,3xdjjKMcMOFgo1eQrfbogM,2013-01-01,79,298373,0.537,0.455,0.66,0.0,0.135,0.574,-7.174,0.0296,148.096,9,4
+Contentment,Gravity,Continuum,John Mayer,3SktMqZmo3M9zbB7oKMIF7,2006-09-11,73,245826,0.753,0.731,0.326,0.00131,0.24,0.237,-9.883,0.0342,123.799,7,3
+Contentment,Someone To You,Empires On Fire,BANNERS,14BH4qO7pgCmIe6mgLKOK3,2017-11-03,74,219800,0.468,0.00568,0.936,0.0,0.24,0.663,-3.683,0.0455,75.05,2,4
+Contentment,Not Over You,Sweeter,Gavin DeGraw,6j7hih15xG2cdYwIJnQXsq,2011-09-16,68,218520,0.63,0.255,0.894,0.0,0.181,0.364,-4.592,0.0544,142.051,10,4
+Contentment,No Matter Where You Are,No Matter Where You Are,Us The Duo,2XW4AAjfBQTzp7Oe1tU702,2014-05-06,57,178826,0.693,0.0309,0.664,0.0,0.223,0.436,-5.852,0.0336,132.059,4,4
+Contentment,Shape of You - Acoustic,Shape of You (Acoustic),Ed Sheeran,5ULRlgiSPSKTaJN1vU9yso,2017-02-10,63,223573,0.843,0.49,0.4,0.0,0.125,0.927,-5.576,0.103,100.728,8,4
+Contentment,Drops of Jupiter (Tell Me),Drops Of Jupiter,Train,2hKdd3qO7cWr2Jo0Bcs0MA,2001-03-27,79,259933,0.481,0.153,0.638,0.0,0.154,0.497,-5.862,0.0276,79.064,0,4
+Contentment,Sweet Disposition,Conditions,The Temper Trap,5RoIXwyTCdyUjpMMkk4uPd,2009-03-24,65,230800,0.531,0.0701,0.821,0.171,0.124,0.34,-6.812,0.0439,129.139,2,4
+Contentment,Marry Me,"Save Me, San Francisco (Golden Gate Edition)",Train,0VZ9xPNa6ROafP6GYYuv2S,2009,0,205453,0.366,0.829,0.269,1.67e-05,0.108,0.492,-8.456,0.0287,86.577,0,4
+Contentment,Have It All,Have It All,Jason Mraz,1pIMxRddmCGalHnRbLFkWg,2018-04-27,54,226098,0.643,0.194,0.617,0.0,0.0989,0.592,-4.95,0.041,82.029,1,4
+Contentment,Through It All,Voicenotes,Charlie Puth,4jgF1sLf3TkQbZkLHsc6SI,2018-05-11,54,206453,0.562,0.762,0.383,0.0,0.0775,0.225,-8.54,0.0356,119.113,4,3
+Contentment,Hurricane,Hello My Name Is...,Bridgit Mendler,7gQ5c5HY6zMsIck6QLY9dJ,2012-01-01,70,243986,0.757,0.0398,0.825,2.63e-06,0.0798,0.446,-4.062,0.0701,95.01,7,4
+Contentment,Cool Kids,Talking Dreams (Deluxe Edition),Echosmith,13P5rwmk2EsoFRIz9UCeh9,2013-10-04,74,237626,0.719,0.0372,0.671,8.21e-06,0.12,0.786,-6.279,0.0336,130.027,8,4
+Contentment,Across The Room (feat. Leon Bridges),A Moment Apart,ODESZA,4YaNLEPw3MrIgkGOkBrAh2,2017-09-08,61,283537,0.566,0.0155,0.587,2.05e-05,0.111,0.246,-5.96,0.0308,82.046,6,4
+Contentment,Cheap Sunglasses,Strangers,RAC,4MatjVmXUxuBf7WeInnRBG,2014-01-01,49,215133,0.533,0.152,0.676,0.000765,0.0903,0.404,-6.788,0.0395,114.993,2,4
+Contentment,The Walker,More Than Just a Dream (Deluxe Edition),Fitz and The Tantrums,0Nk7bSn0MItonkR0GNs3mj,2013-05-07,61,233133,0.77,0.00375,0.801,0.00281,0.0515,0.725,-4.182,0.0336,130.76,9,4
+Contentment,Yellow,Parachutes,Coldplay,3AJwUDP919kvQ9QcozQPxg,2000-07-10,87,266773,0.429,0.00239,0.661,0.000121,0.234,0.285,-7.227,0.0281,173.372,11,4
+Contentment,Small House,Loved,Michelle Featherstone,0d49zbD1hMl2DCEUIfmH3D,2011-12-01,20,209347,0.603,0.642,0.0736,2.22e-06,0.128,0.257,-20.54,0.0303,92.099,0,4
+Contentment,Butterfly Fly Away,Hannah Montana The Movie,Various Artists,2ZTCl6wQMDSMfY4s8GHZdj,2009-01-01,64,189240,0.607,0.733,0.281,0.000123,0.29,0.468,-12.632,0.0258,134.977,11,4
+Contentment,24 / 7 / 365,Surf,Surfaces,6WgYoOtcXnmyv4cK6RRtYv,2017-12-03,48,177000,0.743,0.26,0.647,1.61e-06,0.322,0.9,-6.194,0.0338,141.226,4,4
+Contentment,Trojans,When It Was Now (Deluxe Edition),Atlas Genius,4AyoAGuhE8gydBPrczuhbl,2013-02-19,49,217386,0.721,0.0113,0.822,7.01e-05,0.0898,0.536,-4.843,0.0391,140.002,7,4
+Contentment,Autumn Leaves - Deluxe Edition,+,Ed Sheeran,7iBSkXB0pTvZasOLf0Qxk9,2011-09-09,57,200755,0.555,0.892,0.257,1.42e-06,0.124,0.431,-12.637,0.0299,89.013,10,4
+Contentment,Home,Up From Below,Edward Sharpe & The Magnetic Zeros,6ZapsNk1ZpaebNXAIohP9R,2009-07-14,0,303200,0.542,0.292,0.589,0.000522,0.177,0.137,-6.623,0.0318,111.665,2,4
+Contentment,My Girl,The Temptations Sing Smokey,The Temptations,6jWkZvd1URGktyTTwcpPpB,1965-01-01,1,165000,0.579,0.625,0.419,0.0,0.0981,0.673,-10.72,0.0346,104.564,0,4
+Contentment,King of Anything,Kaleidoscope Heart,Sara Bareilles,3VA8T3rNy5V24AXxNK5u9E,2010-09-07,62,207493,0.676,0.461,0.762,0.0,0.0574,0.81,-4.172,0.0351,119.003,1,4
+Contentment,Rivers and Roads,The Head and the Heart,The Head And The Heart,4Q6Kuze3wNMQRjamyBjHUR,2010,0,284000,0.494,0.699,0.194,2.98e-05,0.0803,0.161,-8.965,0.0352,135.753,0,3
+Contentment,Therapy,American Teen,Khalid,25YvGDl2zSE0pH8jrMZ6aY,2017-04-27,60,257959,0.707,0.891,0.484,0.00344,0.256,0.43,-6.579,0.0481,92.988,9,4
+Contentment,Over My Head,Over My Head,Echosmith,3haxUceS8i97BLoB7WH3Mj,2018-03-15,50,208233,0.656,0.0968,0.723,0.0,0.343,0.904,-4.975,0.0262,105.049,11,4
+Contentment,Southern Nights,Light Upon the Lake: Demo Recordings,Whitney,3HNKZy1An5Jlnb02lcV2yd,2017-11-10,0,212621,0.568,0.993,0.295,0.499,0.14,0.43,-7.867,0.0494,84.225,7,4
+Contentment,Always Remember Us This Way,A Star Is Born Soundtrack,Lady Gaga,74iZuPGwyL33VlTr6jTnab,2018-10-05,71,210200,0.553,0.299,0.502,0.0,0.764,0.296,-5.972,0.0409,129.976,0,4
+Contentment,Best Part (feat. H.E.R.),Freudian,Daniel Caesar,1RMJOxR6GRPsBHL8qeC2ux,2017-08-25,78,209831,0.524,0.808,0.364,0.0,0.1,0.436,-10.209,0.0367,75.24,7,4
+Contentment,Best Friend,Best Friend,Rex Orange County,47Bg6IrMed1GPbxRgwH2aC,2017-01-25,79,262231,0.575,0.395,0.714,0.0,0.115,0.32,-5.247,0.0596,144.982,6,4
+Contentment,Shallow,A Star Is Born Soundtrack,Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,84,215733,0.572,0.371,0.385,0.0,0.231,0.323,-6.362,0.0308,95.799,7,4
+Contentment,broken,finding it hard to smile,lovelytheband,6XcfKZvJio9Z0fQy11GnNX,2018-08-03,71,204878,0.666,0.00175,0.728,4.26e-06,0.0429,0.51,-5.808,0.0419,122.996,7,4
+Contentment,Breakdown,In Between Dreams,Jack Johnson,3cnRYoW4nYzIuVPCp7k5iG,2005-01-01,56,212706,0.773,0.627,0.394,1.36e-05,0.0953,0.443,-9.252,0.0516,74.977,0,4
+Contentment,Surround Me,Surround Me - EP,LÉON,4aai1PoVGPcspMhmzOzpZN,2017-10-06,58,232120,0.53,0.344,0.534,0.0,0.081,0.401,-7.87,0.195,178.091,5,4
+Contentment,River,Coming Home,Leon Bridges,0NeJjNlprGfZpeX2LQuN6c,2015-06-15,1,238560,0.658,0.689,0.179,0.0,0.17,0.191,-10.866,0.0448,128.128,8,4
+Contentment,Shark,Oh Wonder,Oh Wonder,3wwO0kUiwpyzHdkMNoifLR,2015-09-04,47,187424,0.703,0.592,0.327,0.292,0.112,0.128,-7.932,0.0489,149.742,2,4
+Contentment,Hard to Love (feat. Jessie Reyez),Funk Wav Bounces Vol.1,Calvin Harris,6KdmNK9MogmGcnO3wNZHhp,2017-06-30,54,230586,0.753,0.112,0.785,0.000191,0.0633,0.85,-6.53,0.174,148.015,2,4
+Contentment,Heaven Falls / Fall on Me,Heaven Falls / Fall on Me,Surfaces,7yHqOZfsXYlicyoMt62yC6,2018-08-24,66,240597,0.563,0.36,0.366,0.00243,0.0955,0.768,-6.896,0.121,85.352,11,4
+Contentment,Ophelia,Ophelia,The Lumineers,3qhobDAfBcVoOWZP8Ck8R2,2016-02-05,55,160097,0.664,0.613,0.573,0.000363,0.0857,0.566,-6.519,0.0277,76.023,5,4
+Contentment,Blu,Glory Sound Prep,Jon Bellion,4FUDWkguOUVpLRAVn5C20z,2018-11-09,59,183344,0.384,0.29,0.465,2.22e-05,0.359,0.636,-8.554,0.0341,131.604,0,4
+Contentment,Good Nights (feat. Mascolo),"Life of a Wallflower, Vol. 1",Whethan,08Kj0lvbsqAxzeUOBYZRL6,2018-11-09,63,165618,0.849,0.443,0.483,0.000141,0.0786,0.282,-7.114,0.291,101.015,6,4
+Contentment,Lost Stars,Begin Again - Music From And Inspired By The Original Motion Picture,Various Artists,1cPtMErymxlrj7pssAB03r,2014-07-01,55,240186,0.531,0.656,0.322,1.1e-06,0.112,0.309,-8.824,0.0265,81.986,1,4
+Contentment,All This Love,Raised Under Grey Skies (Deluxe),JP Cooper,10unIjOu5Jurco3SDbV4HZ,2017-10-06,59,193597,0.621,0.168,0.524,0.0,0.0925,0.434,-7.056,0.0248,97.456,5,3
+Contentment,Island In The Sun,Weezer (Green Album),Weezer,2MLHyLy5z5l5YRp7momlgw,2001-05-15,80,200306,0.654,0.00719,0.81,0.00251,0.165,0.661,-6.26,0.0288,114.623,4,4
+Contentment,Always Been You,The Story of Us,Quinn XCII,7cWyFwAaxdK2HSRuiRkMjy,2017-09-15,58,235720,0.731,0.334,0.588,0.0,0.278,0.449,-5.217,0.0749,80.019,3,4
+Contentment,Tiny Dancer,Madman Across The Water,Elton John,2TVxnKdb3tqe1nhQWwwZCO,1971-11-05,78,377093,0.414,0.382,0.428,0.000243,0.148,0.282,-11.097,0.0278,145.075,0,4
+Contentment,Sunday Best,Where the Light Is,Surfaces,3ytr3WoSfkck1jDmrGhMik,2019-01-06,0,158571,0.879,0.192,0.536,0.0,0.0716,0.654,-6.843,0.0602,112.02,5,4
+Contentment,Shine on Top,Where the Light Is,Surfaces,22cjunidlQpFUeo56LXxHH,2019-01-06,0,145454,0.808,0.135,0.755,0.0,0.141,0.966,-4.99,0.17,82.545,4,4
+Contentment,Pumpin Blood,We Are Only What We Feel,NONONO,7ti4qMC7xYQeh1uRzj5XuM,2014,56,209485,0.618,0.000469,0.848,0.522,0.189,0.413,-4.36,0.0279,118.998,7,4
+Contentment,Raging Fire,Behind The Light (Deluxe),Phillip Phillips,3Q2tKt6gKdn9LUMcHFxNJy,2014-01-01,56,234693,0.557,0.00867,0.833,0.0,0.0621,0.449,-4.671,0.073,125.909,7,4
+Contentment,Show Me What I'm Looking For,Coming To Terms,Carolina Liar,2h8iXIwEdEnQywhFC4q5e5,2008-05-03,60,240466,0.449,0.0133,0.864,1.31e-06,0.0984,0.355,-1.159,0.0378,105.121,9,4
+Contentment,comethru,comethru,Jeremy Zucker,6fFTPGGItuEpjwXRUIr4rk,2018-09-07,0,181520,0.798,0.603,0.175,0.0,0.625,0.633,-12.603,0.0594,93.994,0,4
+Contentment,In Your Arms,Black Star Elephant,Nico & Vinz,0LH5xRQz5D36FpIkYUFv2e,2014,55,205800,0.431,0.299,0.81,0.0,0.249,0.674,-6.051,0.0958,110.118,7,4
+Contentment,Catastrophize,Hurt Somebody,Noah Kahan,4LtufGlc9o8QtbFTp4Q37m,2018-02-02,45,198293,0.661,0.135,0.823,0.0,0.0387,0.768,-4.95,0.0486,155.97,11,4
+Contentment,U & Us,From Michigan With Love,Quinn XCII,6SL7KzIA96f0HiKjuv7tED,2019-02-15,58,226000,0.598,0.087,0.73,0.00268,0.186,0.264,-7.871,0.0423,130.039,4,4
+Contentment,I Believe in You,Nobody but Me (Deluxe),Michael Bublé,67aeyMdt7cgb8l9zg53Pfm,2016-10-21,56,201813,0.612,0.125,0.744,2.57e-06,0.0978,0.527,-5.671,0.033,113.009,8,4
+Contentment,Moving On and Getting Over,The Search for Everything,John Mayer,1crSsvtU9wZB15dIQXV2QH,2017-04-14,58,265360,0.85,0.591,0.461,0.0405,0.0922,0.621,-9.018,0.0531,94.037,6,4
+Contentment,Good Grief,Wild World (Complete Edition),Bastille,1oxOiOjsi7plNOZEhoPLPj,2016-09-09,66,206493,0.73,0.147,0.758,0.0,0.311,0.877,-4.888,0.0653,120.041,1,4
+Contentment,Be Okay,With Love - EP,Oh Honey,73Iyy1U5QR96t7YPPDrEKb,2016-05-06,56,198674,0.656,0.00434,0.92,0.0,0.173,0.622,-4.443,0.0588,116.99,4,4
+Contentment,When I Die,From Michigan With Love,Quinn XCII,2riezZC8Rzk86sqZPZ8qXv,2019-02-15,41,188906,0.817,0.307,0.355,1.29e-05,0.0981,0.551,-7.625,0.0459,76.982,9,4
+Contentment,Old Friends,Magic,Ben Rector,4MZQ3lHA1TYO6yyedtmBYg,2018-06-22,0,224743,0.469,0.132,0.403,4.71e-05,0.116,0.208,-10.047,0.0483,147.429,8,4
+Contentment,Dog Days Are Over,Lungs (Deluxe Edition),Florence + The Machine,1YLJVmuzeM2YSUkCCaTNUB,2009,72,251840,0.492,0.0416,0.81,0.00379,0.117,0.245,-5.315,0.0847,149.954,7,4
+Contentment,Honey,Honey,Johnny Balik,3p7byaSR5J1he8vvDkxirp,2018-01-26,51,236490,0.756,0.625,0.469,0.0,0.129,0.623,-8.491,0.469,139.85,6,4
+Contentment,Dive,÷ (Deluxe),Ed Sheeran,51ChrwmUPDJvedPQnIU8Ls,2017-03-03,74,238440,0.761,0.355,0.386,0.0,0.0953,0.526,-6.158,0.0399,134.943,4,3
+Contentment,Love on the Weekend,The Search for Everything,John Mayer,0oiCeOPwm4zhwfyIpAE37y,2017-04-14,66,212320,0.718,0.623,0.583,0.000681,0.0612,0.422,-7.884,0.0288,119.971,7,4
+Contentment,Send Me On My Way,When I Woke,Rusted Root,6XK6Zw6JkFsHXzAcMWNiIr,1994-01-01,68,263360,0.5,0.125,0.704,1.79e-05,0.138,0.722,-8.797,0.0695,119.463,0,4
+Contentment,Think About You,Think About You,LÉON,6BWTZwXamKhjdYlicjjVjB,2016-10-21,55,201133,0.662,0.249,0.744,0.000147,0.116,0.387,-3.194,0.0317,97.977,6,4
+Contentment,Ride,Ride,Yoke Lore,7CW1Y5LPAX25PelvNXgrit,2018-07-24,0,231032,0.576,0.212,0.609,0.167,0.132,0.435,-7.487,0.0361,153.855,10,4
+Contentment,Stolen Dance,Sadnecessary,Milky Chance,6vECYJHxYmm3Ydt3fF01pE,2014-06-20,74,313684,0.885,0.427,0.581,0.000204,0.0759,0.728,-8.813,0.0378,114.016,11,4
+Contentment,Passenger,Hurt Somebody,Noah Kahan,6wkVmLTBedKaAoeSj4xP6J,2018-02-02,50,238066,0.696,0.631,0.675,6.23e-06,0.114,0.254,-6.769,0.0725,126.901,0,4
+Contentment,broken - acoustic,broken (acoustic),lovelytheband,4euXJuErBCqH2LEApfxI6i,2018-11-16,59,202926,0.685,0.798,0.341,0.0,0.0951,0.42,-10.434,0.0354,123.015,2,4
+Contentment,Adore You,Bangerz (Deluxe Version),Miley Cyrus,5AnCLGg35ziFOloEnXK4uu,2013-10-04,70,278746,0.583,0.111,0.655,3.57e-06,0.113,0.201,-5.407,0.0315,119.759,0,4
+Contentment,Cigarette Daydreams,Melophobia,Cage The Elephant,2tznHmp70DxMyr2XhWLOW0,2013-10-08,79,208760,0.636,0.0807,0.676,0.0,0.0831,0.273,-3.442,0.0263,113.98,2,4
+Contentment,Loving You Tonight - New Album Version,Loving You Tonight,Andrew Allen,43oC4tXsCWFxDV6I6rPxRI,2011-02-08,35,181533,0.725,0.11,0.753,0.0,0.133,0.648,-4.261,0.045,93.004,9,4
+Contentment,Goodie Bag,Goodie Bag,Still Woozy,297rZsBEjFw9d0Gl3iBLnd,2017-11-05,0,146390,0.701,0.82,0.529,0.00113,0.249,0.577,-12.242,0.147,138.216,7,4
+Contentment,Gloria,Gloria,The Lumineers,2AoyIsLRZQ0UhedzzhnbKz,2019-04-05,46,216120,0.523,0.658,0.714,5.2e-06,0.0785,0.659,-6.021,0.0367,78.211,11,4
+Contentment,Stacy,Stacy,Quinn XCII,1pyGo7knT3LE2I1FJIrwdX,2019-06-21,0,168893,0.761,0.0889,0.551,0.0,0.0971,0.478,-7.14,0.037,104.935,8,4
+Contentment,Can I Call You Tonight?,Fuzzybrain,Dayglow,5Ti99QiUdIwe0xG4gS22FL,2018-09-28,0,278769,0.641,0.132,0.842,0.91,0.419,0.5,-7.27,0.0292,129.98,9,4
+Contentment,Hands Down,It’s Not All That Bad,The Greeting Committee,0dqJjKKxuKD5Dt3QH2n4CG,2015-10-23,58,257693,0.426,0.404,0.634,0.00356,0.222,0.284,-7.116,0.0341,98.925,4,4
+Contentment,It Will Rain,It Will Rain,Bruno Mars,0M3HkE321xpCbCYqVKzr1q,2011-09-28,75,257720,0.576,0.337,0.835,0.0,0.082,0.476,-6.826,0.0486,150.017,2,4
+Contentment,Renegades,VHS,X Ambassadors,0fYVliAYKHuPmECRs1pbRf,2015-06-30,76,195200,0.526,0.0144,0.862,0.0597,0.229,0.528,-6.003,0.0905,90.052,2,4
+Contentment,I Got You,From Here To Now To You,Jack Johnson,12jjuxN1gxlm29cqL5M6MW,2013-01-01,66,179346,0.899,0.61,0.399,1.52e-05,0.0923,0.544,-6.553,0.038,98.067,11,4
+Contentment,(What A) Wonderful World,The Man Who Invented Soul,Sam Cooke,2g2GkH3vZHk4lWzBjgQ6nY,2000-09-26,68,125440,0.691,0.627,0.507,0.0,0.457,0.885,-10.23,0.0343,128.518,11,4
+Contentment,Chain Gang,Swing Low,Sam Cooke,7v1858htfU0srTDwhxeka8,1961-03,54,155173,0.703,0.73,0.724,0.0,0.518,0.963,-10.818,0.0467,131.821,7,4
+Contentment,Vienna,The Stranger (Legacy Edition),Billy Joel,4U45aEWtQhrm8A5mxPaFZ7,1977,79,214240,0.532,0.659,0.495,0.0,0.0754,0.308,-6.662,0.0343,124.936,10,4
+Contentment,Listen to the Music,Toulouse Street,The Doobie Brothers,7Ar4G7Ci11gpt6sfH9Cgz5,1972,76,227266,0.645,0.221,0.598,3.53e-06,0.0721,0.913,-13.18,0.0335,105.929,1,4
+Contentment,Mykonos,First Collection 2006-2009,Fleet Foxes,4iaGeV4WFvP2ynbqCIyTpS,2018-11-09,0,275306,0.3,0.395,0.452,0.000834,0.137,0.342,-9.298,0.0305,82.985,11,4
+Contentment,Almost (Sweet Music),"Wasteland, Baby!",Hozier,5Apvsk0suoivI1H8CmBglv,2019-03-01,68,217480,0.523,0.0215,0.687,2.86e-06,0.203,0.711,-5.601,0.105,90.036,7,4
+Contentment,Moon River,Moon River,Frank Ocean,41cpvQ2GyGb2BRdIRSsTqK,2018-02-14,66,188323,0.24,0.877,0.116,0.00092,0.1,0.0937,-13.216,0.0329,77.349,0,3
+Contentment,Suit And Jacket,Folk Hop N' Roll (Deluxe),Judah & the Lion,2ZYBwkmtYhgUj1A7teYAZ7,2017-03-10,61,222256,0.452,0.222,0.58,3.23e-05,0.101,0.111,-8.613,0.0462,164.162,10,4
+Contentment,Dead Sea,The Lumineers,The Lumineers,1DDNfRbtLn2dxm4onBxhOV,2012-04-03,59,247933,0.713,0.81,0.319,5.71e-06,0.142,0.472,-11.099,0.028,94.043,0,4
+Contentment,Ivy,Blonde,Frank Ocean,2ZWlPOoWh0626oTaHrnl2a,2016-08-20,79,249191,0.567,0.782,0.388,0.000309,0.248,0.452,-9.579,0.0384,116.362,9,4
+Contentment,"Sitting, Waiting, Wishing",In Between Dreams,Jack Johnson,5eWOsyHHic4vJP3LjTVhqv,2005-01-01,65,183720,0.765,0.22,0.535,2.55e-05,0.104,0.548,-7.229,0.0265,105.019,0,4
+Contentment,No Such Thing,Room For Squares,John Mayer,6Vecwo7AHst9V2CE3kmwr0,2001-08-16,63,231466,0.668,0.0383,0.739,0.0,0.13,0.571,-4.919,0.0308,131.918,4,4
+Contentment,My Girl,The Temptations Sing Smokey,The Temptations,745H5CctFr12Mo7cqa1BMH,1965-03-22,79,165000,0.572,0.635,0.418,0.0,0.0961,0.694,-10.738,0.0349,104.566,0,4
+Contentment,In Luv with U,Apparitions,Finn,0Bcg7P1tTblLpEYjXPj2h0,2017-08-18,0,267266,0.361,0.612,0.661,0.0163,0.312,0.239,-8.367,0.0625,97.595,10,5
+Contentment,betty,folklore,Taylor Swift,5kI4eCXXzyuIUXjQra0Cxi,2020-07-24,71,294521,0.593,0.6,0.377,0.0,0.0976,0.502,-8.761,0.0253,95.939,0,4
+Contentment,Life In The City,III,The Lumineers,5WyL4ZuwJ06qVd8X5bf2b5,2019-09-13,57,231360,0.743,0.506,0.57,5.18e-05,0.0994,0.273,-7.376,0.0335,97.005,0,3
+Contentment,Coming Home,Coming Home,Leon Bridges,5EA06TsQmqmQXZiEhr1AaM,2015-06-15,0,206386,0.427,0.461,0.465,5.52e-05,0.154,0.458,-6.595,0.0291,112.137,6,3
+Contentment,Kilby Girl,When We Were Friends,The Backseat Lovers,3fsaxdtRDMEvZu1XC3FN2i,2019-01-27,0,282205,0.327,0.0613,0.442,0.0317,0.113,0.231,-9.992,0.0418,162.769,1,4
+Contentment,Heavy,Heavy,Birdtalker,2RmH5VLkfdILc6wTK1LWkH,2016-06-24,49,264150,0.614,0.286,0.549,2.64e-06,0.142,0.258,-6.986,0.0516,77.926,5,4
+Contentment,Lady by the Sea,Lady by the Sea,Stephen Sanchez,4cnJNX9Ek3jKJYNsZxkk8i,2020-07-07,43,182983,0.439,0.284,0.503,5.6e-05,0.152,0.519,-10.029,0.0281,186.01,8,3
+Contentment,Beautiful Boy (Darling Boy) - Remastered 2010,Double Fantasy,John Lennon,5URfZHMlUWTWxPvvSBWcPk,1980-11-17,67,245693,0.574,0.733,0.469,1.96e-06,0.856,0.435,-11.53,0.0403,111.378,2,4
+Contentment,Candy,Take The Crown (Deluxe Edition),Robbie Williams,5NlFXQ0si6U87gXs6hq81B,2012-11-05,70,201053,0.715,0.0368,0.791,0.0,0.0694,0.879,-6.63,0.0414,116.043,10,4
+Contentment,Everybody Wants To Rule The World,Songs From The Big Chair,Tears For Fears,40dJCw4xU6Bd5ie9rfagNo,1985-02-25,0,251480,0.637,0.363,0.811,0.00451,0.107,0.552,-11.345,0.0583,112.053,7,4
+Contentment,Kick It to Me,The Good Life,Sammy Rae & The Friends,5omukHtcJduzkSfOlze4iB,2018-07-10,4,387600,0.596,0.535,0.675,1.51e-05,0.168,0.82,-6.43,0.0582,160.05,2,4
+Contentment,Mariposa,Mariposa,Peach Tree Rascals,4ja2gzrNh9VNigzoXfmbwD,2019-08-28,75,210000,0.676,0.617,0.525,0.0,0.356,0.421,-5.88,0.028,112.011,9,4
+Contentment,Sleep On The Floor,Cleopatra,The Lumineers,5MMZJtHOiH1RmQSSe3DJdg,2016-04-08,71,211851,0.389,0.249,0.431,0.0,0.13,0.275,-8.061,0.0344,142.14,7,4
+Contentment,Fool,Next Thing,Frankie Cosmos,2yOj1pyRC3NcvQyeZ3yAcL,2016-04-01,0,124021,0.511,0.301,0.436,7.12e-05,0.255,0.342,-10.254,0.0409,120.207,9,4
+Contentment,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,01K4zKU104LyJ8gMb7227B,2021-11-12,74,258812,0.606,0.817,0.377,0.0,0.154,0.446,-9.455,0.0275,101.96,0,4

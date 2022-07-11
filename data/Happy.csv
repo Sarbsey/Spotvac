@@ -1,0 +1,101 @@
+mood,name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature
+Happy,Way Less Sad,Way Less Sad,AJR,3cwaaelWghY5W6Lsj1K8ss,2021-02-17,38,206108,0.701,0.00843,0.547,0.0,0.0987,0.4,-8.238,0.0483,140.015,2,4
+Happy,All You Need To Know (feat. Calle Lehmann),All You Need To Know (feat. Calle Lehmann),Gryffin,4Gcv5SsxnQWpmOnUI19EJk,2019-03-27,60,238458,0.513,0.00968,0.788,0.0,0.11,0.234,-4.629,0.0364,139.987,0,4
+Happy,Thelma + Louise,Thelma + Louise,Bastille,4UxATpWvXewD5EZUW01EeQ,2021-08-18,59,137476,0.766,0.0146,0.83,0.0,0.035,0.756,-3.335,0.1,121.948,9,4
+Happy,Magic In The Hamptons (feat. Lil Yachty),Magic In The Hamptons (feat. Lil Yachty),Social House,2Yer0p7uB2lVBUAtANuuQp,2018-06-08,77,164640,0.769,0.66,0.479,0.0,0.0914,0.803,-5.339,0.0385,96.051,1,4
+Happy,I Found You,I Found You,Cash Cash,3wYOGJYD31sLRmBgCvWxa4,2020-02-28,68,167307,0.646,0.0714,0.761,0.0,0.222,0.472,-2.557,0.0385,129.916,1,4
+Happy,Bones (feat. OneRepublic),Bones (feat. OneRepublic),Galantis,1pfgsjmxVZhoZpeDx6POKv,2019-01-31,62,205792,0.658,0.00463,0.804,0.0,0.178,0.508,-5.735,0.0377,120.047,0,4
+Happy,This Feeling (feat. Kelsea Ballerini),Sick Boy...This Feeling,The Chainsmokers,15kQGEy89K8deJcZVFEn0N,2018-09-18,0,199226,0.539,0.0651,0.651,0.0,0.0662,0.474,-5.304,0.0432,105.159,1,4
+Happy,Rescue Me,Rescue Me,OneRepublic,0mjAU3yKR1QnXnHtjGJqTM,2019-05-17,72,158899,0.759,0.156,0.605,0.0,0.694,0.64,-7.737,0.0433,121.049,7,4
+Happy,A-O-K,A-O-K,Tai Verdes,4CbrNGvwVjneG8Nk9YQqMR,2021-05-06,19,173640,0.731,0.125,0.626,0.0,0.183,0.862,-6.919,0.0805,82.488,11,4
+Happy,Keep You Mine,Keep You Mine,NOTD,0OJN2A3Qyvd7pwSF0AIteC,2019-08-02,66,174760,0.81,0.267,0.788,0.000172,0.196,0.845,-3.663,0.0447,135.991,10,4
+Happy,Holiday,Holiday,KSI,3G2omDJ5ZGYSiJV3UOOPw0,2021-06-18,50,193733,0.356,0.152,0.684,0.0,0.101,0.347,-7.347,0.0878,87.188,8,4
+Happy,Just Friends,Just Friends,Virginia To Vegas,02Ygu8lo3qSknRpcBnspso,2019-05-24,65,168946,0.793,0.156,0.714,0.0,0.136,0.794,-7.562,0.193,100.036,7,4
+Happy,You (with Marshmello & Vance Joy),You (with Marshmello & Vance Joy),benny blanco,1GkHyypTFkUf0QQKwYoXH4,2021-01-29,70,169632,0.668,0.0493,0.563,0.0,0.119,0.305,-6.433,0.0522,103.116,11,4
+Happy,In Betweenin',In Betweenin',AUSTN,1UotQ5kMAEiCJVisAVkxOh,2018-11-09,0,192045,0.705,0.18,0.824,0.0,0.0901,0.925,-4.825,0.0347,146.999,2,4
+Happy,90s Kids,90s Kids,Jax,34evGV6SaoRLHTcXXUVOpb,2021-03-26,62,163815,0.714,0.0802,0.657,0.0,0.35,0.725,-6.436,0.118,151.898,0,4
+Happy,Only Wanna Be With You - Pokémon 25 Version,Only Wanna Be With You (Pokémon 25 Version),Post Malone,3SawmGBjjq8EOYZJV11cJm,2021-02-25,68,241360,0.47,0.00124,0.709,0.00121,0.302,0.247,-4.563,0.0299,98.036,7,4
+Happy,Wave of You,Wave of You,Surfaces,5Ne1q9Hv3l2NHBA3Agt8WT,2021-04-09,72,213842,0.695,0.057,0.656,0.0,0.267,0.346,-6.038,0.0489,90.986,1,4
+Happy,Vacation,Vacation,Dirty Heads,7cdy4PbCdDZZNjyxoZyE0c,2017-08-11,68,209721,0.736,0.0381,0.751,0.0,0.105,0.839,-5.588,0.034,150.064,8,4
+Happy,Drown (feat. Clinton Kane),Drown (feat. Clinton Kane),Martin Garrix,4RVtBlHFKj51Ipvpfv5ER4,2020-02-27,71,174062,0.573,0.212,0.739,0.0,0.175,0.363,-5.455,0.0581,120.077,9,4
+Happy,Best Is Yet To Come (with Kyle Reynolds),Best Is Yet To Come (with Kyle Reynolds),Gryffin,2gZwBmkSmsVfEPFWGuWTDk,2021-06-02,68,215201,0.569,0.0148,0.85,0.0,0.245,0.551,-3.914,0.0369,122.042,4,4
+Happy,3 Nights,"Don't Forget About Me, Demos",Dominic Fike,1tNJrcVe6gwLEiZCtprs1u,2018-10-16,79,177666,0.815,0.223,0.518,0.0,0.104,0.877,-6.594,0.0897,151.891,7,4
+Happy,Big Plans,Big Plans,Why Don't We,6Yx181fZzA0YE2EkUsYruq,2019-01-17,0,179929,0.693,0.0668,0.604,0.0,0.114,0.651,-5.279,0.0427,75.014,11,4
+Happy,Best Day Of My Life,"Oh, What A Life",American Authors,5Hroj5K7vLpIG4FNCRIjbP,2014-01-01,80,194240,0.673,0.0591,0.902,0.000262,0.0558,0.538,-2.392,0.0346,100.012,2,4
+Happy,All Star,All Star,Mike Perry,2u0oTsc6XcvJTh24ynQ1Ao,2019-08-23,3,151278,0.66,0.016,0.852,0.0,0.203,0.594,-3.573,0.0378,103.988,7,4
+Happy,Sunshine,Sunshine,OneRepublic,5r43qanLhUCdBj8HN3fa6B,2021-11-10,84,163854,0.697,0.137,0.875,0.0,0.28,0.774,-4.621,0.034,140.069,5,4
+Happy,Sheesh!,Sheesh!,Surfaces,3ddNKnYpVx0uI8vcwbTQ5Y,2021-08-20,70,148846,0.743,0.161,0.832,0.0,0.0925,0.801,-3.937,0.0611,149.951,5,4
+Happy,Call You Mine (feat. Bebe Rexha),World War Joy,The Chainsmokers,05CwHjIk71RXVU40boRMnR,2019-05-31,0,217653,0.591,0.225,0.702,0.0,0.414,0.501,-5.59,0.0289,104.003,7,4
+Happy,Numb,Numb,Marshmello,10xV5l9nhLvFpR8mqzs0bL,2022-06-10,85,155588,0.912,0.121,0.774,0.0127,0.101,0.632,-4.673,0.0455,119.966,0,4
+Happy,THATS WHAT I WANT,MONTERO,Lil Nas X,0e8nrvls4Qqv5Rfa2UhqmO,2021-09-17,90,143901,0.737,0.00614,0.846,0.0,0.0486,0.546,-4.51,0.22,87.981,1,4
+Happy,Run,Run,OneRepublic,2UbVnbE5FH6008mAm6Mmgw,2021-05-05,77,169010,0.682,0.326,0.72,0.0,0.148,0.673,-8.173,0.0381,117.003,11,4
+Happy,Forgive Me Friend,Forgive Me Friend,Smith & Thell,6LS5QB8GW8raREqEEQPEMs,2018-08-10,0,216000,0.589,0.000927,0.783,1.12e-06,0.187,0.622,-6.069,0.0318,127.92,1,4
+Happy,Dive,Dive,Hot Shade,0Npijoc6ZcUe1devUugKvI,2019-12-20,7,164490,0.654,0.00515,0.787,0.0,0.144,0.409,-4.999,0.0502,123.978,4,4
+Happy,Be Like That - feat. Swae Lee & Khalid,Be Like That (feat. Swae Lee & Khalid),Kane Brown,5f1joOtoMeyppIcJGZQvqJ,2020-07-10,77,191406,0.727,0.0469,0.626,2.58e-05,0.126,0.322,-8.415,0.0726,86.97,7,4
+Happy,So Close,So Close (feat. Georgia Ku),NOTD,7FjZU7XFs7P9jHI9Z0yRhK,2018-11-02,71,190302,0.7,0.121,0.872,7.08e-06,0.103,0.761,-5.896,0.0666,125.03,10,4
+Happy,Forever Young,Forever Young,John De Sohn,0o9bHFc8Lt5tZFvTjNZTNf,2018-07-27,57,167911,0.651,0.179,0.617,0.0,0.113,0.591,-6.077,0.0309,121.977,8,4
+Happy,So Far Away,So Far Away,Surfaces,6cjrJbXoA0VscOXEPgLdYv,2021-06-04,53,207375,0.714,0.149,0.68,6.27e-06,0.098,0.672,-5.321,0.132,160.021,4,4
+Happy,Never Go Wrong,Never Go Wrong,Nicky Youre,2K036A2TOlSr13Ej8s6ODk,2022-03-25,45,155962,0.587,0.0719,0.84,0.0,0.276,0.932,-6.455,0.115,164.996,5,4
+Happy,Body Back (feat. Maia Wright),Body Back (feat. Maia Wright),Gryffin,1z1XegUChLLQfcbtIK8ABn,2019-10-18,64,214634,0.686,0.0948,0.83,1.33e-06,0.182,0.486,-4.437,0.0369,123.032,8,4
+Happy,The Good Part,The Click,AJR,50kmOL6NMU98y6eJTlSicJ,2017-06-09,50,227267,0.291,0.0922,0.443,2.82e-05,0.382,0.532,-5.376,0.0369,185.934,5,4
+Happy,Missing Piece,Missing Piece,Vance Joy,5YqdiryRmdAzYFlxo43hAJ,2021-05-19,74,217408,0.628,0.0155,0.877,5.97e-06,0.113,0.721,-4.205,0.046,101.992,0,4
+Happy,sun keeps on shining,sun keeps on shining,almost monday,5OAEQKfQzIB3X4K7TtviZf,2022-06-03,62,167200,0.626,0.145,0.765,0.0,0.465,0.777,-6.167,0.0559,87.529,4,4
+Happy,Lease On Life,Lease On Life,Andy Grammer,763ynRN90zLEp9hrNNINjl,2021-06-28,50,168162,0.704,0.0593,0.701,0.0,0.126,0.606,-5.44,0.0596,88.016,2,4
+Happy,I Don't Know Why,I Don't Know Why,NOTD,0ZXdzaT1k688dkpNeEgQiV,2020-05-08,71,207667,0.499,0.124,0.898,7.2e-06,0.0832,0.618,-4.181,0.124,120.04,8,4
+Happy,Hold You Tonight (with Chris Lane),Hold You Tonight (with Chris Lane),Gryffin,58jecLK0epwMLr9cy5vFUy,2020-04-07,60,219353,0.467,0.102,0.795,0.0,0.264,0.472,-3.6,0.0687,163.837,11,4
+Happy,On Me (feat. Ava Max),SCOOB! The Album,Various Artists,7k6tAZp4m93oswrPqSfBbc,2020-05-15,61,164683,0.548,0.0119,0.721,0.0,0.216,0.594,-4.466,0.0472,177.918,8,4
+Happy,Sunday Best,Where the Light Is,Surfaces,1Cv1YLb4q0RzL6pybtaMLo,2019-01-06,79,158571,0.878,0.183,0.525,0.0,0.0714,0.694,-6.832,0.0578,112.022,5,4
+Happy,Better Days (NEIKED x Mae Muller x Polo G),Better Days (NEIKED x Mae Muller x Polo G),NEIKED,6f5ExP43esnvdKPddwKXJH,2021-09-24,84,160656,0.717,0.0018,0.671,2.54e-06,0.0921,0.699,-5.077,0.0337,110.054,0,4
+Happy,Lil Bit,Lil Bit,Nelly,0NmuYnjETG3u3qx0OmEJev,2020-10-23,73,195962,0.707,0.0255,0.689,0.0,0.383,0.41,-7.097,0.0387,119.987,4,4
+Happy,Bigger Than,Bigger Than,Justin Jesso,5X73AYzzEE5Di0JwcQKt9N,2019-11-15,65,208013,0.421,0.151,0.669,0.0,0.635,0.326,-4.724,0.127,175.788,4,4
+Happy,Betty (Get Money),Betty (Get Money),Yung Gravy,4cacyP5c3PMlfnyjpg13xW,2022-06-10,77,146470,0.723,0.00524,0.772,1.15e-05,0.367,0.58,-6.784,0.0792,102.004,1,4
+Happy,I Ain't Worried,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",OneRepublic,4h9wh7iOZ0GGn8QVp4RAOB,2022-05-13,90,148485,0.704,0.0826,0.797,0.000745,0.0546,0.825,-5.927,0.0475,139.994,0,4
+Happy,Never Felt A Love Like This (with Hook N Sling) [feat. Dotan],Church,Galantis,1mMvahhW2Oz9waG8UTQnI4,2020-02-07,57,215388,0.58,0.0304,0.804,0.00359,0.105,0.137,-4.618,0.0279,126.005,9,4
+Happy,My Way (Steve Aoki & Aloe Blacc),My Way (Steve Aoki & Aloe Blacc),Steve Aoki,0FJw1Pg9xXCxbcyQMI6GAe,2020-12-23,56,197647,0.585,0.11,0.82,0.0,0.134,0.396,-4.428,0.0774,169.895,10,4
+Happy,Dance with Me (feat. Thomas Rhett & Young Thug),Diplo Presents Thomas Wesley Chapter 1: Snake Oil,Diplo,6AoHQqGnuwFk9ygWhzLRws,2020-05-29,54,170157,0.73,0.0264,0.792,0.0,0.101,0.745,-5.33,0.13,99.039,6,4
+Happy,Momma Always Told Me (feat. Stanaj & Yung Bae),Momma Always Told Me (feat. Stanaj & Yung Bae),Mike Posner,63lUB0rs6KK58vj8mEAfdj,2021-01-28,52,181334,0.766,0.03,0.533,0.0,0.0667,0.764,-5.758,0.0506,107.999,9,4
+Happy,What's Been On Your Mind?,What's Been On Your Mind?,Surfaces,3lpshfvmjrxGm9xr3x47F2,2022-06-10,71,172490,0.736,0.0158,0.667,0.0,0.131,0.774,-4.716,0.0303,116.973,1,4
+Happy,Somebody To You,Meet The Vamps,The Vamps,6VrLYoQKdhu1Jruei06t65,2014-01-01,78,185097,0.526,0.0587,0.818,0.0,0.333,0.896,-5.952,0.0358,171.96,3,4
+Happy,Happy Kids,Happy Kids,John De Sohn,3nVJ4tGeLFR6HUiz3e7qAe,2018-11-09,56,177209,0.603,0.0105,0.649,0.0,0.243,0.672,-5.848,0.0476,124.073,11,4
+Happy,Best Of You (feat. Elle King),Best Of You (feat. Elle King),Andy Grammer,4bsqIuMHtvLCzpYAyV3044,2020-02-07,46,185393,0.653,0.0515,0.623,0.0,0.0869,0.48,-5.989,0.0938,175.884,9,4
+Happy,Runaway (with Sigala and JP Cooper),Runaway (with Sigala and JP Cooper),R3HAB,6tS1Fm9z3UKuLSxrinY3pC,2021-08-20,64,168196,0.617,0.213,0.756,0.0,0.152,0.432,-5.811,0.104,121.828,3,4
+Happy,Castle on the Hill,÷ (Deluxe),Ed Sheeran,6PCUP3dWmTjcTtXY02oFdT,2017-03-03,79,261153,0.461,0.0232,0.834,1.14e-05,0.14,0.471,-4.868,0.0989,135.007,2,4
+Happy,No One Compares To You,No One Compares To You,Jack & Jack,2jZIfoe48eUeOEnP9Ho4h2,2018-10-05,0,184080,0.703,0.123,0.748,0.0,0.0642,0.625,-6.047,0.0435,111.943,1,4
+Happy,C'est La Vie,Pacifico (Deluxe),Surfaces,32DspJXRL1U3c9RwOhRJZE,2021-09-03,64,175435,0.761,0.18,0.566,0.0,0.207,0.631,-7.923,0.0397,108.01,9,4
+Happy,Please Don't Go,31 Minutes to Takeoff,Mike Posner,6jg5SRvdGxvJ0DzNV0UqEK,2010-08-09,70,196813,0.699,0.00296,0.882,0.0544,0.13,0.657,-3.896,0.0311,120.016,4,4
+Happy,3 outfits,3 outfits,Tai Verdes,78zWCikDMYzFpXAdqANPrD,2022-03-25,60,210866,0.65,0.145,0.88,0.00223,0.351,0.648,-4.292,0.15,176.017,11,4
+Happy,pogo,pogo,bbno$,404b6bC4GIxPsNssJmfC1f,2022-06-24,70,207360,0.729,0.0424,0.973,0.205,0.333,0.687,-2.761,0.0759,124.957,4,4
+Happy,2step,=,Ed Sheeran,2SUxn2O9NHL6GHGQFgwCY0,2021-10-29,76,153626,0.763,0.169,0.661,0.0,0.117,0.632,-5.592,0.056,95.002,4,4
+Happy,Good Vibes,Good Vibes,HRVY,53kWAAfx7IopXRa31MQHB8,2020-09-04,71,170280,0.558,0.274,0.877,0.0,0.162,0.762,-3.392,0.145,99.988,10,4
+Happy,"Mood (Remix) feat. Justin Bieber, J Balvin & iann dior","Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",24kGoldn,6FuGJB290AQMAHTfjOYVaK,2020-11-06,73,192745,0.721,0.151,0.745,1.24e-06,0.372,0.699,-3.508,0.0366,90.988,7,4
+Happy,Fake A Smile,Fake A Smile,Alan Walker,6rAGFY9D3ah6Lb7fUgbNNH,2021-02-19,63,168118,0.447,0.212,0.553,0.0,0.165,0.252,-4.817,0.0322,149.877,0,4
+Happy,At Least I Had Fun,At Least I Had Fun,Martin Jensen,7jqXDgGWkV4w2ctdb2g59o,2020-08-14,68,170613,0.794,0.198,0.706,0.0,0.0536,0.908,-6.066,0.0382,116.032,5,4
+Happy,Tangerine Skies,Tangerine Skies,Declan J Donovan,2VvHa9p1kkTmaCMq0exODA,2020-04-24,60,192000,0.756,0.0578,0.815,2e-05,0.387,0.927,-5.122,0.046,120.002,6,4
+Happy,Dandelion,Dandelion,Galantis,4NexTaCZZ7Ehnf03A6SVjt,2021-01-08,70,140011,0.8,0.158,0.66,0.02,0.14,0.634,-4.903,0.158,117.923,0,4
+Happy,Silver and Gold (feat. Sam Fischer & Pink Sweat$),Silver and Gold,Yung Bae,0xHeGspdxuVIm49iNXDO2u,2021-08-06,16,177538,0.652,0.168,0.797,1.48e-06,0.339,0.358,-4.78,0.0505,107.002,11,4
+Happy,Pick Me Up,Pick Me Up,Sam Feldt,6VYIVgVqEIwzRwpJz5rMa4,2021-05-28,65,174100,0.688,0.0971,0.662,1.34e-06,0.172,0.549,-5.57,0.0441,115.106,6,4
+Happy,Don’t Wake Me Up,Don’t Wake Me Up,Jonas Blue,3LEgGAl9zLcQWGTp7ptqtQ,2022-01-07,78,188894,0.621,0.222,0.747,0.000194,0.147,0.426,-5.084,0.0337,124.015,11,4
+Happy,The Drum,The Drum,Alan Walker,1zOOl8f7qkjj0AmvlCfLyQ,2022-04-29,75,189287,0.783,0.158,0.762,6.56e-05,0.092,0.33,-4.727,0.0507,127.993,6,4
+Happy,Toast,Soulprints,Smith & Thell,5hlwCtGdtDBzXeMBJpD5IK,2017-05-12,61,178148,0.548,0.0448,0.806,0.0,0.126,0.749,-7.249,0.0628,189.996,1,4
+Happy,LAst dAy oN EaRTh,LAst dAy oN EaRTh,Tai Verdes,0fVDu1evgjX9CFD0cmuRrM,2022-01-13,74,172755,0.494,0.413,0.553,4.17e-05,0.218,0.359,-5.57,0.197,82.061,5,4
+Happy,Freedom,Freedom,Kygo,5Gj1wG8b12VQdEd3hUuSwo,2020-04-17,66,198635,0.715,0.127,0.635,0.0,0.0862,0.39,-6.591,0.0791,112.887,7,4
+Happy,Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,Way Back Home (feat. Conor Maynard) [Sam Feldt Edit],SHAUN,1ZLrDPgR7mvuTco3rQK8Pk,2018-12-21,73,192452,0.737,0.269,0.747,0.0,0.219,0.447,-4.818,0.0323,105.943,10,4
+Happy,Love You Better,Love You Better,John De Sohn,4UuGBDjt8gLXsANZqZxMBz,2019-11-15,63,170893,0.733,0.0931,0.786,0.0013,0.1,0.786,-7.494,0.0422,102.999,11,4
+Happy,What I Like About You (feat. Theresa Rex),What I Like About You (feat. Theresa Rex),Jonas Blue,4NSW0Km5ZG60L8FthUebPJ,2019-03-22,65,220396,0.46,0.289,0.8,6.16e-06,0.121,0.553,-3.584,0.05,102.46,1,4
+Happy,Mariposa,Mariposa,Peach Tree Rascals,4ja2gzrNh9VNigzoXfmbwD,2019-08-28,75,210000,0.676,0.617,0.525,0.0,0.356,0.421,-5.88,0.028,112.011,9,4
+Happy,Lasting Lover,Lasting Lover,Sigala,0DmAvNCAK08oCi7miSZUIY,2020-09-04,74,218358,0.676,0.197,0.786,0.0,0.0943,0.483,-4.529,0.0478,125.983,1,4
+Happy,The Best Days (feat. Tabitha),The Best Days (feat. Tabitha),Sam Feldt,140XpWSdJ0jZEbLj9iVnPA,2020-11-20,65,161944,0.667,0.0863,0.827,0.0,0.0565,0.573,-5.631,0.0368,107.95,11,4
+Happy,DANCE,DANCE,CLMD,6TfeXwJihJRuBW3mFpib6J,2019-10-18,63,174448,0.766,0.0263,0.548,1.81e-06,0.21,0.552,-7.834,0.0373,122.012,7,4
+Happy,Remember This,Remember This,Jonas Brothers,6nACZEZIt1CIBmF09r5Pb5,2021-06-19,65,178221,0.669,0.217,0.629,0.0,0.366,0.294,-5.018,0.0803,110.865,1,4
+Happy,Never Love You Again (with Little Big Town & Bryn Christopher),Never Love You Again (with Little Big Town & Bryn Christopher),Cheat Codes,676tQQmFrilCR8L7kxRcGd,2021-07-16,74,191329,0.645,0.0343,0.786,3.57e-06,0.139,0.597,-5.337,0.0554,124.962,1,4
+Happy,Be Okay (with HRVY),Be Okay (with HRVY),R3HAB,4ztw0mBC6VBiLV79yRHDQW,2020-05-22,62,141600,0.73,0.0179,0.558,0.0,0.128,0.618,-6.535,0.0786,100.066,8,4
+Happy,Down Under (feat. Colin Hay),Down Under (feat. Colin Hay),Luude,7AVyve7cFYTd51ha5i9kE2,2021-11-19,73,158774,0.308,0.012,0.861,0.00103,0.277,0.0386,-4.112,0.172,171.966,11,4
+Happy,I'll Wait,I'll Wait,Kygo,6Q3K9gVUZRMZqZKrXovbM2,2020-04-03,66,215360,0.611,0.144,0.651,1.7e-05,0.105,0.351,-6.973,0.0589,122.983,1,4
+Happy,True Colors (feat. Maya Avedis),True Colors (feat. Maya Avedis),XO Cupid,4AMY0oGSt7vZwgxDnHCJBr,2018-09-21,58,184019,0.636,0.0796,0.63,0.0,0.13,0.454,-6.396,0.0346,104.845,0,4
+Happy,Catching Feelings (feat. Six60),Catching Feelings (feat. Six60),Drax Project,02VHspkXhhH1QCInRWWIfr,2019-09-04,54,218854,0.397,0.607,0.524,0.0,0.157,0.343,-5.846,0.103,175.562,3,4
+Happy,Learn To Fly,Learn To Fly (with Elton John),Surfaces,518miTxc3a15X7HB8FgJUW,2020-06-12,60,209832,0.569,0.554,0.536,0.0,0.0655,0.656,-6.137,0.0819,173.695,1,4
+Happy,Year of the Young,Year of the Young,Smith & Thell,6J7U49QGecWb3WqIqfSYc0,2020-08-14,58,164200,0.611,0.000817,0.88,1.01e-05,0.0598,0.771,-6.571,0.0378,144.996,7,4
+Happy,Love Me Now (feat. Zoe Wees),Love Me Now (feat. Zoe Wees),Kygo,1c1sdxrYLIiuJOlE7PPttb,2021-08-13,74,195880,0.662,0.163,0.489,0.0,0.172,0.506,-7.067,0.0525,102.04,5,4
+Happy,Sixteen,Sixteen,Ellie Goulding,4PkIDTPGedm0enzdvilLNd,2019-04-12,64,201072,0.669,0.268,0.801,0.0,0.0594,0.541,-5.445,0.136,109.919,8,4
+Happy,YES,YES,BEN & TAN,1nAvS4GbkxR7iISU5ZfLPf,2020-03-08,58,180489,0.563,0.00658,0.583,0.0,0.102,0.525,-7.302,0.031,91.899,7,4
+Happy,Upside Down,Upside Down,JVKE,614OkajfRPH8V0ugNQnduP,2020-08-18,1,114500,0.88,0.0494,0.501,0.0695,0.436,0.459,-6.774,0.062,120.038,2,4

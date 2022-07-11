@@ -1,0 +1,206 @@
+mood,name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature
+Frantic,Rise Above,Damaged,Black Flag,4kFfFe38CRVnTsakUTL4E4,1981,55,146560,0.374,0.119,0.816,8.01e-06,0.0808,0.138,-13.88,0.0578,104.56,2,4
+Frantic,Attitude,Bad Brains,Bad Brains,2yQMdhTWfpYBWvR1zAexED,1982,0,79853,0.173,0.000253,0.885,0.000216,0.193,0.213,-11.475,0.0653,165.814,9,4
+Frantic,Minor Threat,First Two 7s,Minor Threat,7L7rEquwHEQs1XqN7EUhgG,1984,0,91240,0.276,0.00101,0.91,0.0014,0.276,0.935,-7.465,0.0491,166.469,2,4
+Frantic,Live Fast Die Young,Group Sex,Circle Jerks,12OdPauMcbJ6d0VcKjeCgM,1980,0,93600,0.507,0.095,0.883,0.000129,0.0673,0.805,-9.389,0.0357,108.275,4,4
+Frantic,I Don't Need Society,The Dirty Rotten CD,D.R.I.,6vTSyIt0CUXaB6mDWjFsBA,2007-01-09,35,76946,0.379,0.00165,0.922,0.068,0.256,0.352,-5.693,0.175,119.149,5,4
+Frantic,Who Are You??,Side B,Void,6oVoFa1a6YqQrCAoAUfSMA,2010-12-02,13,141560,0.226,0.000478,0.91,0.695,0.203,0.186,-9.146,0.177,92.901,0,4
+Frantic,I Shot The Devil,Suicidal Tendencies,Suicidal Tendencies,1O546awreywj6009LmiYrz,1983-07-01,0,111200,0.407,0.00368,0.966,1.63e-06,0.15,0.181,-8.561,0.137,104.096,4,4
+Frantic,Something I Learned Today,Zen Arcade,Hüsker Dü,523qoxtSZJE2io945dAkVk,1984-01-01,44,122560,0.406,0.0033,0.963,0.000515,0.11,0.342,-10.842,0.0408,104.729,4,4
+Frantic,California Uber Alles,Jon Savage Presents Black Hole - Californian Punk 1977-80,Various Artists,2WH1MBYu7eCd1fDs9keLAI,2010-11-15,0,208306,0.241,0.106,0.857,0.00025,0.143,0.65,-6.14,0.126,163.589,8,4
+Frantic,Hear Nothing See Nothing Say Nothing,Hear Nothing See Nothing Say Nothing,Discharge,2mpx1DORqOCm3JxljOGcMs,1982,0,90386,0.188,3.48e-06,0.978,0.00237,0.124,0.226,-3.037,0.195,154.579,1,4
+Frantic,We Gotta Know,The Age of Quarrel,Cro-Mags,4Z3VVXMLfvU3J1VPcblVWI,1986-09-12,24,199613,0.338,0.000156,0.979,0.00199,0.137,0.0808,-4.623,0.0902,105.259,8,4
+Frantic,Amoeba,Adolescents,Adolescents,3liFiHiH5TWRqJx1K14DDe,1981,0,186626,0.403,6.9e-05,0.965,0.00243,0.78,0.521,-7.342,0.0588,94.566,4,4
+Frantic,New Direction,Start Today,Gorilla Biscuits,7CdGO6KJg20UAAXl7CW8q6,1989-07-14,43,149133,0.356,0.00321,0.983,2.39e-06,0.246,0.19,-4.354,0.136,137.374,6,4
+Frantic,I Love Livin' in the City,The Record,Fear,0qHt7KGw9LPm4Ms4qUZlSd,1981-01-01,40,125040,0.547,0.00115,0.839,0.0,0.433,0.343,-9.521,0.0709,95.611,5,4
+Frantic,Banned In D.C.,Bad Brains,Bad Brains,6MYusHmom4vpQN4qGyHl0h,1982,0,132786,0.139,0.000612,0.712,0.816,0.0983,0.689,-12.103,0.0399,152.933,9,4
+Frantic,My War,My War,Black Flag,4rrbptVnZifk4wC5mvNDPm,1984-03-01,49,226333,0.215,0.65,0.503,0.0283,0.098,0.35,-16.318,0.0463,186.866,1,1
+Frantic,Sneakers,Minor Disturbance,Teen Idles,1rmennvo73CrzQPCrYU6o5,1980,18,88493,0.325,0.000537,0.898,5.58e-05,0.193,0.306,-11.991,0.0692,102.488,1,1
+Frantic,Takin' a Ride,"Sorry Ma, Forgot to Take out the Trash",The Replacements,2c2HQH3k6C9LLjLAKGeMxn,1981-08-25,22,143266,0.408,0.00329,0.89,2.87e-06,0.699,0.782,-7.393,0.052,93.127,4,4
+Frantic,Chartered Trips,Zen Arcade,Hüsker Dü,7jmIBvIkPcAR6yzbR7YsJH,1984-01-01,33,219400,0.327,0.00446,0.961,0.00939,0.308,0.31,-10.603,0.0533,107.484,1,4
+Frantic,Straight Edge,First Two 7s,Minor Threat,1xXKacUn8XhZ2ifv05RjL1,1984,0,47226,0.251,0.00098,0.958,0.00408,0.313,0.748,-6.383,0.0685,189.067,5,4
+Frantic,Fuck Armageddon...This Is Hell,How Could Hell Be Any Worse? (Re-Issue),Bad Religion,46czomX2ayQ4a6HrZR3O78,1982-01-12,0,168773,0.278,0.0271,0.88,0.0,0.329,0.18,-5.894,0.0657,78.385,2,4
+Frantic,Straight Jacket,The Punch Line,Minutemen,5j9PnyFCKuoKuvncJuhKOH,2006-01-24,19,59733,0.486,0.0045,0.495,0.0666,0.0458,0.508,-13.415,0.0731,106.8,8,4
+Frantic,The Possibility of Life's Destruction,Hear Nothing See Nothing Say Nothing,Discharge,3wwouNU73E0pcfXkfcYSJJ,1982,0,74360,0.0913,2.82e-05,0.98,0.0,0.0985,0.0396,-2.133,0.0833,164.338,0,4
+Frantic,Holiday In Cambodia,Fresh Fruit for Rotting Vegetables,Dead Kennedys,3RNlXmY0mgiTXWwn0BIudY,1980-01-01,16,279333,0.31,0.821,0.957,0.553,0.344,0.383,-8.706,0.0676,100.808,7,4
+Frantic,I'm The One,Everything Sucks,Descendents,4d9LC9QoGja5M3en0HWUq1,1996,0,135133,0.391,0.0102,0.968,7.01e-05,0.446,0.647,-6.324,0.0625,90.481,0,4
+Frantic,I Hate Children,Adolescents,Adolescents,2xHvRPKT306R2QcOEoslQc,1981,0,105466,0.322,0.000591,0.947,0.0,0.347,0.62,-7.261,0.0445,148.222,2,4
+Frantic,"New Wave Sucks - Positively D.O.A. 7"" EP 1981",Punk Rock Singles 1978-1999,D.O.A.,5p7JZOOiMpNBHvDfle8aZU,2007-06-19,0,86533,0.436,0.000618,0.975,7.84e-06,0.0659,0.388,-5.183,0.161,119.659,7,4
+Frantic,Customer,"Sorry Ma, Forgot to Take out the Trash",The Replacements,6acyCHhyJxayb3fG5z4Ls5,1981-08-25,22,89173,0.39,0.00129,0.914,0.0,0.889,0.625,-7.053,0.0621,110.772,4,4
+Frantic,I Against I,I Against I,Bad Brains,2Q1eMd5WFmOOI90cytHAtT,1986,47,170706,0.342,0.0183,0.934,0.00239,0.252,0.431,-11.511,0.0594,112.096,7,4
+Frantic,I'll Never Forget You,Zen Arcade,Hüsker Dü,6jico9Z2EAWo6mZURyK8BJ,1984-01-01,28,139773,0.283,5.95e-05,0.955,0.00171,0.0785,0.334,-11.142,0.0692,128.936,2,3
+Frantic,Bob Dylan Wrote Propaganda Songs,What Makes a Man Start Fires?,Minutemen,2ZcoUqFJBucCbnKEuEMb1V,2006-01-24,23,89466,0.446,2.99e-05,0.978,0.865,0.0996,0.328,-7.804,0.0751,145.429,4,4
+Frantic,Knowledge,Operation Ivy,Operation Ivy,1SCJCsVBXtHbeqfXYH4Q66,2007-11-05,0,102106,0.42,0.262,0.947,6.52e-05,0.416,0.51,-4.269,0.119,92.027,5,4
+Frantic,Filler,First Two 7s,Minor Threat,2Gh0bJHkYz6dhCky1XvXC0,1984,0,92693,0.168,0.000181,0.977,0.00421,0.0636,0.571,-6.716,0.102,189.339,4,4
+Frantic,Here's Your Warning,The Crew,7 Seconds,4LAU6FUmc4l2NipRpo2Zak,1984,0,78000,0.459,0.00754,0.816,1.53e-05,0.301,0.355,-12.726,0.0992,100.065,6,4
+Frantic,Crucify Me,Is This My World?,Jerry's Kids,7eMYrPRsiChMbkVggSVBj4,1983,26,119426,0.255,0.0318,0.994,0.0976,0.327,0.108,-3.732,0.136,97.793,4,4
+Frantic,Institutionalized,Suicidal Tendencies,Suicidal Tendencies,1KpRBS8dbDw7LxMhuK7Bso,1983-07-01,0,229960,0.375,0.0355,0.814,0.0,0.11,0.651,-8.528,0.302,96.051,0,3
+Frantic,Injustice System!,Nonstop (Re-Recordings),Sick Of It All,2RW7RocMW5Xkry7c8EaNZR,2011-10-28,0,113973,0.332,2.5e-06,0.998,0.358,0.0659,0.242,-2.88,0.0911,137.113,11,3
+Frantic,Lexicon Devil,GI,Germs,0Hl2Vuhhhh8buesoxUk1DW,1979,45,104360,0.504,0.000242,0.877,2.66e-06,0.293,0.821,-7.469,0.053,106.272,4,4
+Frantic,Whatcha Drinkin',New Day Rising,Hüsker Dü,5vkCtFusnkXbYuao0Th5CT,1985-01-01,20,93306,0.286,0.000203,0.875,0.00027,0.822,0.6,-11.703,0.0664,109.295,11,3
+Frantic,Buzzbomb,"Plastic Surgery Disasters/In God We Trust, Inc.",Dead Kennedys,32wGXDkk8f7CyYCPBF81gJ,1981,0,141804,0.314,0.000122,0.982,0.0,0.237,0.486,-4.756,0.112,139.931,11,4
+Frantic,Let's Have a War,The Record,Fear,3FXDVUALipaatG5LIRiPcm,1981-01-01,28,140760,0.399,0.0177,0.828,0.0,0.39,0.374,-9.06,0.0517,99.094,2,4
+Frantic,Code Blue,Dance With Me,T.S.O.L.,4kZb6F9tFXEnWNhDKqWo8c,1981,0,128906,0.175,0.00835,0.984,1.03e-06,0.375,0.342,-2.891,0.0986,140.424,7,4
+Frantic,We're Only Gonna Die,How Could Hell Be Any Worse? (Re-Issue),Bad Religion,5qWnPhPgeeFx4CfVmGZbGR,1982-01-12,0,132866,0.171,0.0016,0.955,0.0,0.353,0.373,-3.627,0.143,160.284,2,4
+Frantic,Ready to Fight,Total Recall,Negative Approach,68bDUWlMlp2Ld2Qe48EjGz,1990-09-24,0,62400,0.49,0.0413,0.751,0.391,0.363,0.695,-11.457,0.123,123.684,7,4
+Frantic,What We Do Is Secret,GI,Germs,7GfMlSrcyjy3lz7wWH9iMq,1979,41,44400,0.518,6.06e-05,0.816,2.42e-05,0.344,0.843,-6.508,0.109,112.28,0,4
+Frantic,Teen Idles,Minor Disturbance,Teen Idles,6GbIoHZQOYAHrFcXge2cVR,1980,15,44933,0.315,0.000653,0.844,0.916,0.472,0.606,-12.866,0.149,163.638,11,4
+Frantic,Too Young to Die,Living In Darkness (30th Anniversary Edition),Agent Orange,6SDUhwv7kjWt4YVDSLsf8k,1981,42,124026,0.226,0.11,0.963,0.0005,0.179,0.272,-7.927,0.177,183.594,7,4
+Frantic,Fuck Authority,Reagan's In,Wasted Youth,35LjPAPwOKOPz7q7HAb8jH,1981,34,101000,0.37,0.000338,0.931,0.0,0.376,0.556,-12.116,0.0936,87.69,2,4
+Frantic,Thirsty And Miserable,Damaged,Black Flag,2ynru6AE1AXIW8euFhEMat,1981,34,125840,0.287,0.0419,0.9,0.972,0.842,0.0358,-13.156,0.0906,104.282,5,4
+Frantic,I'd Rather Be Sleeping,Dealing With It! (Millennium Edition),D.R.I.,3mewIGrpGHaQ9sIIa31zca,1985,39,67933,0.417,0.0116,0.67,0.0771,0.115,0.541,-8.337,0.0672,88.024,4,4
+Frantic,I Just Want Some Skank,Group Sex,Circle Jerks,4d2l1tj2k5zoj7ScmEGWZB,1980,0,69493,0.414,0.0642,0.853,0.00472,0.318,0.67,-8.147,0.121,71.431,4,1
+Frantic,My Life,Nonstop (Re-Recordings),Sick Of It All,0Vw9pH9rm4cq442sPhgvbn,2011-10-28,0,50573,0.238,7.3e-06,0.997,0.000108,0.452,0.285,-3.058,0.282,179.897,2,1
+Frantic,Nervous Breakdown,The First Four Years,Black Flag,6aLMRbcpJAlSdrKDL5xfiE,1983,26,129933,0.384,0.431,0.957,0.0,0.778,0.218,-9.393,0.0803,90.314,11,4
+Frantic,Came Without Warning,Still Screaming / This Side Up,Scream,7dZmlJHoM5FCb3tcDCTnjG,2010-12-01,9,106186,0.29,0.000291,0.982,3.72e-05,0.331,0.191,-7.919,0.292,92.135,9,4
+Frantic,Pure Hate,Pick Your King E.P. / Record Collectors Are Pretentious Assholes (The Fatal Erection Years: 1983-1986),Poison Idea,6y0cNSlPDhiMjexwSMVXjF,2012-10-01,35,101956,0.253,1.35e-06,0.943,0.516,0.335,0.633,-5.363,0.0744,120.526,11,4
+Frantic,I Hate You - Just an American Band,Just an American Band / Live In '84,Verbal Abuse,4YwwzLj1GCPepU5xRsGUlH,2007-01-09,27,129160,0.4,3.35e-05,0.745,0.0316,0.29,0.626,-12.516,0.0377,142.589,2,4
+Frantic,Can't Tell No One,Total Recall,Negative Approach,29YmXzZBlVJuEAmr6L8T77,1990-09-24,0,84626,0.539,0.333,0.969,0.0148,0.362,0.802,-9.216,0.0351,109.383,1,4
+Frantic,Sound System,Operation Ivy,Operation Ivy,7xkSwLmSHDlnNuiePDgp22,2007-11-05,0,134026,0.569,0.35,0.954,0.000265,0.0768,0.574,-4.82,0.126,91.205,2,4
+Frantic,I'm Not A Loser,Milo Goes to College,Descendents,4YRGXEjngQ47PpfL4orKOj,1982,32,88866,0.337,0.00152,0.881,0.0,0.35,0.861,-8.144,0.0434,101.046,6,4
+Frantic,Condensed Flesh,Side B,Void,4aZJKP1AMIOICFoKl35yIP,2010-12-02,3,38586,0.291,0.00142,0.868,0.926,0.338,0.706,-6.78,0.0454,92.209,10,3
+Frantic,Bedlam,Still Screaming / This Side Up,Scream,6LieMpKqOPW7J4dJh7SUYF,2010-12-01,4,105426,0.28,0.000759,0.962,0.477,0.373,0.344,-5.104,0.0834,109.32,2,4
+Frantic,Stand Still,Start Today,Gorilla Biscuits,0l4SEEt4AbrwgPDQrKvCM0,1989-07-14,33,127826,0.391,0.000406,0.969,0.0,0.144,0.334,-5.024,0.0869,107.627,11,3
+Frantic,Disintegration - Just an American Band,Just an American Band / Live In '84,Verbal Abuse,2omuGph7CBAP4NoUJ4yJnL,2007-01-09,22,71373,0.262,0.00266,0.923,0.000102,0.443,0.334,-10.314,0.12,92.72,2,4
+Frantic,Young 'Til I Die,The Crew,7 Seconds,74Twkr3fKI0pB2MenPMnwI,1984,0,121266,0.246,0.0125,0.753,3.87e-05,0.392,0.203,-14.903,0.121,184.85,4,4
+Frantic,Hoboken,Operation Ivy,Operation Ivy,4abmtsttdKgbyJyjgTgaxh,2007-11-05,0,71773,0.302,0.00581,0.976,0.0,0.052,0.517,-4.871,0.161,92.396,2,4
+Frantic,I Don't Belong,Is This My World?,Jerry's Kids,1lK4dZhjEdYTZFqLiyjEY3,1983,32,107346,0.187,0.0324,0.981,0.268,0.387,0.134,-4.289,0.0839,103.731,9,4
+Frantic,Feel Like A Man,Negative FX/Last Rights,Negative FX & Last Rights,7gi2tI2OKbiVjWuYaiXrMR,2006-01-29,26,120306,0.306,0.0188,0.867,0.0,0.482,0.599,-7.883,0.0971,120.038,2,4
+Frantic,You're X'd,Side A,The Faith,4cOYHZ1zFViyDSY8R9hvxg,2010-12-01,3,65973,0.507,0.00991,0.878,0.575,0.232,0.398,-8.131,0.106,97.352,6,4
+Frantic,Green Hell,"Earth A.D. / Die, Die My Darling",Misfits,78as3aVS0SatFl58MQLx0N,1984-01-01,37,113133,0.266,0.0627,0.924,5.23e-05,0.227,0.15,-14.149,0.0755,194.264,11,4
+Frantic,Take Me Away,What It Meant: The Complete Discography,Judge,702ucrD12Pj963E7PtR4aO,2005-07-12,0,183600,0.309,3.45e-05,0.848,0.00623,0.454,0.46,-8.382,0.0574,125.441,0,4
+Frantic,I Don't Wanna Hear It,First Two Seven Inches,Minor Threat,2qUvaIFI5Io2UcOkpofLMB,1984-06-01,22,76173,0.199,0.0019,0.97,0.00158,0.0869,0.778,-6.458,0.0832,189.679,11,4
+Frantic,Sailin' On,Bad Brains,Bad Brains,05Uw3uX5jzesUSIF91gWDv,1982,0,115040,0.199,0.00391,0.818,7.37e-05,0.66,0.0837,-12.416,0.0506,82.025,9,4
+Frantic,Damaged I,Damaged,Black Flag,4eYKTUU5AdmbaNHoHnGUpl,1981,30,230733,0.333,0.349,0.703,0.255,0.278,0.207,-14.835,0.0426,79.592,2,4
+Frantic,Bloodstains - Original Version,Living In Darkness (30th Anniversary Edition),Agent Orange,5E47rKJbS74jyLZaSgb0kS,1981,55,113240,0.494,0.0962,0.923,0.0,0.128,0.577,-7.69,0.182,176.216,10,4
+Frantic,Nazi Punks Fuck Off,"Plastic Surgery Disasters/In God We Trust, Inc.",Dead Kennedys,2LF13LC1wG5XqZ2js2yC9O,2001,50,63390,0.397,0.00132,0.923,0.0,0.261,0.676,-4.029,0.201,112.666,10,3
+Frantic,MTV-Get Off the Air,Frankenchrist,Dead Kennedys,5wQ6zZPJnqI9DAXv4qcRjL,1985-12-21,37,217386,0.35,0.0414,0.839,0.0,0.0868,0.655,-6.186,0.216,145.385,6,4
+Frantic,Statues,Statues / Amusement,Hüsker Dü,4mqxqDf2f8TUlVgBS0u4UL,1980-08-01,0,265266,0.535,3.86e-05,0.932,0.0702,0.11,0.88,-6.948,0.0498,123.302,9,4
+Frantic,Say No More,Subject to Change,The Faith,5818hIe5ErMfC4Ag5TVyHa,1983,1,90280,0.397,0.00907,0.855,0.0371,0.729,0.296,-9.354,0.068,126.311,2,4
+Frantic,Wild in the Streets,Wild in the Streets,Circle Jerks,4BZLAm5rqqChHZlBlHuSMV,1982,51,155693,0.459,0.0061,0.966,0.0,0.146,0.38,-8.814,0.0302,103.421,4,4
+Frantic,Six Pack,Damaged,Black Flag,5Og9VyCOfxmZCuv1UhIyxE,1981,50,140493,0.33,0.157,0.784,2.08e-05,0.58,0.196,-15.285,0.19,115.402,2,4
+Frantic,Last Caress,Collection 2,Misfits,0S8LgLoseDB6W2HWd1ym6P,1995-01-01,54,119826,0.181,0.0257,0.946,0.223,0.344,0.363,-5.308,0.096,178.743,0,4
+Frantic,Los Angeles,College Rock,Various Artists,2K0vkBQ6rzo5plYnxbxmvx,2017-02-16,8,144786,0.614,0.0162,0.755,1.9e-06,0.0831,0.645,-5.829,0.0276,92.622,2,4
+Frantic,We Will Not,Live at CBGB 1982,Bad Brains,4kKBFeGFI38KSncV9aUQVQ,2006-10-31,13,103413,0.303,8.56e-05,0.932,0.853,0.588,0.173,-11.254,0.118,89.621,11,4
+Frantic,John Wayne Was a Nazi - Millions of Dead Cops - Full Length,Millions of Dead Cops - Millennium Edition (Remastered),MDC,6ol8De5EwonNljqfnFoeWE,1980,34,120856,0.454,0.0071,0.957,0.0,0.175,0.219,-4.684,0.307,70.898,0,4
+Frantic,Victim In Pain,Victim In Pain,Agnostic Front,0rcILXzric3w3sVULj5iMk,1984,0,48461,0.377,0.0147,0.992,2.47e-05,0.084,0.195,-5.924,0.148,100.93,4,4
+Frantic,In My Eyes,First Two Seven Inches,Minor Threat,4svLdyGQQfbSmucvHtdReA,1984-06-01,20,169320,0.275,0.0343,0.958,0.009,0.0554,0.446,-5.86,0.144,161.612,7,4
+Frantic,Plans I Make,New Day Rising,Hüsker Dü,2e82cNCT1uXi1rZvhKIsYM,1985-01-01,19,262026,0.197,0.0378,0.988,0.919,0.383,0.0351,-11.167,0.112,122.491,9,4
+Frantic,Subliminal,Suicidal Tendencies,Suicidal Tendencies,2zeAo1ddhjm1TioD77dDSV,1983,53,188133,0.467,0.0181,0.885,0.0,0.364,0.452,-8.226,0.0446,94.397,9,4
+Frantic,Wasted,Nervous Breakdown,Black Flag,4nrsxlCHeaa8NLrfhCI05b,2006-01-24,42,51373,0.46,0.645,0.941,0.0,0.392,0.168,-10.884,0.0764,91.414,0,4
+Frantic,Re-Ignition,I Against I,Bad Brains,5flccuB88UqMqTO6XVXiv8,1986,42,256333,0.417,0.0132,0.771,0.00198,0.0995,0.471,-13.711,0.0809,177.487,0,4
+Frantic,Hate Breeders,Collection 2,Misfits,7bRiXxZz9th7OCT4dtzV7Y,1995-01-01,31,165706,0.297,0.0876,0.959,0.0,0.166,0.117,-6.508,0.176,121.945,11,4
+Frantic,Kill the Poor (Single Version),Fresh Fruit for Rotting Vegetables,Dead Kennedys,5uBvwCuDzKG2rTWNsqzyrG,1980-01-01,5,187026,0.364,0.112,0.957,3.17e-06,0.146,0.582,-3.787,0.0524,105.712,2,4
+Frantic,It Follows,Out of Step,Minor Threat,6GvyAwquB9ocJ1hbD6CyCB,1983,18,110560,0.341,0.000748,0.972,0.00821,0.18,0.388,-6.507,0.152,178.792,9,4
+Frantic,In My Head,In My Head,Black Flag,37zwBGTBNiAXxCaPkJWZMp,2006-01-24,26,278626,0.247,0.00139,0.706,1.31e-05,0.18,0.47,-14.902,0.0863,147.254,2,1
+Frantic,Don't Need It,Bad Brains,Bad Brains,26eKJASmShZmCHnEcMOQ0e,1982,0,67293,0.186,0.00729,0.934,0.00745,0.197,0.138,-10.627,0.0603,168.482,2,4
+Frantic,The Eliminator,Cause for Alarm,Agnostic Front,2aGAeHi05q1O93dpPt1vSa,1986,32,191560,0.204,3.66e-05,0.94,0.00238,0.59,0.244,-7.623,0.164,96.952,11,4
+Frantic,Start Today,Start Today,Gorilla Biscuits,1izvrCbd0C75ScVDI6uVOl,1989-07-14,45,123706,0.53,0.000178,0.944,0.00156,0.0529,0.431,-6.321,0.0611,106.908,11,4
+Frantic,Break Down the Walls,Break Down The Walls,Youth Of Today,32dTnE7cWjEHCUAjSEvpiM,1986,34,124373,0.391,0.00373,0.973,0.334,0.0619,0.303,-5.745,0.107,141.671,9,4
+Frantic,Alcohol,Another Wasted Night,Gang Green,3VLCU9gSkSHgmgXaLQ4I8I,1986,39,132426,0.45,0.000156,0.837,2.41e-05,0.334,0.423,-14.345,0.0477,109.575,11,4
+Frantic,Q: And Children A: And Children,Hear Nothing See Nothing Say Nothing,Discharge,1XbnGXcgeka1TPzCww7Z4w,1982-05-21,23,106866,0.169,1.65e-06,0.941,0.0488,0.148,0.247,-9.881,0.0974,161.522,11,4
+Frantic,Hope,Milo Goes to College,Descendents,1MPEPvmX18S9MK4RlMKIst,1982,48,120360,0.506,0.00169,0.903,0.0,0.336,0.781,-8.898,0.0455,117.229,2,4
+Frantic,Seeing Red,First Two Seven Inches,Minor Threat,6Oo8wDuMdKq5KscPsP6sAL,1984-06-01,19,65093,0.33,0.00419,0.81,0.0569,0.0658,0.642,-7.014,0.142,168.73,2,4
+Frantic,TV Party,Damaged,Black Flag,4DA95pyBe6QORPGvTEuMWQ,1981,47,211200,0.308,0.184,0.926,0.0,0.0782,0.193,-12.683,0.15,96.17,1,4
+Frantic,Bad Attitude,Complete Vol. 1,Articles Of Faith,4FRXJv8ADNx0RHMyAldWQS,1995,29,156440,0.241,9.9e-05,0.98,0.178,0.282,0.507,-5.372,0.0568,90.381,11,4
+Frantic,Sick Boy,City Baby Attacked by Rats,GBH,4w6R5BW7q2u06Cq9vA5Kn8,1982,0,152746,0.286,4.55e-05,0.972,0.00183,0.364,0.31,-5.031,0.127,152.667,11,4
+Frantic,Tony Age,Milo Goes to College,Descendents,21Lumli0VsJglgAwLzzV56,1982,23,56400,0.327,5.45e-06,0.839,0.0286,0.105,0.922,-10.743,0.064,126.114,1,3
+Frantic,We Must Bleed,GI,Germs,4nl8srnmBGjY4fU6bEIDF9,1979,31,185266,0.295,2.27e-05,0.968,0.502,0.371,0.256,-7.587,0.0731,108.991,11,4
+Frantic,Loose Nut,Loose Nut,Black Flag,5v1QGhgPTKpSH6UBXZoieW,1985,28,276426,0.196,0.000613,0.827,0.0,0.728,0.524,-12.874,0.0534,180.818,0,4
+Frantic,Go Nowhere,A Collection of Pop Classics,Reagan Youth,28CzlFHHxBf68YfOPqm8O2,1994-07-22,0,82106,0.433,0.000391,0.545,1.93e-05,0.116,0.709,-15.215,0.185,153.588,0,4
+Frantic,Expectations,Can't Close My Eyes,Youth Of Today,3MrzEqmzUeju23ApoVq8lG,1988,19,128039,0.28,5.66e-05,0.933,0.483,0.278,0.5,-6.386,0.123,138.467,11,4
+Frantic,Fuck School,Stink (Expanded),The Replacements,6sVMHE9DvY8OdIxGZ6ejv4,1982,25,86986,0.546,0.487,0.972,2.27e-05,0.292,0.0825,-8.139,0.068,104.244,7,4
+Frantic,Bastard In Love,Loose Nut,Black Flag,13KxalwWSW679WuCjySI0n,1985,29,200306,0.43,0.00935,0.768,0.0,0.384,0.549,-11.685,0.101,158.842,11,4
+Frantic,Wart Hog - 2002 Remaster,Greatest Hits,Ramones,6brX5IYzdEIfm1eFQtOZai,2006-06-05,30,114573,0.5,8.44e-05,0.972,0.158,0.736,0.889,-5.285,0.0395,104.359,10,4
+Frantic,War Inside My Head,Join The Army,Suicidal Tendencies,03HL3jTzizrDNtPcmdPELp,1987,49,230640,0.356,0.00901,0.943,0.0,0.372,0.317,-9.191,0.0887,89.789,2,4
+Frantic,Masochism World,Zen Arcade,Hüsker Dü,4sjryWLFLDNuenVFgyHamr,1984-01-01,23,167640,0.226,0.000614,0.986,0.0902,0.285,0.0563,-11.434,0.0886,99.164,5,4
+Frantic,Circles,Can I Say,Dag Nasty,7EuYt3nnLOLKprkHdsOOX2,1986,22,166560,0.423,0.00132,0.829,6.86e-06,0.316,0.4,-5.999,0.0601,93.37,1,4
+Frantic,I Want Some,Anthology: The Sounds Of Science,Beastie Boys,1JaEF8ofVVnVPj2UuD2r4N,1999-01-01,41,120266,0.223,2.94e-06,0.986,0.721,0.0733,0.516,-6.291,0.0884,175.741,2,4
+Frantic,No Class,A Collection of Pop Classics,Reagan Youth,5NMnpiXpslafTY8vxCOGOZ,1994-07-22,0,94440,0.341,0.0571,0.656,5.27e-05,0.19,0.404,-14.174,0.368,206.195,2,4
+Frantic,Herança,Brasil,Ratos De Porão,3xejcOVrLz3hE4j8Gds8iU,1989-09-01,18,111733,0.349,3.58e-06,0.968,0.645,0.0535,0.535,-8.362,0.115,122.008,11,1
+Frantic,Rumors,Die Kreuzen,Die Kreuzen,2EXlXLfRmKXmDF3HDcPCPy,1984-06-07,0,109800,0.353,7.28e-05,0.907,0.0578,0.0568,0.734,-11.691,0.049,122.015,1,4
+Frantic,Minds Are Controlled,Eye For An Eye,Corrosion Of Conformity,089GaizbL0UTM7ZCx78gPn,2012-11-06,0,95346,0.33,0.0198,0.989,0.0369,0.291,0.0386,-5.801,0.213,102.415,4,4
+Frantic,Dead Cops / America's So Straight,Now More Than Ever,MDC,1PCW6YzvtsuNhGnBRmX3Og,2002,0,118973,0.325,0.00152,0.928,0.0,0.392,0.241,-9.68,0.124,116.572,6,4
+Frantic,Kids of the Black Hole,Adolescents,Adolescents,7aDotQpUKpGFrOsrfQAxNc,1981,46,327066,0.441,0.00032,0.977,7.27e-06,0.0827,0.352,-7.529,0.0748,93.032,2,4
+Frantic,Dicks Hate The Police,1980-1986,Dicks,3akjmPch80sHhzkfrqR5rX,1995,39,118893,0.292,0.000182,0.788,0.00136,0.366,0.488,-8.912,0.0375,183.088,2,4
+Frantic,Civilization's Dying,Vicious Circle,Zero Boys,0dTAoGEUWv9dUXzRlVmSgN,1981,0,118226,0.469,0.00102,0.995,0.667,0.351,0.458,-1.852,0.13,101.104,11,4
+Frantic,Sex Bomb - Generic,Generic,Flipper,2dO1E2njhLN8MLYLSKP3oa,1982-03-30,10,469320,0.237,0.114,0.995,0.877,0.402,0.0887,-4.785,0.149,129.833,11,4
+Frantic,Give It Up,Pick Your King E.P. / Record Collectors Are Pretentious Assholes (The Fatal Erection Years: 1983-1986),Poison Idea,2G1Ow7PUsIo2mKes66niHX,2012-10-01,0,28474,0.353,1.01e-06,0.938,0.981,0.181,0.889,-6.663,0.0637,105.188,11,4
+Frantic,Bleed for Me,"Plastic Surgery Disasters/In God We Trust, Inc.",Dead Kennedys,3AbYQi11L5RDO9QY6EjgOG,2001,31,204916,0.289,0.000194,0.962,7.77e-05,0.0946,0.118,-5.647,0.129,102.594,9,4
+Frantic,"Look, Back & Laugh",Out of Step,Minor Threat,7oaSBiHGHVmPIHYaSstwhQ,1983,19,196480,0.266,0.00705,0.962,0.0344,0.191,0.508,-6.126,0.117,82.265,4,4
+Frantic,Pain of Mind,Pain of Mind (Remastered),Neurosis,67iRviEYE18rw2nj3FXfnP,2018-05-25,14,185706,0.375,3.2e-06,0.97,0.00925,0.313,0.452,-6.834,0.157,120.614,11,4
+Frantic,Devil Woman,More Fun Than an Open-Casket Funeral,The Accüsed,14u5iGxFHx8bdthWYZCyTO,1987-05-05,19,280573,0.565,0.000266,0.594,2.05e-05,0.136,0.658,-12.805,0.0665,133.69,2,4
+Frantic,If You Get Bored,Mangled Demos from 1983,Melvins,2P0Vgq6U7gAgEyd7qqaNc7,2005-05-21,0,93266,0.227,2.58e-05,0.928,0.0173,0.129,0.351,-7.583,0.124,111.404,11,4
+Frantic,Slip It In,Slip It In,Black Flag,4iX8iYTbkR3pHg0kfxHG4c,1984-12-01,41,377600,0.299,0.0112,0.886,0.0469,0.381,0.176,-14.021,0.0841,95.588,11,4
+Frantic,Why,Why?,Discharge,7yH2VmHsaj9wnhDwzagXlV,1981-01-01,28,69586,0.26,1.42e-05,0.962,0.633,0.163,0.784,-3.641,0.0919,153.382,11,4
+Frantic,It's The Limit,Before The Quarrel,Cro-Mags,1uxq5CUoUcCf8vGeeERBXw,2000,21,98377,0.299,6.69e-05,0.983,0.863,0.12,0.307,-5.078,0.192,139.453,4,4
+Frantic,Back On The Map,Back On The Map,Slapshot,3SKuvUtQ0UvmOL30Y3DGnz,1986,20,185000,0.366,9.96e-06,0.654,1.28e-05,0.08,0.407,-14.352,0.0546,123.606,7,4
+Frantic,California Pipeline,Murphy's Law,Murphy's Law,1hSmvNwWVyJwtgg7N1fyp2,1986,0,95426,0.264,1.63e-05,0.86,0.0185,0.0976,0.605,-9.259,0.0747,147.471,11,4
+Frantic,Problem Child,Reagan's In,Wasted Youth,6PSolOW1CcFGSZALJECEvk,1981,38,126600,0.3,0.0128,0.836,0.243,0.133,0.361,-13.925,0.08,164.998,0,4
+Frantic,Money Talks,Money Talks,Cryptic Slaughter,30UlWoHbHzsPgOlwaioqZt,1987,30,221040,0.269,0.000183,0.949,0.171,0.248,0.598,-6.029,0.122,171.083,6,4
+Frantic,Escape and Run,Ourselves,7 Seconds,4BVLAJ1gx8083qdPAfrZXr,1988,18,172466,0.294,0.00376,0.631,2.46e-06,0.143,0.461,-10.756,0.037,88.974,7,4
+Frantic,Mommy's Little Monster,Mommy's Little Monster,Social Distortion,1thjUa3PyXAzfrZTE6gdyk,1982-01-01,0,212933,0.153,0.000154,0.919,0.0,0.168,0.46,-4.686,0.0674,178.136,2,4
+Frantic,Time to Die,Side B,Void,7lSQmgK6vxfWmnGSvVlZWc,2010-12-02,8,95946,0.225,4.52e-05,0.912,0.834,0.55,0.466,-7.886,0.0662,70.488,6,4
+Frantic,Dom Ljuger,Kärnvapen Attack EP,Mob 47,7gjZLfVeXQy0E7K65esxv3,1984,23,63840,0.308,5.98e-06,0.923,5.63e-05,0.226,0.565,-3.984,0.344,125.376,8,4
+Frantic,Watch It Burn,Nardcore Hardcore,Dr. Know,0UjJDlrnGMLbbqqsyU8E6J,1985,39,179533,0.222,5.08e-06,0.866,0.0399,0.373,0.626,-13.222,0.0458,180.117,9,4
+Frantic,Reward,S/T,Meat Puppets,06BoxUJF6tpFsKxvj0uLEN,1982,11,71533,0.222,0.162,0.98,0.0236,0.36,0.0507,-5.984,0.108,121.847,4,4
+Frantic,Ain't No Feeble Bastard,Why?,Discharge,09IzI41CTG5On9aqUvlsiw,1981-01-01,33,89346,0.375,4.13e-05,0.972,4.22e-05,0.183,0.493,-3.225,0.109,108.33,5,4
+Frantic,Sitting Around At Home,Gorilla Biscuits,Gorilla Biscuits,2tuQR9vyBWZAc5yKk4EJLC,1988,22,102493,0.534,0.000253,0.671,0.000658,0.0642,0.651,-10.457,0.0329,105.604,9,4
+Frantic,Human Cannonball,Locust Abortion Technician,Butthole Surfers,3b6A9CRGEIFU4NzSZt4rQY,1987,39,231946,0.443,0.00354,0.701,0.00123,0.0297,0.485,-8.464,0.0576,93.465,9,4
+Frantic,Just to Get Away,Feel the Darkness (2018 Reissue),Poison Idea,58qpA3jFYsf3MttnLzEtlM,2018-07-20,25,151986,0.507,0.000519,0.976,0.000158,0.0708,0.707,-4.203,0.0746,106.896,2,4
+Frantic,You Are (The Government),Suffer,Bad Religion,4uKMHiWSI5omiZrSAUjrH8,1988,42,81793,0.431,0.000358,0.976,0.0,0.207,0.916,-2.987,0.0393,140.305,1,4
+Frantic,I'll Be Waiting,The Offspring,The Offspring,27LoqTcfCOKb642w08iKYK,1989-06-15,30,191600,0.34,0.00377,0.792,0.00113,0.284,0.534,-7.659,0.0536,114.726,2,4
+Frantic,Society,EP Lp,Subhumans,6rjzqUB6w4OPnsy5WiePKo,1984-05-01,25,103266,0.23,0.158,0.995,0.0,0.231,0.17,-10.283,0.122,157.26,2,4
+Frantic,Youth Of Today,Can't Close My Eyes,Youth Of Today,05zIKOwJezhBK6JS6OSZHi,1988,20,132960,0.298,5.16e-05,0.941,0.111,0.0702,0.431,-6.194,0.1,128.189,6,4
+Frantic,Suicidal Maniac,Join The Army,Suicidal Tendencies,4msqNBGHuOZ59LOjGZITvV,1987,36,177600,0.213,5.74e-05,0.935,0.111,0.458,0.454,-9.658,0.109,193.369,9,4
+Frantic,Jock-O-Rama,Frankenchrist,Dead Kennedys,0ZZVoJsILMNzykbGkpTooh,1985-12-21,37,246253,0.328,0.0126,0.923,0.0,0.257,0.341,-7.305,0.155,112.357,2,4
+Frantic,All Systems Fail,The Punk Singles 1982-1985,The Varukers,46wdoLHePraC3VsKSWZwBb,1996,0,179533,0.09,1.12e-05,0.871,0.00949,0.0544,0.463,-7.244,0.0558,177.509,4,4
+Frantic,How Low Can a Punk Get,Rock for Light,Bad Brains,4QuZoRlhPnEdK5RRP9XxKU,1983,25,109466,0.171,1.81e-05,0.995,0.812,0.191,0.171,-8.669,0.114,188.224,6,4
+Frantic,Brats In Battalions,Brats In Battalions,Adolescents,508mUlVoPibtTHZt8keUcU,1987,21,153000,0.428,4.11e-05,0.934,0.0,0.314,0.578,-8.479,0.0823,142.972,9,4
+Frantic,High Hopes,Gorilla Biscuits,Gorilla Biscuits,2C3q8kElxfujYlrC5mJ8R1,1988,35,144933,0.291,1.52e-05,0.731,0.254,0.0571,0.344,-11.84,0.0415,110.644,11,4
+Frantic,Head,Food for Thought / Take It Back,Gray Matter,4LBCFhDkT7mzcLotHKFtf8,2010-12-01,2,443376,0.274,0.131,0.839,0.0588,0.189,0.138,-9.287,0.154,110.186,9,4
+Frantic,Where Eagles Dare,Collection,Misfits,5LgiqEgpK54OfXC6947wbU,1986-01-01,60,128426,0.282,0.741,0.943,0.414,0.178,0.15,-7.746,0.121,182.381,2,4
+Frantic,Hard Times,Before The Quarrel,Cro-Mags,2o3v9646q5cqBv5mdYXAYR,2000,44,96026,0.224,0.00326,0.996,0.896,0.0305,0.207,-4.578,0.131,214.396,9,4
+Frantic,Flame Still Burns,We're Not In This Alone,Youth Of Today,4wvtx9kz2R9JWJJwN6hb15,1988,26,75400,0.388,0.00295,0.957,0.0,0.131,0.229,-4.628,0.171,119.407,8,4
+Frantic,Anarchy Burger (Hold The Government),Peace Thru Vandalism (Re-Mastered),The Vandals,43UVZ8ZgNNuXOf0mTBeLSo,1982-10-05,0,114133,0.391,0.000461,0.935,0.0,0.219,0.171,-10.044,0.0816,140.412,2,4
+Frantic,Surf Combat,Throb Throb,Naked Raygun,6bewUZ3nDUj3ChnoYTtfbN,1984-01-01,0,76506,0.499,0.00986,0.63,0.315,0.0764,0.66,-13.55,0.0364,97.796,11,4
+Frantic,Modern Day Heroes,The Best of Battalion of Saints,Battalion Of Saints,1yUCkTjWo3HkogB0tPI5zy,1982-08-26,18,78946,0.321,0.000552,0.906,0.102,0.059,0.365,-4.457,0.175,137.384,9,4
+Frantic,Tied Down - From Tied Down LP 1983,Total Recall,Negative Approach,55EXCw1p3xDWKIW1rGmIZg,1981,0,93200,0.435,0.017,0.929,0.0,0.327,0.248,-11.337,0.0904,81.819,1,4
+Frantic,Mind Control,Negative FX/Last Rights,Negative FX & Last Rights,7GbXfaQb0yKE0xlNCt3auF,2006-01-29,20,89933,0.382,0.234,0.644,0.000377,0.0788,0.647,-9.169,0.0565,125.299,9,4
+Frantic,It's Your Choice,Don't Forget the Struggle Don't Forget the Streets,Warzone,2sFQKzkE0K1otH0A5HZEUK,1987,23,110400,0.244,0.0603,0.949,0.63,0.337,0.62,-4.4,0.0809,140.657,5,4
+Frantic,Use Your Head,Screaming for Change,Uniform Choice,4LXPil2Qaq1Jakh9zdJPwt,1986,30,82489,0.255,8.63e-05,0.949,5.13e-05,0.316,0.488,-4.448,0.18,157.676,0,4
+Frantic,São Paulo,Tente Mudar o Amanhã,Cólera,4QKhx4OWW33KMpDz5zgxXv,1985-08-01,19,120524,0.237,6.86e-05,0.948,0.849,0.15,0.487,-8.428,0.116,70.281,9,4
+Frantic,My Rules,Side B,Void,3rohEFWlY2fb9o7UesKViH,2010-12-02,7,56426,0.308,0.000882,0.816,0.93,0.576,0.591,-7.84,0.0914,100.631,10,4
+Frantic,Smash Racism,The Punk Terrorist Anthology Vol. 2: 1986-1988,Nausea,5dWlhWwPgV6vtt6kGaXeYu,2005,28,150653,0.356,1.16e-05,0.982,0.91,0.764,0.288,-5.775,0.087,128.172,11,4
+Frantic,The Money Will Roll Right In,Landshark,Fang,7ujGFXp50Uwe3fkIHq5Fgn,1995-05-17,44,147160,0.234,0.000265,0.553,0.208,0.225,0.639,-13.471,0.0393,141.106,4,4
+Frantic,Rock'n Roll Bullshit,Legless Bull,Government Issue,6GmjDCWgWvitT6k4Xsd6ju,1981,21,73600,0.32,0.00841,0.836,0.00105,0.389,0.149,-15.436,0.139,200.072,2,4
+Frantic,Rich Kids,The Best of Agression,Agression,6dktA1sSK3FKqjDz05xwhl,1982,18,95453,0.493,0.25,0.989,0.0,0.438,0.19,-7.267,0.0714,112.31,1,4
+Frantic,Lost In Space,No Policy,S.O.A.,1tDYWM1bphUNeHMuEcDBfy,1981,9,43133,0.374,0.00778,0.819,0.754,0.334,0.438,-16.172,0.08,96.42,7,4
+Frantic,Enemies,Die Kreuzen,Die Kreuzen,0WnnEVjuvORww0ath0xTdf,1984-06-07,0,57866,0.34,0.000141,0.977,0.862,0.331,0.504,-10.471,0.103,81.083,0,4
+Frantic,Die For Your Government,The Punk Singles 1982-1985,The Varukers,39nwWypMeyjjbK6vsC721M,1996,0,127493,0.427,0.000175,0.754,4.94e-05,0.174,0.579,-8.387,0.0352,102.058,0,4
+Frantic,Subúrbio Geral,Grito Suburbano,Cólera,0oyKwd9XsUYzbn17BuRrVK,1982-08-01,18,94800,0.308,0.0103,0.694,0.0,0.141,0.525,-11.879,0.079,136.01,6,4
+Frantic,State Oppression,Screams from the Gutter,Raw Power,7oZeKwa7kERenWMJ61gZL1,1985-01-01,23,89880,0.311,0.000117,0.949,0.0051,0.168,0.318,-5.56,0.0633,97.681,0,4
+Frantic,Don't Need,Almost Complete,Deep Wound,14ugR1KmfYyh9OCh7mwlGD,2007-01-08,0,57853,0.208,0.000166,0.901,0.672,0.39,0.069,-5.081,0.0935,137.829,7,4
+Frantic,Straight and Alert,Screaming for Change,Uniform Choice,1zlykPARS5tuA4ph8nMPkT,1986,23,188936,0.307,0.00124,0.96,0.0,0.0666,0.247,-4.305,0.0711,128.957,2,4
+Frantic,Glue,Get It Away,SS Decontrol,58GYzvbTEO6p012RiuYaEp,1983-05-20,31,78099,0.272,2.31e-06,0.965,0.0424,0.41,0.334,-6.756,0.085,137.391,0,4
+Frantic,Cracked Cop Skulls (Sprackta Snutskallar),The Shitlickers,The Shitlickers,1A9W0O83RVxKCcrxVAwGQi,1982-04-01,23,48333,0.254,0.169,0.981,0.818,0.323,0.524,-4.043,0.125,99.672,0,4
+Frantic,Rotat,Skitsofrenia,Riistetyt,6NlbNmeGQz0RuzXsWXIaDB,2012-06-13,10,91146,0.112,0.0475,0.955,0.93,0.108,0.345,-4.734,0.169,195.158,9,4
+Frantic,WC räjähtää,Levytykset 1981-1984 Recorded Works,Rattus,1eUfkla8hqELSTR9CpFM70,2007-01-01,7,64933,0.115,2.37e-06,0.936,0.707,0.185,0.679,-7.556,0.0681,157.315,7,4
+Frantic,Under The Gun,Golden Shower of Hits,Circle Jerks,1pGscpdvl28fq1dJpZ04HG,1983-07-21,32,177706,0.458,0.00242,0.884,5.58e-05,0.623,0.209,-9.444,0.0529,127.647,4,4
+Frantic,Richard Hung Himself,Team Goon,D.I.,2Rng7xhw11lUCO72Qb5ZHC,1987-01-01,35,229732,0.426,0.0315,0.896,0.0,0.417,0.496,-12.407,0.0703,124.752,6,4
+Frantic,VFW,Government War Plans,Negative FX,3xBJuLC58XBy4iYLYvlVrw,1982-07-31,12,166480,0.245,0.376,0.995,0.0792,0.679,0.0335,-8.071,0.111,109.844,1,4
+Frantic,Out Of Our Minds,Negative FX/Last Rights,Negative FX & Last Rights,03PZRiG6tO1XP9nDwuMwWL,2006-01-29,13,100106,0.359,5.3e-05,0.873,1.22e-06,0.125,0.636,-9.748,0.0688,97.718,6,4
+Frantic,Hollow Eyes,Complete Vol. 1,Articles Of Faith,0wfliHKDn1DkkGYXgqURI7,1995,11,188306,0.239,3.45e-05,0.904,0.00036,0.117,0.258,-8.868,0.0933,155.785,0,4
+Frantic,Krossa elitsystemet,Totalitär ‎– 1986-1989,Totalitär,4gDS9bo9DafX6jsSIlDjLj,2018,18,83675,0.286,0.0513,0.97,0.555,0.548,0.0396,-4.988,0.0871,103.818,4,4
+Frantic,Grey World,The Collection,Attitude Adjustment,3vVLUIjB2ReS5wXiLbzheZ,2010-02-02,14,101493,0.325,0.00472,0.859,0.0,0.131,0.359,-12.425,0.0964,118.478,9,1
+Frantic,Artificial Peace,"Complete Session, Nov '81",Artificial Peace,0ooxlnJPxKZUV8ffjRyQi1,2010-12-01,3,98466,0.271,0.0627,0.968,0.0,0.612,0.31,-6.192,0.273,131.782,9,4
+Frantic,Reality Breakdown,Too Many Humans/Teen Love,No Trend,1UlJ2OHKlLcGkkvmjrocru,2020-05-29,39,240373,0.0997,1.45e-06,0.865,0.363,0.179,0.158,-4.264,0.0564,181.565,2,4
+Frantic,Live Fast Die Young,Group Sex 40th Anniversary Edition,Circle Jerks,79FD1Ej7Zob1k4UgRvMWBo,2020-10-30,47,93666,0.482,0.134,0.952,1.8e-05,0.0836,0.79,-4.759,0.0584,108.254,4,4
+Frantic,I Don't Wanna Die,The Day the Country Died,Subhumans,5nUyAK0XS0jKdiICq3uQwZ,1983-01-01,27,89373,0.183,0.0022,0.94,0.00438,0.404,0.22,-11.864,0.0991,169.618,11,4
+Frantic,You Send Me,Dark Self Image,United Mutation,6neFAC1DBq58h3l3lmyQFI,2020-05-01,10,44562,0.299,0.448,0.926,0.954,0.257,0.575,-5.12,0.0578,98.958,5,4
+Frantic,Pressure's On,Flex Your Head,Red C,3XPTeitzTCtRkAgGv4PDvG,1981,3,102213,0.382,0.00262,0.679,0.07,0.0577,0.512,-10.013,0.0736,96.222,0,4
+Frantic,Up Front,Is This Real?,Wipers,3mOevne8BigZil9ehpRrA2,1980-02-15,32,184240,0.347,0.000145,0.721,0.915,0.11,0.594,-6.66,0.0864,188.777,2,4
+Frantic,Lights Out,Back from Samoa,Angry Samoans,0g5m5ECn51sourNljdCF1g,1982,36,52266,0.497,4.29e-05,0.977,0.487,0.234,0.2,-10.469,0.13,130.787,0,4
+Frantic,Animal,We Are The League,Anti-Nowhere League,6f4DN4VOAeZMoZntZcWan6,1982,0,163066,0.156,0.0235,0.913,0.00297,0.328,0.529,-9.601,0.0493,181.808,4,4
+Frantic,Mirror,Wasted Dream,Death Side,2vShS8UJBXusBbo57vmjZk,1989-01-01,18,122293,0.162,1.61e-06,0.954,0.914,0.0914,0.338,-1.455,0.0676,110.036,9,4
+Frantic,Life As One,Thou Shalt Not Kill,Antidote,6jR3kaZ2Uah9St7iKtUh7O,2006-03-23,17,43946,0.186,0.162,0.957,0.00125,0.423,0.577,-4.325,0.22,199.405,2,4

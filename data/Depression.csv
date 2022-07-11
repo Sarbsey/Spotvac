@@ -1,0 +1,237 @@
+mood,name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature
+Depression,About You,About You,Sik World,3t9nJ079F1nheAdUqijyWe,2021-03-31,46,173350,0.729,0.0886,0.441,8.67e-05,0.172,0.186,-9.088,0.135,143.935,2,4
+Depression,Better Alone,Better Alone,Sik World,43xRBcCOtRbD9NdruGkt9Y,2021-07-21,42,163902,0.694,0.421,0.583,0.0,0.0901,0.444,-8.852,0.717,81.583,8,4
+Depression,Dead End,Dead End,Jan Metternich,0BmHLzYMid4yN5BSVUiilM,2021-01-29,51,193600,0.71,0.701,0.356,0.0,0.0988,0.542,-12.336,0.079,150.062,3,4
+Depression,Why'd You Leave?,Why'd You Leave?,Sik World,7uWalFOkvzFZjPou2mcb8C,2022-01-05,55,125384,0.728,0.357,0.707,3.81e-06,0.144,0.286,-7.895,0.485,84.968,8,4
+Depression,Nobody Else,Nobody Else,Jan Metternich,5NGPmUf2qf4kHb8qb1REBP,2022-05-20,47,136727,0.573,0.225,0.611,0.0,0.106,0.405,-8.602,0.0526,165.007,10,4
+Depression,Night,Night,imagothhboy,1k4cHM2K7p6uUCSf77W2S8,2022-01-24,25,186514,0.506,0.021,0.56,0.0,0.0896,0.266,-8.832,0.058,170.045,0,3
+Depression,Mama Cry,I AM YOU,YNW Melly,2fSW54bA6x2iWePU7rpCiP,2018-08-03,72,231297,0.543,0.0739,0.492,0.0,0.11,0.107,-7.432,0.156,220.099,7,4
+Depression,Replaced,When Stars Align,Sik World,6JbdMKrsmcYAzz5RJlbfkg,2019-09-06,46,136666,0.541,0.856,0.47,0.0,0.116,0.375,-9.945,0.0714,106.079,8,3
+Depression,Disarray,Disarray,III-SCAR,4P37g3UQiacIfWSuAS5TVi,2021-06-03,31,204191,0.54,0.759,0.381,0.00022,0.114,0.0788,-10.54,0.0796,79.74,7,4
+Depression,Insecurities,Insecurities,Jan Metternich,512OLJZhzWfY1q5YBilERp,2020-07-17,40,137806,0.587,0.313,0.421,0.143,0.124,0.418,-17.249,0.0409,155.02,2,4
+Depression,Wrong,Wrong,Jan Metternich,67ItCIEIfqBXzy6iWwGuhG,2020-08-21,43,127142,0.651,0.365,0.224,0.0482,0.0756,0.119,-17.877,0.128,167.953,0,4
+Depression,Kitchen Sink,Kitchen Sink,Genesis Ritchot,0baEuNfCAnahq2e5PhJPrn,2021-04-23,49,218368,0.362,0.886,0.456,0.000662,0.0794,0.175,-11.277,0.0422,108.128,7,4
+Depression,Eyes Blue Like The Atlantic (feat. Subvrbs),Eyes Blue Like The Atlantic (feat. Subvrbs),Sista Prod,0qUcpOOna3kkrwfqky85e1,2020-07-20,72,154599,0.768,0.608,0.339,0.000956,0.261,0.568,-13.169,0.777,76.229,0,4
+Depression,Fiend (feat. wavvyboi),Codex II,Aaryan Shah,0xYlNTEF9peTxgqqrENldW,2021-11-12,41,178750,0.677,0.796,0.446,0.0,0.108,0.356,-7.397,0.0291,109.974,6,4
+Depression,Child of the Night,Child of the Night,III-SCAR,4G1lWOdSW7WqTlrFHxhsqC,2019-10-08,55,123860,0.458,0.115,0.545,0.0,0.427,0.154,-13.064,0.143,96.803,8,4
+Depression,On My Mind,On My Mind,Jan Metternich,1XjmuBCoZIXDuzu90RZ3zh,2020-03-20,36,130037,0.83,0.483,0.26,0.00293,0.131,0.639,-17.686,0.0483,119.973,6,4
+Depression,Pain,Fearless,Josh A,39LJCSHy7nB1akjmhMQ7Y7,2019-01-12,75,188041,0.789,0.525,0.509,7.55e-06,0.0936,0.61,-8.629,0.277,75.009,6,4
+Depression,Love Is a Drug,Thbk.,Papithbk,0vQM29chWYNTrqPoirulxI,2018-10-24,51,97906,0.841,0.791,0.406,0.0,0.0872,0.384,-12.389,0.358,110.061,7,4
+Depression,Whatever They Say,Whatever They Say,Jan Metternich,4DhnpLvIikS85G4C5lxMd5,2019-11-27,37,198857,0.622,0.691,0.201,0.0,0.167,0.165,-14.859,0.0432,139.945,4,4
+Depression,Melodies,Melodies,Jan Metternich,4XKLvarjEEHpClgHwgEWHW,2020-06-05,36,179226,0.72,0.08,0.248,0.00515,0.113,0.553,-18.634,0.055,149.951,0,4
+Depression,Be Alright,A Place We Knew,Dean Lewis,5qrSlOut2rNAWv3ubArkNy,2019-03-22,75,196493,0.551,0.705,0.537,0.0,0.0802,0.493,-7.595,0.034,126.421,11,4
+Depression,Everybody Dies In Their Nightmares,17,XXXTENTACION,3GVkPk8mqxz0itaAriG1L7,2017-08-25,84,95466,0.734,0.847,0.57,2.14e-05,0.112,0.689,-7.066,0.133,129.953,7,4
+Depression,Outta My Head,Outta My Head,Jan Metternich,2UJvads57r87dFsqwRjqlm,2020-10-30,40,128000,0.61,0.619,0.307,0.000919,0.116,0.49,-16.618,0.0451,150.004,10,4
+Depression,7 Years (Remix),7 Years (Remix),Sik World,1kFlDnWmBTvCBxxeGDpIdp,2016-06-04,71,134197,0.811,0.227,0.609,0.0,0.102,0.439,-8.376,0.0996,120.071,10,4
+Depression,Get You The Moon (feat. Snøw),Get You The Moon (feat. Snøw),Kina,4ZLzoOkj0MPWrTLvooIuaa,2018-10-08,80,179080,0.498,0.72,0.235,0.0,0.144,0.0895,-16.541,0.188,118.917,1,4
+Depression,Wasting Your Time,Wasting Your Time,Jan Metternich,76TfbRT8b4rLaJZ6MH0ga6,2020-02-26,35,165360,0.68,0.138,0.638,0.00184,0.11,0.753,-9.077,0.0275,134.981,4,4
+Depression,Falling,Falling,Trevor Daniel,4TnjEaWOeW0eKTKIEvJyCa,2018-10-05,27,159381,0.785,0.123,0.431,0.0,0.0887,0.236,-8.756,0.0364,127.085,10,4
+Depression,Ruthless (Nice Guys Always Finish Last),Oso Different,MarMar Oso,6HeCk6yewXH7WO4D93eub9,2019-08-14,72,233023,0.724,0.388,0.269,0.0,0.0808,0.866,-15.465,0.0456,86.042,5,4
+Depression,Walk Away,Natsukashii,SadBoyProlific,1FZNiU5U4xXuGQMpO6OdGz,2018-12-24,10,120215,0.717,0.766,0.373,0.0,0.0989,0.279,-14.132,0.401,99.921,1,4
+Depression,the remedy for a broken heart (why am I so in love),?,XXXTENTACION,4UKCKdYiLN6IMA5ZESUTL7,2018-03-16,80,160184,0.699,0.779,0.304,0.000993,0.137,0.271,-11.192,0.0993,119.705,1,4
+Depression,Graduation (with Juice WRLD),Graduation (with Juice WRLD),benny blanco,6cjSh516BbrNUs213jDAGm,2019-08-30,70,177847,0.731,0.107,0.65,0.0,0.124,0.605,-5.286,0.271,154.968,0,4
+Depression,Tell Me Why I'm Waiting,Tell Me Why I'm Waiting,creamy,54DStFYEe4uNpyauoxvGmI,2020-08-31,6,139337,0.762,0.507,0.212,0.125,0.104,0.202,-12.901,0.0761,124.933,11,4
+Depression,Hold on to Me,Hold on to Me,creamy,0HL7lTKXJIYlUhPdICVPz7,2020-08-31,43,96940,0.784,0.505,0.346,4.57e-05,0.131,0.459,-6.492,0.0604,56.893,7,4
+Depression,I Know You so Well,I Know You so Well,creamy,5LXJUjQ4ycT88GCltIjdws,2020-08-31,49,110889,0.749,0.338,0.266,0.00587,0.194,0.488,-10.966,0.0468,65.021,0,4
+Depression,So Long,So Long,creamy,6Jrbs4Du8JYyzWN32L6ltd,2020-08-31,34,118883,0.612,0.379,0.183,0.00237,0.203,0.259,-13.986,0.242,145.08,9,3
+Depression,death bed (coffee for your head),death bed (coffee for your head),Powfu,7eJMfftS33KTjuF7lTsMCx,2020-02-08,83,173333,0.726,0.731,0.431,0.0,0.696,0.348,-8.765,0.135,144.026,8,4
+Depression,I Don't Want,Safe.,Sarah Meow,449qkAvm7GJQaPUoatLRvo,2019-06-10,0,105000,0.591,0.938,0.183,0.0261,0.112,0.784,-12.821,0.169,170.1,0,5
+Depression,I'll Keep You Safe,Safe.,Sarah Meow,2HUuFBmz9mYhJJZGk90Dec,2019-06-10,0,116869,0.734,0.927,0.231,0.00461,0.154,0.357,-16.124,0.11,115.105,7,4
+Depression,Imagination,Safe.,Sarah Meow,3sVlvHkFjyIrU8qeejurdP,2019-06-10,0,110181,0.5,0.959,0.143,0.169,0.184,0.233,-11.517,0.122,82.195,7,3
+Depression,Alexis,Trap Jack 2,Joey Trap,54yT3t8hSaJUvdHer3ZaB1,2017-10-08,64,83000,0.839,0.741,0.539,0.0,0.0966,0.645,-9.238,0.0926,124.921,0,4
+Depression,Dusk Till Dawn (feat. Sia) - Radio Edit,Dusk Till Dawn (feat. Sia) [Radio Edit],ZAYN,1j4kHkkpqZRBwE0A4CN4Yv,2017-09-07,78,239000,0.259,0.102,0.437,1.32e-06,0.106,0.0951,-6.589,0.0386,180.042,11,4
+Depression,Let You Down,Perception,NF,6mrKP2jyIQmM0rw6fQryjr,2017-10-06,1,212120,0.659,0.33,0.716,0.0,0.173,0.437,-5.673,0.111,148.015,5,4
+Depression,Let Go - Acoustic,Same Kind Of Different (Acoustic),Dean Lewis,2CzlEB0iyo9sTny0tWFYCT,2017-11-17,0,165729,0.547,0.912,0.232,0.0,0.074,0.467,-11.838,0.0462,77.42,10,3
+Depression,Someone You Loved,Breach,Lewis Capaldi,2TIlqbIneP0ZY1O0EzYLlc,2018-11-08,74,182160,0.501,0.751,0.405,0.0,0.105,0.446,-5.679,0.0319,109.891,1,4
+Depression,Chasing Cars,Eyes Open (International Package with bonus live tracks),Snow Patrol,0x6Y6ikSyS17NxfhWsgENm,2006-01-01,0,267960,0.56,0.199,0.595,6.47e-05,0.132,0.144,-4.53,0.0274,104.011,9,4
+Depression,Idgaf,Still Lost,Sik World,3Y6L3oiUydJIGsmk5zHlDO,2017-12-11,57,231857,0.789,0.38,0.652,1.57e-06,0.091,0.0775,-9.734,0.219,139.981,4,4
+Depression,Reflection,Still Lost,Sik World,3AaHVL2PTTN8AAbA48WMo8,2017-12-11,54,222979,0.802,0.539,0.566,4.09e-06,0.134,0.153,-9.816,0.145,140.099,11,4
+Depression,No One Knows,When Stars Align,Sik World,2ujHInqP3YZ1EZF2THczet,2019-09-06,55,235022,0.789,0.28,0.656,0.0,0.179,0.0593,-8.559,0.108,141.996,9,4
+Depression,Several Years,Several Years,Sik World,0LU50yzJZP9Aks5isnBYA4,2020-09-23,47,185812,0.902,0.258,0.435,2.18e-05,0.119,0.256,-8.563,0.0899,123.993,2,4
+Depression,Toxic,When Stars Align,Sik World,5NBEl27iFyBfDiXMdxlnNb,2019-09-06,36,146865,0.792,0.606,0.523,0.0,0.168,0.528,-7.596,0.0587,133.979,5,4
+Depression,Highs & Lows,When Stars Align,Sik World,46NN4E4dQpUD2dLHGgGsgy,2019-09-06,39,254769,0.784,0.198,0.609,2.04e-05,0.113,0.746,-9.126,0.0569,130.0,6,4
+Depression,Moment of Silence,Torn Between Pages,Lucidious,0XBf3lA3mUwWmDk5bUOiZh,2016-09-13,55,349384,0.634,0.392,0.597,7.43e-05,0.0986,0.0363,-10.179,0.198,129.607,4,4
+Depression,Patient,Patient,Sarah Meow,6mfwLVY5tLV6bC6nXJWIl4,2019-05-06,0,123749,0.548,0.709,0.31,0.751,0.185,0.135,-10.903,0.0378,80.886,1,4
+Depression,Alone,Alone,SadBoyProlific,6tAqYm2Wcy2yrPixShJMS6,2018-11-10,5,160104,0.87,0.481,0.341,0.0027,0.329,0.436,-14.15,0.439,119.054,9,4
+Depression,Mistakes & Heartbreaks,Mistakes & Heartbreaks,Jan Metternich,0tUvPAQopgxsLbLddLQjIH,2020-04-24,43,192026,0.699,0.75,0.256,0.00136,0.105,0.588,-18.752,0.0327,135.023,2,4
+Depression,Wonder If You Wonder,Dreaming With Our Eyes Open,Witt Lowry,2fnwiUU3LEvEy7xByzzaDV,2015-09-25,52,235264,0.552,0.553,0.689,0.0,0.105,0.665,-9.218,0.306,95.03,8,4
+Depression,Fake Smiles,With Love,Phora,4H6uJnjhyjxDw1F4jR8irF,2016-10-11,0,207201,0.461,0.15,0.612,0.0,0.086,0.0374,-8.645,0.522,168.504,8,3
+Depression,I'm Not Enough and I'm Sorry,I'm Not Enough and I'm Sorry,Teqkoi,4P1L6AniTDJzANaubzWGYs,2018-10-27,65,120000,0.698,0.462,0.183,0.000424,0.335,0.244,-20.188,0.299,143.96,8,4
+Depression,So Alone,So Alone,Sik World,1BZRU1HxYxJD0NFBrGk3C3,2014-11-25,46,237346,0.895,0.199,0.546,0.0,0.13,0.249,-9.242,0.0629,120.076,2,4
+Depression,Tear Me Apart,Still Lost,Sik World,1d648Lemp74K5lEf7pbwJE,2017-12-11,48,208303,0.662,0.391,0.446,0.000121,0.0978,0.207,-10.813,0.276,140.194,7,4
+Depression,Jocelyn Flores,17,XXXTENTACION,7m9OqQk4RVRkw9JJdeAw96,2017-08-25,85,119133,0.872,0.469,0.391,4.13e-06,0.297,0.437,-9.144,0.242,134.021,0,4
+Depression,Before You Go,Before You Go,Lewis Capaldi,7ce20yLkzuXXLUhzIDoZih,2019-11-19,75,215106,0.459,0.604,0.575,0.0,0.0885,0.183,-4.858,0.0573,111.881,3,4
+Depression,Wrong Direction,Wrong Direction,Hailee Steinfeld,7GCVboEDzfL3NKp1NrAgHR,2020-01-01,0,248986,0.378,0.472,0.388,0.0,0.157,0.188,-9.017,0.036,72.293,10,4
+Depression,i thought about taking my life last night,i gave you everything i had.,eli.,0AqWGyMqgUxpbyzNUaWy9a,2020-11-13,36,134505,0.664,0.0509,0.637,0.0,0.32,0.227,-7.048,0.141,182.084,7,4
+Depression,You Are The Reason,You Are The Reason,Calum Scott,2d3NAGCKudIYpTlRI6BI0s,2017-11-17,0,204326,0.363,0.908,0.233,0.0,0.134,0.246,-7.697,0.0299,171.767,10,3
+Depression,Bruises,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,4Of7rzpRpV1mWRbhp5rAqG,2019-05-17,80,220492,0.736,0.946,0.308,0.0,0.186,0.361,-7.83,0.0677,111.202,4,4
+Depression,Years,Down Low,Astrid S,5WEAZtjEufELtaxqYcqCJg,2019-09-26,55,190267,0.664,0.855,0.285,0.0,0.0952,0.256,-7.907,0.0342,124.148,9,4
+Depression,Memories,Memories,Jacob Tillberg,5l2GIiGkjbcuSIhCV08Zhj,2019-08-10,48,185425,0.57,0.703,0.671,0.000423,0.106,0.233,-8.421,0.0452,144.108,7,3
+Depression,Nightstand,Nightstand,YNG Martyr,3Oug88Ku2EmAgTrc9fdsKB,2020-11-06,38,117073,0.722,0.0162,0.583,2.28e-06,0.104,0.154,-4.348,0.0816,81.953,9,4
+Depression,Waves - Guitar Acoustic,Waves (Guitar Acoustic),Dean Lewis,0SUih4u16BlTsIDyB7J0SU,2017-06-23,48,248427,0.412,0.935,0.285,0.0,0.11,0.377,-9.918,0.0444,151.739,11,4
+Depression,Out Of Love,The Pains Of Growing,Alessia Cara,4WzhjxvLP95y7AMDy0Atwb,2018-11-30,74,227693,0.481,0.8,0.267,0.0,0.249,0.137,-9.249,0.0339,117.64,7,3
+Depression,Time - Edit,Time,NF,68Vm2W4oURsPV3121vUZgB,2019-07-12,58,230610,0.665,0.128,0.703,0.0,0.115,0.257,-3.885,0.07,97.968,8,4
+Depression,One,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,5C1TucCRf4Vjjree1OItyv,2019-05-17,66,179907,0.708,0.834,0.339,0.0,0.128,0.512,-7.085,0.0409,117.995,9,4
+Depression,Serotonin,Serotonin,Crisaunt,1FvHXsDDgShBgDsrLjFsLE,2020-10-30,34,157057,0.705,0.0305,0.509,0.00489,0.0543,0.567,-11.126,0.0679,179.198,8,4
+Depression,I Miss The Days,The Search,NF,3ebfDw8WEbf0DxGh47R2lo,2019-07-26,67,269184,0.719,0.345,0.768,0.0,0.104,0.0979,-5.658,0.19,137.887,11,4
+Depression,when the party's over,when the party's over,Billie Eilish,14JzyD6FlBD5z0wV5P07YI,2018-10-17,0,199931,0.498,0.979,0.104,7.86e-05,0.0895,0.205,-14.08,0.0621,124.001,1,3
+Depression,Mystery,Mystery,Jeris,0nZ5Vx48UcSXpY2wLSTP4Z,2016-09-03,40,275133,0.371,0.263,0.437,8.78e-05,0.0776,0.108,-9.638,0.0428,125.937,0,4
+Depression,How Could You Leave Us,Therapy Session,NF,10bt2wAkFgCWRCEOyAyWT9,2016-04-22,68,322586,0.536,0.513,0.708,0.0,0.0951,0.09,-7.882,0.758,78.33,6,4
+Depression,Robin Hood,Robin Hood,Anson Seabra,5dyihZecYMcEPq09Bk2OL2,2018-09-21,65,221538,0.731,0.952,0.153,0.0,0.134,0.324,-14.409,0.0562,78.072,4,4
+Depression,Lost,Lost - EP,Ollie,3vzbNQi4mQ9tmvroysU2f3,2019-03-06,55,219580,0.801,0.248,0.545,0.0,0.136,0.269,-6.686,0.0888,129.966,3,4
+Depression,Hate Myself,The Search,NF,5PdEiev2BkKiZtZFcNKjfM,2019-07-26,71,260253,0.533,0.234,0.84,0.0,0.114,0.361,-5.283,0.167,116.882,9,4
+Depression,Just Hold On,Just Hold On,Presence,65o0SMVWuHgWfFykilVR1W,2019-09-27,11,203307,0.678,0.553,0.629,3.02e-05,0.117,0.186,-7.508,0.0712,130.007,11,4
+Depression,Dead and Cold,Dead and Cold,SadBoyProlific,1A43TfohQt3H6K5zg28ExD,2018-11-10,5,89652,0.793,0.867,0.441,0.0,0.111,0.753,-10.297,0.579,74.746,2,4
+Depression,you were good to me,brent,Jeremy Zucker,4CxFN5zON70B3VOPBYbd6P,2019-05-03,77,219146,0.561,0.913,0.0848,2.62e-05,0.112,0.206,-15.099,0.0404,102.128,2,4
+Depression,Half A Man,A Place We Knew,Dean Lewis,1ugQtcwmKOXvKAYzhjncmv,2019-03-22,77,179120,0.507,0.855,0.204,0.0,0.143,0.343,-11.575,0.0504,77.765,0,4
+Depression,If You Want Love,Perception,NF,3i5qVV8azKqGFK4Gzdt5YS,2017-10-06,76,199386,0.551,0.659,0.386,0.0,0.125,0.245,-10.22,0.132,116.409,0,1
+Depression,Without You,DONNIFER,Digress,5HaCWspes4VazjyFxDkDaM,2020-10-07,0,182543,0.695,0.651,0.622,0.0,0.139,0.534,-5.895,0.0837,100.054,7,4
+Depression,I Miss You,Low Fidelity,PFV,7JLdESAvajcphll9ZOsV6C,2020-11-20,16,166000,0.813,0.715,0.415,0.0,0.0979,0.382,-12.11,0.141,131.075,5,4
+Depression,everything been different lately,everything been different lately,ELLIPSIS.,6FoWpVSecHxCdmi3DanKVz,2020-07-16,34,175995,0.477,0.415,0.395,0.682,0.104,0.0635,-12.841,0.0422,90.116,10,4
+Depression,Neutral,Neutral,Restless Modern,09C7JzvwGCyddrV3Htn50Y,2020-11-04,0,160449,0.527,0.654,0.465,0.0,0.1,0.504,-6.04,0.422,87.079,11,4
+Depression,Save Me,Save Me,PTM,6877fx1qZoXSCW4l8f8QRa,2018-03-28,0,236000,0.581,0.0302,0.491,0.0,0.136,0.181,-8.523,0.229,150.061,0,4
+Depression,Messages,Messages,Miles Casper,42JWcg5XGT3lwRq8kmk3BN,2020-08-28,22,186627,0.661,0.208,0.717,0.0,0.101,0.678,-3.957,0.0313,80.003,0,4
+Depression,16 Lines,"Come Over When You're Sober, Pt. 2",Lil Peep,6akBF8JWM8lrpqejdwIfYI,2018-11-09,69,244906,0.607,0.0663,0.45,1.12e-05,0.107,0.121,-8.507,0.0338,105.992,0,4
+Depression,Lovemark,Loners Diary,Ouse,5AB8TKffBAzI5uhFiTXSfg,2018-12-19,0,219482,0.808,0.132,0.331,0.0,0.225,0.329,-13.457,0.0557,140.03,5,4
+Depression,Escape,Escape,Seon,10mwSL7dqcrekSoo8D4XtM,2020-09-28,0,210989,0.664,0.513,0.466,0.0,0.0628,0.43,-6.788,0.27,181.944,2,4
+Depression,Endless Nightmare,Chaos,Josh A,2CHuu85IjdomB4wPkDwoZp,2018-02-18,59,151308,0.728,0.00716,0.573,0.0,0.164,0.315,-8.388,0.0347,139.947,6,4
+Depression,Say Something,Say Something,Go-Jo,0qLlDD8hY2J66cNhIe4B8Z,2020-09-25,33,161641,0.688,0.0498,0.537,0.0,0.123,0.472,-9.888,0.0327,133.994,6,4
+Depression,Heartbreak,Heartbreak & Bad Habits,SadBoyProlific,32ba0Jf4FfjK5mZOy0Mctq,2018-11-23,3,205740,0.862,0.502,0.357,4.78e-05,0.0955,0.519,-20.128,0.306,140.026,5,4
+Depression,push everyone away,push everyone away,jherz,27twJKEJv4z4qpzAbwY56m,2019-12-05,0,110341,0.541,0.594,0.498,0.000417,0.0957,0.17,-11.138,0.029,148.012,8,4
+Depression,You've Changed,You've Changed,Ollie,2YMtKGTaTuuB0ThQ9QFyrc,2017-01-02,46,234076,0.515,0.401,0.655,0.00126,0.13,0.364,-9.021,0.389,119.948,9,4
+Depression,Save Me,Save Me,Josh A,72NaN3RE7AmrADLlqK194m,2019-09-14,36,181168,0.687,0.142,0.525,4.31e-05,0.117,0.389,-8.468,0.0738,77.02,5,4
+Depression,Sunflower Feelings,Sunflower Feelings,Kuzu Mellow,5bCM68q8X5OS9sajTWaifU,2017-12-14,0,88685,0.816,0.806,0.441,6.67e-06,0.125,0.592,-15.068,0.0826,130.042,0,4
+Depression,Not Enough,Not Enough,SadBoyProlific,7CcPttAk27UP2iR21ofxi4,2019-01-27,2,108120,0.834,0.917,0.368,0.0,0.099,0.454,-9.177,0.132,90.983,11,4
+Depression,What It Feels to Feel Blue,What It Feels to Feel Blue,Oddsaul,1djwxXWh8zjd6HCof0u1X2,2017-09-13,0,151000,0.528,0.892,0.404,0.0,0.0747,0.145,-8.412,0.299,110.143,1,4
+Depression,Mansion,Mansion,NF,3nKRYKbGxhzv4BbwlLOcWU,2015-03-31,65,323266,0.446,0.567,0.84,0.0,0.0967,0.433,-4.539,0.313,150.686,10,4
+Depression,Bad Habits,Heartbreak & Bad Habits,SadBoyProlific,4G9kNnIG1z65Y6EIrJ6WXG,2018-11-23,2,184137,0.455,0.243,0.559,0.000134,0.115,0.207,-11.35,0.41,167.82,1,4
+Depression,Broken,Broken,Lund,2BmCen4Ww7ps0EBbobxWsH,2016-10-25,0,200627,0.828,0.0423,0.581,0.000903,0.109,0.145,-2.659,0.0429,133.999,0,4
+Depression,Low,Low,Lund,46za9pKXWkesH9DCrBbtNU,2018-04-28,0,233962,0.746,0.689,0.438,0.103,0.126,0.042,-7.016,0.0326,119.991,4,4
+Depression,Me and You,More Than Music,Ollie,3iJEtmYCQHeUv0hQgHEPTN,2017-10-27,39,232851,0.771,0.564,0.464,0.0,0.111,0.305,-12.335,0.163,100.083,3,4
+Depression,Worried,Natsukashii,SadBoyProlific,7J0aVprIHC5OHCYLYYZKOC,2018-12-24,2,122070,0.479,0.965,0.278,2.11e-05,0.104,0.663,-15.61,0.399,175.192,0,5
+Depression,Lie,Perception,NF,07FkzikE6FuHIa8Ma7zJGc,2017-10-06,76,209213,0.513,0.161,0.661,0.0,0.246,0.179,-6.419,0.24,94.791,5,4
+Depression,It's Not Me It's You,Lost - EP,Ollie,5jhwDKJGsmVsaqQjt0pi7H,2019-03-06,29,188385,0.73,0.0481,0.578,0.0,0.0744,0.5,-7.663,0.266,90.173,9,4
+Depression,Blow My Phone Up,Blow My Phone Up,SadBoyProlific,2sYIV6KBonwGhNlHSnMClb,2018-11-10,45,133407,0.786,0.843,0.34,0.0,0.106,0.294,-13.642,0.452,73.998,8,3
+Depression,World Without You,Sincerely Adolescence,Blai$y,0Qj2Mf1p69Brx9GVFNRnIT,2017-10-12,18,106695,0.703,0.645,0.34,0.0071,0.106,0.0992,-14.309,0.209,107.943,7,4
+Depression,Novocaine,Another Memory,DempseyRollBoy,7v6heKHKAa98BEVyn4x8sr,2019-08-16,0,149670,0.622,0.0239,0.794,0.0,0.171,0.309,-8.491,0.562,182.019,11,4
+Depression,21 Sadness,4THEHOMIES,mike.,2WWz6bkIauK3vnjS0KKn4u,2018-11-12,48,155791,0.768,0.188,0.411,0.0,0.108,0.384,-12.181,0.0414,94.032,9,4
+Depression,Monday Mourning,Monday Mourning,Drex Carter,10V96IBSJJjZPAS4fcKEmn,2018-05-14,56,120000,0.767,0.595,0.537,0.0,0.0862,0.632,-7.783,0.116,87.497,5,4
+Depression,Can't Love Myself,Can't Love Myself,Monty Datta,0MO1qNhm8aRZchi8CJlIRo,2018-02-16,70,122723,0.541,0.913,0.0836,0.00199,0.126,0.452,-12.663,0.313,181.032,1,4
+Depression,WHY AM I Waiting,Thbk,Papithbk,47QVAwFA8lGN4xRpT2ireK,2018-10-24,2,95555,0.861,0.274,0.398,0.0,0.27,0.248,-10.159,0.362,126.197,5,4
+Depression,I Watched Her Leave,The Great Forest,Alrahim Wright III,3gRIWJ9q4ZmuWILpyCKl8g,2019-07-06,2,176587,0.478,0.322,0.484,0.0,0.515,0.434,-12.221,0.572,81.383,2,4
+Depression,Feel Something,Feel Something,Thomas Reid,69ePYRzwQIVynhGb2R0GAm,2020-02-20,47,86709,0.518,0.633,0.623,0.0,0.103,0.236,-8.936,0.424,81.99,9,4
+Depression,,,Various Artists,3ixmmYXzsJgiY6hP81LQr0,0000,0,0,0.659,0.921,0.349,0.0,0.13,0.121,-12.922,0.0801,103.824,1,4
+Depression,Lucid,Lucid,Thomas Reid,3Tl3DgI4HMQlQ4VqS8kG3H,2020-10-16,34,126111,0.785,0.282,0.679,0.0,0.271,0.652,-7.725,0.201,107.976,9,4
+Depression,,,Various Artists,4LPWmiQA26WWIN6KK0dqmR,0000,0,0,0.667,0.515,0.468,0.0,0.115,0.392,-8.158,0.0397,124.945,2,4
+Depression,Midnight Thoughts,Midnight Thoughts,SadBoyProlific,19NEYj0nF2FHMr9X2HYxQd,2018-11-27,10,124891,0.703,0.416,0.39,0.0,0.178,0.624,-16.091,0.454,79.884,2,4
+Depression,People Change,People Change,Kodie Osborne,3tQXcgANtsWFikbevMflJy,2018-09-10,52,112000,0.693,0.71,0.402,2.11e-06,0.368,0.373,-12.591,0.414,118.796,9,4
+Depression,Carry On,17,XXXTENTACION,2yZax79pOrYuyIFVW2cZY2,2017-08-25,75,129720,0.735,0.768,0.197,0.000276,0.296,0.383,-13.378,0.537,147.899,3,4
+Depression,Forever,Forever,ilyTOMMY,7uHRKSQ9WIlBBuBY7BHcbq,2019-03-08,71,108695,0.613,0.678,0.339,0.0,0.166,0.292,-14.908,0.135,106.582,5,5
+Depression,Hopeless,Hopeless,SadBoyProlific,4g961nx81RWUkg61J6UuG9,2019-03-28,47,155141,0.752,0.298,0.613,0.0,0.259,0.72,-6.721,0.224,85.903,11,4
+Depression,I Don't Trust Nobody,I Don't Trust Nobody,cucu,4vxkeaDlicwTlHHKKNm12r,2017-11-05,4,72306,0.633,0.865,0.175,0.0677,0.496,0.58,-21.062,0.325,94.451,7,4
+Depression,Closing My Eyes,The Whize Tapes Vol. 1,Alrahim Wright III,1h2djHkQtm3Ye6gFaAtubo,2019-05-22,0,118595,0.838,0.598,0.226,5.3e-05,0.114,0.462,-16.015,0.329,133.95,0,4
+Depression,Hard It All Can Be,Thbk,Papithbk,5i39NJJWWybV0vMPiY1NwW,2018-10-24,2,104855,0.708,0.294,0.595,0.0,0.42,0.514,-7.38,0.45,82.891,11,4
+Depression,Sad Nibba Hours,EP,Papithbk,2TfoabXa0CbEwcqpxOn9z3,2019-05-20,63,150702,0.745,0.322,0.664,0.0,0.851,0.526,-5.476,0.235,121.083,11,5
+Depression,Save My Soul,Natsukashii,SadBoyProlific,1Xifn3lhn8hkseR4ydwurn,2018-12-24,2,84584,0.786,0.315,0.382,0.0,0.208,0.77,-11.585,0.36,89.776,10,4
+Depression,Losing Intrest,Thbk,Papithbk,2Wf33QOw0gJOBAN3Ir1nUp,2018-10-24,2,93231,0.822,0.618,0.328,0.0,0.174,0.549,-15.164,0.43,134.018,10,4
+Depression,Looking at Life,Sincerely Adolescence,Blai$y,5KKIQZXiQBMRSbrtvtcVKA,2017-10-12,13,144421,0.763,0.675,0.293,1.56e-05,0.184,0.385,-15.393,0.357,94.122,4,4
+Depression,not alone,not alone,sadeyes,136K7vs8qhkpWfKmculLG3,2018-11-11,53,173557,0.661,0.439,0.498,0.00147,0.398,0.385,-7.187,0.0369,80.019,0,4
+Depression,Lonely Nights,Thbk,Papithbk,1jalInFfEKdS2wIipwAUKs,2018-10-24,0,137482,0.791,0.118,0.675,0.0,0.115,0.345,-7.083,0.451,100.126,2,4
+Depression,Pain,Pain,SadBoyProlific,4uwAYsCRwsogc8UsCs5tG9,2018-11-30,2,123062,0.735,0.218,0.392,0.0,0.112,0.244,-14.839,0.0839,113.852,5,4
+Depression,Nandina,Nandina,Drex Carter,0AFmxuY039QJ7aNIeAID6N,2018-07-20,53,177000,0.831,0.668,0.458,0.0,0.226,0.618,-10.59,0.238,98.512,7,4
+Depression,Trust Me,Trust Me,HELLSTRVCK,1lZiBN2IGHihxqf0vzqtjP,2019-09-20,0,185385,0.682,0.295,0.517,0.0388,0.104,0.232,-7.378,0.0634,144.998,10,4
+Depression,Paranoid,beerbongs & bentleys,Post Malone,3fpVWegR6YOS1Yk5HSMYIq,2018-04-27,69,221786,0.625,0.038,0.536,2.31e-05,0.167,0.253,-5.428,0.0776,159.914,0,4
+Depression,Depression,Depression,Beowülf,7KcawTxc7mb2ss0FZxxqHb,2018-02-22,0,137691,0.548,0.972,0.171,0.644,0.0928,0.238,-21.345,0.12,140.165,0,4
+Depression,SAD!,?,XXXTENTACION,3ee8Jmje8o58CHK66QrVC2,2018-03-16,84,166605,0.74,0.258,0.613,0.00372,0.123,0.473,-4.88,0.145,75.023,8,4
+Depression,Too Much To Ask For,5-Trak,Fresh,2njCmMVoAS0zZ5nf5bPKsN,2018-11-16,0,100245,0.879,0.132,0.47,0.000376,0.0853,0.428,-8.749,0.0669,105.543,0,4
+Depression,Rip X,Rip X,iamjakehill,0RzAihLqsEg9Qcm4pfPbG2,2018-06-21,31,159326,0.693,0.418,0.434,0.0,0.338,0.685,-9.366,0.193,63.033,1,4
+Depression,I Can't Sleep,"Some Boring, Love Stories",Powfu,25yup6WYnPoITrfzhkBLmt,2018-12-12,62,152500,0.805,0.182,0.479,3.41e-06,0.346,0.363,-9.238,0.363,80.454,6,4
+Depression,Suicidal Thoughts,Better off Dead,Josh A,56TOfxnRzSRbFRw8J6C4IT,2017-10-19,70,181727,0.372,0.217,0.656,0.0,0.418,0.15,-6.086,0.0776,140.171,1,4
+Depression,HURT,HURT,Witt Lowry,4BBwTC4qpcMrU6d438Up1x,2019-01-15,0,260769,0.692,0.317,0.729,0.0,0.293,0.327,-8.261,0.418,129.896,0,4
+Depression,Wish I Was Better,Wish I Was Better,Kina,1kAkUHFb7ryeVkVSRD6Nkj,2020-04-10,65,140571,0.732,0.747,0.304,6.13e-05,0.143,0.185,-13.086,0.111,139.965,0,4
+Depression,Suicide Letter 2,Nightmare Hills,Trick James,31tqdc6hO91Byv18aRLhNE,2017-11-06,56,177606,0.709,0.623,0.604,0.0,0.547,0.584,-9.048,0.405,82.999,4,4
+Depression,i fucked up,LONEWOLF,convolk,7zkLlx4bTeeyUyzs1L7gV4,2018-09-25,2,159149,0.646,0.00925,0.709,0.000308,0.115,0.281,-6.005,0.0381,80.504,5,4
+Depression,Never Be Alright,Never Be Alright,Seon,6zJffE1wHyAu5WwNYwt0VI,2019-01-23,11,168280,0.835,0.625,0.283,3.4e-06,0.102,0.282,-10.121,0.0781,86.983,7,4
+Depression,Imagination,Another Memory,DempseyRollBoy,5xAPJyRkSdjHLNHOEs0GWp,2019-08-16,0,161495,0.887,0.168,0.693,0.0,0.0895,0.257,-11.876,0.0941,106.966,4,4
+Depression,Better Off (Dying),"Come Over When You're Sober, Pt. 1",Lil Peep,1tlrTC3x7viJ1U30oOFGdF,2017-08-15,68,154814,0.521,0.00835,0.766,0.0,0.155,0.196,-4.693,0.0409,74.987,3,4
+Depression,im used to it,im used to it,Powfu,5PqreNOgHtz0JusSoeitaF,2020-04-17,0,175242,0.647,0.752,0.341,0.0,0.102,0.337,-8.51,0.0382,79.072,0,4
+Depression,Love Is More Depressing Than Depression,Love Wounds,prxz,7A0T4eb6jPhhQp3KQis6ww,2017-10-21,31,133276,0.75,0.76,0.227,0.125,0.135,0.416,-16.255,0.236,100.163,0,4
+Depression,Chill Calling,Chill Calling,Fatboibari,2icVMtiC4OalZXYJTnynlu,2018-11-16,55,99474,0.645,0.171,0.272,0.0,0.337,0.358,-17.213,0.343,110.479,8,4
+Depression,Is It Too Late for Me,Is It Too Late for Me,Beowülf,5qbWgH6xs6CUkua6tG2BNP,2018-01-02,1,117002,0.86,0.862,0.302,0.269,0.168,0.935,-19.123,0.148,113.987,1,4
+Depression,Say Goodbye,Say Goodbye,Monty Datta,3xNIVmBIe839tAsoGe3A4b,2019-06-19,67,150415,0.706,0.468,0.297,0.0,0.0725,0.123,-13.652,0.132,104.049,3,4
+Depression,Broken Down,Maybe This Was Supposed To Happen,Ollie,4rvB7ztrX4I8Ca9XTqIzD2,2020-04-17,44,205170,0.707,0.743,0.461,0.0,0.0986,0.361,-10.5,0.453,80.272,5,4
+Depression,"...And To Those I Love, Thanks For Sticking Around",STOP STARING AT THE SHADOWS,$uicideboy$,41LhQUkElADQ5YUbpYv2D0,2020-02-14,1,168489,0.792,0.13,0.512,8.82e-05,0.14,0.11,-6.875,0.0408,113.978,2,4
+Depression,She Wonders Why,She Wonders Why,Astrus*,0I3Lzmf3JDIOyFLcrruRjO,2018-02-07,3,131201,0.671,0.468,0.288,0.0,0.139,0.42,-14.176,0.496,68.287,1,5
+Depression,Haunted,Haunted,Zimm,6ph1Q5pONWARCiSX8Ua6JE,2017-09-03,49,176067,0.708,0.407,0.594,0.0,0.139,0.306,-8.283,0.0745,109.922,4,4
+Depression,boots,boots,Le Play,2nfQxL7hzZXUZCmzXXEVqJ,2020-05-15,42,126545,0.738,0.0685,0.412,0.0,0.136,0.393,-9.989,0.299,109.939,5,4
+Depression,BURN,BURN,LIL DUSTY G,3jNmig8j1tlvXWL37UQDMz,2017-12-21,44,206649,0.715,0.747,0.689,0.0,0.112,0.365,-6.035,0.169,122.012,1,4
+Depression,I Know You So Well,I Know You So Well,Ondi Vil,1j1grC3HUOkKTQ8gqK8wKg,2018-02-12,3,175522,0.649,0.873,0.213,0.765,0.104,0.0957,-12.285,0.0731,133.985,7,4
+Depression,Paralyzed,Mansion,NF,5DHQKZCOZhGNTbYBCekWx0,2015-03-31,73,270453,0.51,0.214,0.643,3.22e-06,0.101,0.0397,-6.602,0.0485,130.081,0,4
+Depression,When Have I Fallen,When Have I Fallen,Kochetkovv,1g9pNxvJYOSUIeXYhaOFTr,2019-01-19,0,123876,0.711,0.864,0.111,0.925,0.121,0.273,-19.202,0.0696,124.003,11,4
+Depression,Lost,Forgive Me for My Honesty,Ivan B,5hJZFL1Mumu4YGwfoF2xRG,2017-08-25,39,210886,0.439,0.575,0.58,0.0,0.0912,0.405,-10.045,0.405,170.611,9,3
+Depression,Numb,Numb,Wolf,5HqsIJnVMbvNjtyxaV3XcC,2018-08-20,41,215838,0.798,0.682,0.429,0.0,0.329,0.597,-10.494,0.262,90.986,11,4
+Depression,Broken,Broken,Yung City,4EZX5x267YqmYqProQuxyG,2018-10-10,39,154331,0.62,0.0999,0.724,0.0,0.224,0.465,-6.206,0.316,77.949,1,4
+Depression,What Brightside?,"One Day, I'll Be Okay.",dxrrvn,7hTtjZpzDLKdpoKCQStXRs,2020-01-03,37,176793,0.711,0.819,0.622,0.000992,0.326,0.454,-10.476,0.117,106.035,3,4
+Depression,Nobody Cares,Nobody Cares,Kina,4CALLtGlZBwdpfQvMQvhH2,2018-03-05,25,175229,0.657,0.725,0.159,0.73,0.279,0.0833,-15.618,0.0395,100.018,4,4
+Depression,INSECTS,INSECTS,LIL DUSTY G,4nushtVyhmJXKMiHWA0NLH,2019-02-01,58,158346,0.582,0.379,0.397,0.0,0.0759,0.531,-10.582,0.0453,170.031,2,4
+Depression,Broken,Broken,Lund,4W8sUeokQKfHt1uTXp0Jq0,2020-04-17,72,200672,0.83,0.0563,0.583,0.0005,0.109,0.146,-2.052,0.0412,134.0,0,4
+Depression,Stay,Solace,iamjakehill,1GXuVOHHqIUKgfL9szuGTs,2018-04-15,31,185091,0.728,0.811,0.668,0.0,0.117,0.857,-8.386,0.143,82.967,2,4
+Depression,Depression (feat. Young Verse),Depression (feat. Young Verse),Nakuu,1vhNdj120DThwevpJnr4q6,2017-06-29,38,206053,0.761,0.581,0.505,0.0,0.0902,0.407,-12.327,0.264,76.457,6,4
+Depression,It's Not My Fault,It's Not My Fault,Cxldaf,3t74xBwOxCecWSTj0lpKrN,2020-08-07,17,222901,0.831,0.838,0.394,0.000681,0.111,0.0889,-13.494,0.322,139.801,1,4
+Depression,Who I've Become,Who I've Become,Cxldaf,4yX020tKTnmtAwsNouIpl9,2020-07-31,16,165602,0.652,0.808,0.372,1.39e-05,0.124,0.129,-14.199,0.498,138.947,8,4
+Depression,room to breathe,room to breathe,fats'e,3Mr7KgAZdL7XRHWrgt40hA,2018-09-25,47,174242,0.687,0.131,0.645,3.9e-05,0.116,0.249,-7.319,0.0282,134.047,6,4
+Depression,Rest,Rest,Equator,5ZZ2qNQgS5DIUmU7lHZnfS,2020-02-14,0,219375,0.454,0.11,0.582,0.312,0.269,0.0708,-8.911,0.0699,127.829,1,4
+Depression,Heaven Above,Heaven Above,PTM,2lTmfOwj9qGin72nkQtx5O,2019-04-26,0,233132,0.767,0.498,0.716,0.0,0.138,0.44,-2.408,0.0838,85.975,3,4
+Depression,In My Head,In My Head,Ollie,3bFOB3ZrsB41dOP0uTXVy5,2020-09-11,34,143611,0.731,0.807,0.413,0.0,0.113,0.738,-7.863,0.0461,139.891,7,4
+Depression,Gone Like I'm Dying,Gone Like I'm Dying,Seon,6V3OpxM3Pdb3WewGwvM2SE,2020-06-22,0,204460,0.494,0.779,0.331,0.0,0.111,0.575,-9.24,0.0519,108.456,1,4
+Depression,SAME FEELINGS,SAME FEELINGS,lil a-lik,5r5OglITwj3Gc4nrml8npb,2017-09-03,50,154557,0.693,0.288,0.626,0.00441,0.126,0.171,-8.01,0.101,124.722,8,4
+Depression,WHAT WERE YOU THINKING,WHAT WERE YOU THINKING,Cxldaf,0H5mo6JYyKpT1dawByK44x,2020-09-18,12,153145,0.849,0.896,0.427,0.0,0.0879,0.488,-14.757,0.759,90.073,0,4
+Depression,Kill Yourself (Part III),My Liver Will Handle What My Heart Can't,$uicideboy$,5XAPpyIoYF3QXP34Hv8Pvx,2015-09-21,1,145078,0.753,0.324,0.679,4.21e-05,0.423,0.19,-7.092,0.0349,105.977,5,4
+Depression,Text You Back,Text You Back,Presence,4w40Qogh5Ibzpsl9daHS6I,2020-09-18,6,183000,0.553,0.752,0.546,2.64e-06,0.108,0.626,-8.985,0.123,170.053,7,4
+Depression,WRONG,CHRYSALISM,EL GUAPO,2qeUpuOij3PCTEGj0j4bsW,2020-09-25,0,135174,0.742,0.628,0.409,0.0,0.111,0.367,-11.835,0.424,171.979,6,4
+Depression,Bertha,Bertha,Ecvargas,0y2RwJ8bU45Avw8UVjVLsO,2019-07-17,14,149838,0.78,0.429,0.394,0.0,0.19,0.278,-7.268,0.341,84.826,0,4
+Depression,Shadows,Shadows,Anthony Sidoti,6KmD0iJgA4STNbZEc04o1b,2020-09-02,21,176250,0.642,0.0623,0.671,0.0,0.281,0.425,-6.581,0.0281,120.068,4,4
+Depression,life or death,life or death,aftrthght,5TxYnk5bdNdvIoTRJAgqNt,2019-12-27,44,128400,0.836,0.492,0.421,0.0,0.111,0.329,-11.325,0.0893,99.951,0,4
+Depression,When I'm On The Floor,7 HOURS,Cxldaf,6slnFWwkpXclKpNkxeraws,2020-10-30,15,165759,0.831,0.891,0.291,0.0,0.0971,0.727,-11.032,0.491,138.908,1,4
+Depression,Changes,Changes,Samson Ace Miller,0lNNMH0U9Pk7zY5pjXGEK1,2020-07-17,46,132460,0.782,0.663,0.558,0.000932,0.152,0.574,-9.921,0.194,116.137,11,4
+Depression,"i don't know, let it go","when i'm manic, i can't feel a thing",ghxst,5tNszZXC54hXO1VgwiMWOj,2019-10-30,18,264131,0.885,0.17,0.744,0.000223,0.465,0.394,-3.887,0.049,117.916,3,4
+Depression,Heaven Above,Cock Back & SHOOT,PTM,1pGYqrjY1Res3vbw2CEUMH,2019-05-20,0,233132,0.767,0.498,0.716,0.0,0.138,0.44,-2.408,0.0838,85.975,3,4
+Depression,rumors,John,John Phelps,2m6h3qMCzfyNneeYWKhUEB,2020-11-11,12,206628,0.579,0.892,0.371,0.00869,0.327,0.0552,-11.149,0.0282,114.948,1,4
+Depression,Baby You're Worth It,Baby You're Worth It,Kina,6vJ6FR4WtlKSxe8lmh3F1C,2018-06-13,12,130925,0.695,0.685,0.253,0.14,0.105,0.264,-15.884,0.0461,120.033,2,4
+Depression,You Don't Want Me Anymore,You Don't Want Me Anymore,Snøw,0K4gxQ2u3545b0GAu85ObO,2019-05-31,67,165000,0.685,0.367,0.23,0.000971,0.101,0.0417,-12.525,0.0388,96.085,0,4
+Depression,i'm closing my eyes,i'm closing my eyes,potsu,3NsuucK8qXpIJf7KPZX7vq,2017-05-17,68,118302,0.895,0.534,0.109,0.549,0.106,0.546,-13.853,0.0996,134.067,0,4
+Depression,Can We Kiss Forever?,Can We Kiss Forever?,Kina,58wyJLv6yH1La9NIZPl3ne,2018-08-31,77,187931,0.522,0.894,0.128,0.026,0.0941,0.124,-18.717,0.0357,109.986,4,4
+Depression,Are You Still With Him,Are You Still With Him,Kina,4nlry8WISrv04S1E619p3A,2018-05-02,48,193567,0.611,0.922,0.322,0.000818,0.35,0.315,-14.461,0.0367,119.957,2,4
+Depression,changes,?,XXXTENTACION,7AFASza1mXqntmGtbxXprO,2018-03-16,80,121886,0.669,0.883,0.308,0.0,0.0984,0.52,-10.068,0.029,64.934,11,4
+Depression,Life is Beautiful,"Come Over When You're Sober, Pt. 2",Lil Peep,5rYpwP1dHWGVMrSZbTmt3e,2018-11-09,72,207586,0.533,0.0385,0.638,0.000932,0.0758,0.324,-9.411,0.0636,135.056,10,4
+Depression,I Fall Apart,Stoney (Deluxe),Post Malone,75ZvA4QfFiZvzhj2xkaWAh,2016-12-09,80,223346,0.556,0.0689,0.538,0.0,0.196,0.291,-5.408,0.0382,143.95,8,4
+Depression,Wishing Well,Legends Never Die,Juice WRLD,6o3QUC5oAE4g6WxRIFcZtb,2020-07-10,2,194621,0.65,0.00336,0.613,0.0,0.267,0.0804,-6.13,0.128,149.972,9,4
+Depression,Duality,Duality,Presence,5vNBbH938Fna8WdxsxDKOQ,2020-05-22,1,165923,0.692,0.0109,0.752,0.0,0.386,0.457,-6.104,0.0391,129.987,8,4
+Depression,Survive,Survive,Lil Happy Lil Sad,62IJwwGlHV0xomvojq4dEW,2017-09-17,50,153913,0.809,0.812,0.232,0.00227,0.09,0.371,-12.797,0.0495,115.034,9,4
+Depression,Scars on My Heart,Scars on My Heart,Powfu,3UYn4qdsgnQlbOgYiVIyYJ,2018-11-28,57,224000,0.652,0.931,0.483,0.0,0.0959,0.469,-8.92,0.246,78.267,6,4
+Depression,im so sick of this,post death,guccihighwaters,1i9ItiMY9JrFTnqkTlm0n0,2017-08-31,0,234736,0.719,0.891,0.387,0.0,0.114,0.17,-9.38,0.0643,135.064,10,4
+Depression,I Don't Wanna Do This Anymore,Revenge,XXXTENTACION,5de9Ho64dovuQI8Uhn5gPD,2017-05-16,77,87560,0.433,0.843,0.778,0.0,0.139,0.764,-7.681,0.041,114.208,4,4
+Depression,I'm Sorry,508-507-2209,Joyner Lucas,3dqxngWDgh4tb0VSb83nvc,2017-06-16,60,349785,0.746,0.252,0.576,0.0,0.074,0.337,-7.461,0.414,110.2,8,4
+Depression,"ALONE, PART 3",?,XXXTENTACION,2oe6dDthgthqUkfL3czpEd,2018-03-16,68,109986,0.61,0.883,0.258,0.0145,0.103,0.164,-12.758,0.0331,127.08,0,4
+Depression,I Guess You Moved On,I Guess You Moved On,Papithbk,6rX9gAIAqDdXvcpjkEPKyb,2018-10-13,31,72254,0.601,0.315,0.758,0.0,0.076,0.171,-9.4,0.442,95.971,7,4
+Depression,Dark Knight Dummo (Feat. Travis Scott),Dark Knight Dummo (Feat. Travis Scott),Trippie Redd,3YeJXuRSNS5FYwOsDu44kD,2017-12-05,68,256162,0.28,0.167,0.821,0.0,0.139,0.254,-2.864,0.111,181.444,8,3
+Depression,Let Me Die,Let Me Die,Lil Happy Lil Sad,7riw7J5mZsWvf3x1fSEZtS,2017-07-29,0,218775,0.601,0.709,0.499,0.919,0.112,0.383,-11.542,0.0315,78.988,4,4
+Depression,i hate me too,post death,guccihighwaters,78H9IT4mIRoFWBfgdGr1sU,2017-08-31,0,156942,0.719,0.643,0.473,0.00692,0.105,0.304,-10.595,0.0538,130.04,10,4
+Depression,NUMB,?,XXXTENTACION,01TnVDiet1DFTsyWKUKovl,2018-03-16,76,186267,0.414,0.1,0.416,0.179,0.131,0.196,-8.024,0.0251,159.91,11,4
+Depression,anything for your love,post death,guccihighwaters,6hhOcxrMMMUAoUW5j1Bkje,2017-08-31,0,184685,0.814,0.928,0.333,1.23e-06,0.0853,0.18,-11.492,0.0685,134.981,5,4
+Depression,Save Me,17,XXXTENTACION,2UwbhMie1EAYuTZ0QXeMwl,2017-08-25,70,163201,0.731,0.307,0.204,0.0109,0.0989,0.191,-11.314,0.0369,142.141,9,4
+Depression,i thought i died inside,singles,guccihighwaters,4pUzAWwqEBpgt2B5JsMzmC,2017-10-15,2,186480,0.66,0.908,0.383,0.0,0.106,0.173,-9.781,0.0359,129.959,6,4
+Depression,Falling Down - Bonus Track,Falling Down (Bonus Track),Lil Peep,0Dn40gxVCMo5TkgS8Ik18Q,2018-09-19,0,196400,0.669,0.0175,0.574,0.00294,0.146,0.273,-6.442,0.0286,120.013,4,4
+Depression,i am burning,singles,guccihighwaters,1QmRV9gwHujIMkF2MhjpSn,2017-10-15,0,173096,0.697,0.94,0.498,0.000379,0.111,0.273,-6.449,0.0426,140.181,3,4
+Depression,Losin Control,There's Really A Wolf,Russ,4cxMGhkinTocPSVVKWIw0d,2017-05-05,75,237506,0.759,0.515,0.245,0.000154,0.102,0.209,-6.545,0.138,96.992,6,4
+Depression,Scared Of Love,Goodbye & Good Riddance,Juice WRLD,69g6PNgMneFIDOc6q29oUC,2018-05-23,0,170538,0.642,0.032,0.562,0.0,0.168,0.177,-4.869,0.0812,158.001,11,4
+Depression,I'll Get There Too,I'll Get There Too,Presence,3dm66iJ77x43Fr3gI3oxut,2019-12-13,35,208695,0.645,0.189,0.417,0.563,0.102,0.0375,-8.105,0.0456,92.001,8,4
+Depression,emotions,nothings ever good enough,iann dior,5CRXf83hn7NVeWEs7rm63m,2019-04-12,0,131213,0.63,0.0131,0.63,0.0,0.142,0.163,-6.211,0.0395,80.512,9,4
+Depression,Hide (feat. Seezyn),Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Various Artists,6rz0dTA0PdhXImFV5EjM0w,2018-12-14,76,205800,0.715,0.0622,0.639,0.0,0.157,0.151,-5.017,0.0752,149.996,5,4
+Depression,Reborn,KIDS SEE GHOSTS,KIDS SEE GHOSTS,4RVbK6cV0VqWdpCDcx3hiT,2018-06-08,71,324674,0.585,0.339,0.597,0.0404,0.195,0.227,-7.499,0.037,100.051,0,4
+Depression,what are you so afraid of,SKINS,XXXTENTACION,57nOpVSc3j9o03Cr928ZM4,2018-12-07,67,150769,0.639,0.774,0.312,0.469,0.0857,0.347,-9.902,0.0301,103.369,0,4
+Depression,Hurt Me,Goodbye & Good Riddance,Juice WRLD,3XRQT7EoS4U87rUuJwg5P3,2018-12-10,70,122285,0.62,0.128,0.451,0.0,0.373,0.294,-7.623,0.17,156.906,6,4
+Depression,im gonna fade away,singles,guccihighwaters,1DtsjONE51HFBpsjpYhZnG,2017-10-15,0,225441,0.74,0.888,0.566,0.0,0.103,0.372,-5.815,0.0371,132.015,3,4
+Depression,Love Again,Missing,itssvd,24AwtsoqGVqmCyFHpjMEBm,2017-02-12,0,89340,0.643,0.809,0.417,0.0147,0.168,0.355,-10.155,0.186,94.435,4,4
+Depression,Is This the Life I Chose?,The Dark Ages,Aaryan Shah,2P13hDaVsOIvltSsXmZzXs,2020-10-30,54,217173,0.599,0.744,0.332,6.93e-05,0.133,0.184,-9.434,0.0497,93.941,6,4
+Depression,My Side,My Side,Neyomi,0c5gt68cTZE0DkHqS6ASuz,2021-03-19,45,148793,0.642,0.666,0.734,2.02e-06,0.111,0.426,-7.327,0.135,157.99,4,4
