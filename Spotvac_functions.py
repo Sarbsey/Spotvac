@@ -17,7 +17,7 @@ model = keras.models.load_model('./HSM')
 client_id = os.environ['client_ID']
 client_secret = os.environ['client_secret']
 redirect_uri = os.environ['redirect_url']
-username = '22mdb5fhocl2fobpsjbxvvkra'
+username = os.environ['username']
 scope = 'playlist-modify-public'
 
 #Credentials to access the Spotify Music Data

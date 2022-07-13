@@ -11,7 +11,7 @@ load_dotenv()
 client_id = os.environ['client_ID']
 client_secret = os.environ['client_secret']
 redirect_uri = os.environ['redirect_url']
-username = '2bpxvvkrsfob5fjb2mdl2hoca'
+username = os.environ['username']
 
 
 # Get important user data
@@ -57,7 +57,7 @@ for entry in range(len(dataset)):
 preprocessed_dataset.to_csv('prep.csv', index=False)
 
 
-spotvac_playlist_list = create_spotipy_playlists()
+#spotvac_playlist_list = create_spotipy_playlists()
 final = evaluate_stress(preprocessed_dataset)
 #results = pd.concat([results, lsongs_list.loc[2]]).reset_index(drop=True)
 final.to_csv('final.csv')
@@ -70,7 +70,7 @@ final.to_csv('final.csv')
 
 
 #create playlists and upload songs
-upload_songs(final,spotvac_playlist_list)
+#upload_songs(final,spotvac_playlist_list)
 
 print('------------------------------------')
 print('\n')

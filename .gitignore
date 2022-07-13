@@ -1,2 +1,7 @@
 .env
 /venv/
+.cache
+.cache-22mdb5fhocl2fobpsjbxvvkra
+
+final.csv
+prep.csv
